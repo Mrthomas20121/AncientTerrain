@@ -1,0 +1,5065 @@
+[
+	{
+		"block": "minecraft:stick:0",
+		"distrib": "0,0.0;143,0.0;144,0.00109375;145,3.90625E-4;146,8.59375E-4;147,0.0012890626;148,0.0055859373;149,5.46875E-4;150,4.6875E-4;151,2.734375E-4;152,1.171875E-4;153,1.171875E-4;154,2.34375E-4;155,1.171875E-4;156,3.90625E-5;157,3.90625E-5;158,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/garnierite/gabbro:0",
+		"distrib": "0,0.0;19,0.0;20,3.90625E-5;21,1.953125E-4;22,1.171875E-4;23,1.171875E-4;24,7.8125E-5;25,3.90625E-5;26,3.90625E-5;27,7.8125E-5;28,1.171875E-4;29,1.171875E-4;30,2.34375E-4;31,1.5625E-4;32,1.5625E-4;33,1.171875E-4;35,1.171875E-4;36,1.5625E-4;37,1.171875E-4;38,3.125E-4;39,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/garnierite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/tall_fescue_grass:0",
+		"distrib": "0,0.0;143,0.0;144,6.25E-4;145,6.25E-4;146,0.0010546875;147,0.001171875;148,0.001171875;149,7.03125E-4;150,5.859375E-4;151,5.859375E-4;152,5.078125E-4;153,7.8125E-5;154,2.734375E-4;155,2.34375E-4;156,0.0;157,3.90625E-5;158,7.8125E-5;159,7.8125E-5;160,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/rhyolite:0",
+		"distrib": "0,0.0;110,0.0;111,0.06300781;112,0.07714844;113,0.09238281;114,0.13957031;115,0.15289062;116,0.15796874;117,0.16148438;118,0.16464844;119,0.16585937;120,0.16816406;121,0.16980469;122,0.17003906;123,0.17113282;124,0.17226562;125,0.17386718;126,0.1758203;127,0.17785156;128,0.17824219;129,0.17855468;130,0.17824219;131,0.17808594;132,0.17792968;133,0.1775;134,0.1415625;135,0.126875;136,0.1276953;137,0.11246094;138,0.09691406;139,0.048984375;140,0.034375;141,0.027695313;142,0.011328125;143,0.004453125;144,0.0033203126;145,0.0012109375;146,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:4",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"1": 3.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"2": 2.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 4.0E-4,
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 5.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:3",
+				"fortunes": {
+					"0": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"2": 4.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/rhyolite:0",
+				"fortunes": {
+					"0": 2.0075,
+					"1": 1.9865,
+					"2": 1.996,
+					"3": 2.0051
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 5.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/native_gold/gabbro:0",
+		"distrib": "0,0.0;26,0.0;27,3.90625E-5;28,3.90625E-5;29,2.34375E-4;30,3.125E-4;31,5.859375E-4;32,6.640625E-4;33,6.25E-4;34,8.203125E-4;35,9.765625E-4;36,0.00109375;37,0.0015234374;38,0.0017578125;39,0.00140625;40,0.0015625;41,0.00171875;42,0.0015234374;43,0.001796875;44,0.0022265625;45,0.0014453125;46,0.0016015625;47,0.001015625;48,9.765625E-4;49,7.03125E-4;50,8.59375E-4;51,6.640625E-4;52,3.125E-4;53,1.953125E-4;54,3.90625E-5;55,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/native_gold:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:grass/rhyolite:0",
+		"distrib": "0,0.0;142,0.0;143,0.035820313;144,0.014296875;145,0.015195313;146,0.0159375;147,0.043789063;148,0.014296875;149,0.0061328127;150,0.0040234374;151,0.0033203126;152,0.0013671875;153,0.0021875;154,0.001484375;155,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:dirt/rhyolite:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_coal:0",
+		"distrib": "0,0.0;112,0.0;113,3.90625E-5;114,0.0;116,0.0;117,3.90625E-5;118,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:3",
+				"fortunes": {
+					"0": 3.9894,
+					"1": 3.9971,
+					"2": 3.9953,
+					"3": 4.0021
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/reindeer_lichen:0",
+		"distrib": "0,0.0;143,0.0;144,2.34375E-4;145,7.8125E-5;146,0.0;147,7.8125E-5;148,4.6875E-4;149,3.125E-4;150,3.515625E-4;151,1.171875E-4;152,7.8125E-5;153,1.5625E-4;154,3.90625E-5;155,7.8125E-5;156,7.8125E-5;157,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/athyrium_fern:0",
+		"distrib": "0,0.0;147,0.0;148,3.515625E-4;149,7.8125E-5;150,0.0;151,3.90625E-5;152,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/basalt:0",
+		"distrib": "0,0.0;1,0.08179688;2,0.16550781;3,0.25;4,0.25;5,0.24480468;6,0.24480468;7,0.24527344;8,0.24410157;9,0.24429688;10,0.24347657;11,0.243125;12,0.243125;13,0.24339844;14,0.24265625;15,0.24328125;16,0.24253906;17,0.24152344;18,0.24207032;19,0.24117188;20,0.24226563;21,0.24351563;22,0.24449219;23,0.24484375;24,0.24621093;25,0.24671875;26,0.24757813;27,0.24765626;28,0.24824218;29,0.24890625;30,0.24925782;31,0.24953125;32,0.24953125;33,0.24976562;34,0.24984375;35,0.24785157;36,0.24601562;37,0.24445313;38,0.24363281;39,0.24273437;40,0.24238281;41,0.24167968;42,0.24148437;43,0.2415625;44,0.24164063;45,0.241875;46,0.24238281;47,0.24320312;48,0.24394532;49,0.24484375;50,0.2454297;51,0.24589844;52,0.2465625;53,0.24769531;54,0.2473047;55,0.24578124;56,0.17777343;57,0.15925781;58,0.13917969;59,0.0784375;60,0.050625;61,0.03390625;62,0.023945313;63,0.017265625;64,0.01265625;65,0.0075390623;66,0.0040234374;67,0.0033984375;68,0.002109375;69,0.00125;70,7.421875E-4;71,3.90625E-4;72,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:3",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 5.0E-4,
+					"2": 4.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/basalt:0",
+				"fortunes": {
+					"0": 2.0072,
+					"1": 1.9846,
+					"2": 1.9969,
+					"3": 1.9984
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 4.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:2",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"1": 3.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:3",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/sphalerite/marble:0",
+		"distrib": "0,0.0;97,0.0;98,2.734375E-4;99,7.421875E-4;100,0.0014453125;101,0.001484375;102,0.0025390624;103,0.0030859376;104,0.00421875;105,0.0041015623;106,0.0052734376;107,0.0054296874;108,0.0059375;109,0.005234375;110,0.006796875;111,0.0044140625;112,0.003828125;113,0.0037109375;114,3.90625E-4;115,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/sphalerite:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/sphalerite/quartzite:0",
+		"distrib": "0,0.0;74,0.0;75,7.8125E-5;77,7.8125E-5;78,1.171875E-4;79,1.5625E-4;80,3.90625E-5;81,3.90625E-5;82,0.0;106,0.0;107,7.421875E-4;108,9.765625E-4;109,0.002109375;110,0.0021875;111,0.0033203126;112,0.0044140625;113,0.0044140625;114,1.171875E-4;115,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/sphalerite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/small/malachite:0",
+		"distrib": "0,0.0;143,0.0;144,7.8125E-5;145,3.90625E-5;146,0.0;147,3.90625E-5;148,3.125E-4;149,3.90625E-5;150,3.90625E-5;151,7.8125E-5;152,7.8125E-5;153,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/chert:0",
+		"distrib": "0,0.0;110,0.0;111,0.2473047;112,0.246875;113,0.24777344;114,0.24808593;115,0.24882813;116,0.24902344;117,0.24933594;118,0.24980469;119,0.25;125,0.25;126,0.011640625;127,0.011523438;128,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"1": 5.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 4.0E-4,
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:4",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 5.0E-4,
+					"2": 2.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"1": 3.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/chert:0",
+				"fortunes": {
+					"0": 2.0056,
+					"1": 2.0121,
+					"2": 1.9903,
+					"3": 2.0119
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 4.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:4",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"2": 2.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:dirt/gneiss:0",
+		"distrib": "0,0.0;137,0.0;138,0.006328125;139,0.014296875;140,0.027265625;141,0.057421874;142,0.18503906;143,0.186875;144,0.14636719;145,0.14023438;146,0.121679686;147,0.0060546873;148,0.00265625;149,0.0015234374;150,2.34375E-4;151,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/granite:0",
+		"distrib": "0,0.0;1,0.08160156;2,0.16703124;3,0.25;4,0.25;5,0.24808593;6,0.24820313;7,0.2478125;8,0.24796875;9,0.24800782;10,0.24757813;11,0.24773437;12,0.24769531;13,0.24851562;14,0.24789062;15,0.24816406;16,0.24824218;17,0.24871093;18,0.24867187;19,0.24890625;20,0.24953125;21,0.24945313;22,0.24964844;23,0.24960938;24,0.24964844;25,0.24953125;26,0.24910156;27,0.24902344;28,0.24882813;29,0.24902344;30,0.24917969;31,0.24882813;32,0.24910156;33,0.24882813;34,0.24875;35,0.24851562;36,0.24832031;37,0.24878906;38,0.24933594;39,0.24964844;40,0.25;55,0.25;56,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:3",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/granite:0",
+				"fortunes": {
+					"0": 2.0091,
+					"1": 2.0042,
+					"2": 1.9845,
+					"3": 2.0251
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"1": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"1": 3.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 4.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"1": 4.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:2",
+				"fortunes": {
+					"1": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 3.0E-4,
+					"2": 2.0E-4,
+					"3": 6.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 6.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 4.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:3",
+				"fortunes": {
+					"1": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"2": 2.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/hematite/basalt:0",
+		"distrib": "0,0.0;11,0.0;12,3.90625E-5;13,3.90625E-5;14,1.171875E-4;15,1.5625E-4;16,4.6875E-4;17,2.734375E-4;18,1.953125E-4;19,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/hematite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "mekanism:oreblock:0",
+		"distrib": "0,0.0;133,0.0;134,3.90625E-5;135,7.8125E-5;136,3.90625E-5;137,5.46875E-4;138,3.125E-4;139,1.5625E-4;140,5.078125E-4;141,4.296875E-4;142,3.90625E-4;143,8.984375E-4;144,3.515625E-4;145,2.734375E-4;146,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:rock/rhyolite:0",
+		"distrib": "0,0.0;143,0.0;144,7.421875E-4;145,4.6875E-4;146,3.125E-4;147,4.296875E-4;148,0.001484375;149,3.90625E-4;150,1.953125E-4;151,1.171875E-4;152,3.90625E-5;153,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:item_rice_seed:0",
+		"distrib": "0,0.0;143,0.0;144,1.5625E-4;145,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_food:16",
+				"fortunes": {
+					"0": 1.4933,
+					"1": 1.4979,
+					"2": 1.4973,
+					"3": 1.4989
+				}
+			},
+			{
+				"itemStack": "actuallyadditions:item_rice_seed:0",
+				"fortunes": {
+					"0": 1.7001,
+					"1": 2.2966,
+					"2": 2.838,
+					"3": 3.4428
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:sand/gneiss:0",
+		"distrib": "0,0.0;137,0.0;138,0.017382812;139,0.02171875;140,0.023945313;141,0.025585938;142,0.026054688;143,0.026054688;144,0.0055078124;145,0.003828125;146,0.002109375;147,4.6875E-4;148,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:yellow_flower:0",
+		"distrib": "0,0.0;35,0.0;36,1.5625E-4;37,7.8125E-5;38,0.0;39,0.0;40,3.90625E-5;41,0.0;90,0.0;91,3.90625E-5;92,0.0;93,3.90625E-5;94,3.90625E-5;95,0.0;110,0.0;111,3.90625E-5;112,0.0;114,0.0;115,3.90625E-5;116,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:yellow_flower:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:gravel/rhyolite:0",
+		"distrib": "0,0.0;133,0.0;134,0.035898436;135,0.050390624;136,0.050390624;137,0.06277344;138,0.043789063;139,0.07578125;140,0.07296875;141,0.06378906;142,0.034296874;143,0.013046875;144,0.008710938;145,0.006875;146,0.0050390624;147,0.003671875;148,0.001484375;149,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:sand/conglomerate:0",
+		"distrib": "0,0.0;125,0.0;126,0.09769531;127,0.09828125;128,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/conglomerate:0",
+		"distrib": "0,0.0;110,0.0;111,0.1009375;112,0.100859374;113,0.10089844;114,0.100976564;121,0.100976564;122,0.09984375;123,0.09769531;124,0.09769531;125,0.09925781;126,0.00265625;127,0.002421875;128,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 5.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:3",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"1": 3.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 4.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 3.0E-4,
+					"3": 5.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/conglomerate:0",
+				"fortunes": {
+					"0": 2.0072,
+					"1": 1.9992,
+					"2": 2.0023,
+					"3": 1.9995
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 8.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 8.0E-4,
+					"2": 2.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:2",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/licorice_fern:0",
+		"distrib": "0,0.0;145,0.0;146,3.90625E-5;147,3.90625E-5;148,7.8125E-5;149,1.171875E-4;150,7.8125E-5;151,3.90625E-5;152,7.8125E-5;153,0.0;155,0.0;156,3.90625E-5;157,3.90625E-5;158,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/native_copper/basalt:0",
+		"distrib": "0,0.0;4,0.0;5,0.0051953127;6,0.0051953127;7,0.0047265626;8,0.0058984375;9,0.005703125;10,0.0065234373;11,0.006875;12,0.0068359375;13,0.0065625;14,0.0072265626;15,0.0065625;16,0.006875;17,0.00765625;18,0.006484375;19,0.0068359375;20,0.0066015627;21,0.0057421876;22,0.0053125;23,0.004375;24,0.003359375;25,0.0025390624;26,0.0015625;27,0.00140625;28,7.8125E-4;29,2.734375E-4;30,7.8125E-5;31,0.0;40,0.0;41,7.8125E-5;42,7.8125E-5;43,0.0;44,7.8125E-5;45,0.0;46,7.8125E-5;47,3.90625E-5;48,3.90625E-5;49,1.171875E-4;50,0.0;51,3.90625E-5;52,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/native_copper:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/cinnabar/basalt:0",
+		"distrib": "0,0.0;21,0.0;22,1.953125E-4;23,7.8125E-4;24,4.296875E-4;25,7.421875E-4;26,8.59375E-4;27,9.375E-4;28,9.765625E-4;29,8.203125E-4;30,6.640625E-4;31,4.6875E-4;32,4.6875E-4;33,2.34375E-4;34,1.5625E-4;35,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/cinnabar:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:item_canola_seed:0",
+		"distrib": "0,0.0;147,0.0;148,7.8125E-5;149,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_canola_seed:0",
+				"fortunes": {
+					"0": 1.7118,
+					"1": 2.2917,
+					"2": 2.8623,
+					"3": 3.409
+				}
+			},
+			{
+				"itemStack": "actuallyadditions:item_misc:13",
+				"fortunes": {
+					"0": 2.996,
+					"1": 3.0011,
+					"2": 2.9989,
+					"3": 2.9975
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_diamond:0",
+		"distrib": "0,0.0;37,0.0;38,3.90625E-5;39,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:2",
+				"fortunes": {
+					"0": 3.9922,
+					"1": 4.0314,
+					"2": 4.026,
+					"3": 4.0046
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/marble:0",
+		"distrib": "0,0.0;55,0.0;56,0.3190625;57,0.33714843;58,0.35765624;59,0.41960937;60,0.4460547;61,0.46160156;62,0.47070312;63,0.47273436;64,0.47535157;65,0.47925782;66,0.48257813;67,0.4848828;68,0.48878905;69,0.49195313;70,0.4922656;71,0.4921094;72,0.49265626;73,0.49160156;74,0.49039063;75,0.48945314;76,0.49054688;77,0.48960936;78,0.48714843;79,0.48496094;80,0.48347655;81,0.48417968;82,0.4836328;83,0.48335937;84,0.48265624;85,0.48683593;86,0.4878125;87,0.48628905;88,0.48714843;89,0.48890626;90,0.4875;91,0.48871094;92,0.49007812;93,0.4897656;94,0.48820314;95,0.489375;96,0.48921874;97,0.49027345;98,0.490625;99,0.4888672;100,0.4851953;101,0.48226562;102,0.48066407;103,0.47976562;104,0.4785547;105,0.47960937;106,0.47972655;107,0.48179686;108,0.48371094;109,0.48523438;110,0.48210937;111,0.17234375;112,0.1553125;113,0.13519531;114,0.076601565;115,0.05109375;116,0.036132812;117,0.026757812;118,0.020429688;119,0.0165625;120,0.010859375;121,0.0061328127;122,0.0039453125;123,0.002109375;124,0.00125;125,7.421875E-4;126,3.90625E-4;127,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 4.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:3",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"1": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/marble:0",
+				"fortunes": {
+					"0": 1.9977,
+					"1": 2.0021,
+					"2": 1.9875,
+					"3": 1.9885
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:4",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 5.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 5.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 4.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 4.0E-4,
+					"1": 2.0E-4,
+					"2": 5.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"0": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/native_gold/andesite:0",
+		"distrib": "0,0.0;97,0.0;98,8.203125E-4;99,0.00109375;100,0.0023046874;101,0.0025;102,0.00390625;103,0.00390625;104,0.0051953127;105,0.006484375;106,0.006640625;107,0.007421875;108,0.008007812;109,0.01;110,0.009023437;111,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/native_gold:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/nasturtium:0",
+		"distrib": "0,0.0;147,0.0;148,3.90625E-5;149,3.90625E-5;150,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/gabbro:0",
+		"distrib": "0,0.0;1,0.16867188;2,0.33335936;3,0.5;17,0.5;18,0.4996875;19,0.49921876;20,0.49820313;21,0.49785155;22,0.496875;23,0.49628907;24,0.49664062;25,0.49691406;26,0.49648437;27,0.49695313;28,0.4969922;29,0.4970703;30,0.49652344;31,0.49597657;32,0.49640626;33,0.49671876;34,0.4969922;35,0.49738282;36,0.49589843;37,0.49320313;38,0.4897656;39,0.48859376;40,0.48707032;41,0.4867969;42,0.4873047;43,0.48628905;44,0.4851953;45,0.48527345;46,0.4855469;47,0.48710936;48,0.4880078;49,0.48996094;50,0.49089843;51,0.49230468;52,0.4938672;53,0.49496093;54,0.49507812;55,0.4954297;56,0.19367188;57,0.17742187;58,0.14703125;59,0.01546875;60,0.007421875;61,0.0026171876;62,5.078125E-4;63,1.953125E-4;64,3.515625E-4;65,4.6875E-4;66,3.125E-4;67,3.515625E-4;68,4.296875E-4;69,3.515625E-4;70,2.34375E-4;71,3.515625E-4;72,4.296875E-4;73,1.953125E-4;74,3.90625E-4;75,2.34375E-4;76,3.90625E-4;77,5.46875E-4;78,4.6875E-4;79,1.5625E-4;80,3.90625E-4;81,2.34375E-4;82,3.125E-4;83,4.296875E-4;84,1.5625E-4;85,7.421875E-4;86,5.46875E-4;87,1.5625E-4;88,2.34375E-4;89,3.90625E-4;90,2.34375E-4;91,3.125E-4;92,3.125E-4;93,2.34375E-4;94,3.90625E-4;95,2.34375E-4;96,3.125E-4;97,3.125E-4;98,4.296875E-4;99,3.125E-4;100,3.90625E-4;101,3.125E-4;103,3.125E-4;104,2.734375E-4;105,2.34375E-4;106,3.125E-4;107,3.515625E-4;108,3.515625E-4;109,1.953125E-4;110,3.90625E-4;111,2.34375E-4;112,4.6875E-4;113,5.078125E-4;114,2.734375E-4;115,4.6875E-4;116,3.515625E-4;117,1.953125E-4;118,4.296875E-4;119,3.515625E-4;120,2.734375E-4;121,3.515625E-4;122,3.90625E-4;123,5.46875E-4;124,2.34375E-4;125,2.34375E-4;126,3.90625E-4;127,4.6875E-4;128,1.5625E-4;129,2.34375E-4;130,3.90625E-4;131,2.34375E-4;132,3.125E-4;133,3.125E-4;134,2.34375E-4;135,3.90625E-4;136,3.90625E-4;137,6.25E-4;138,6.25E-4;139,2.34375E-4;140,2.34375E-4;141,5.078125E-4;142,1.5625E-4;143,1.5625E-4;144,4.296875E-4;145,3.90625E-4;146,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/gabbro:0",
+				"fortunes": {
+					"0": 2.0029,
+					"1": 1.9954,
+					"2": 1.998,
+					"3": 2.0038
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:4",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 5.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"0": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:2",
+				"fortunes": {
+					"2": 3.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:item_coffee_seed:0",
+		"distrib": "0,0.0;147,0.0;148,7.8125E-5;149,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_coffee_seed:0",
+				"fortunes": {
+					"0": 1.7126,
+					"1": 2.2789,
+					"2": 2.8707,
+					"3": 3.4376
+				}
+			},
+			{
+				"itemStack": "actuallyadditions:item_coffee_beans:0",
+				"fortunes": {
+					"0": 2.5047,
+					"1": 2.4961,
+					"2": 2.5022,
+					"3": 2.4971
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/morning_glory:0",
+		"distrib": "0,0.0;143,0.0;144,3.515625E-4;145,1.5625E-4;146,6.25E-4;147,3.125E-4;148,2.734375E-4;149,0.0;157,0.0;158,3.90625E-5;159,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:clay_grass/dolomite:0",
+		"distrib": "0,0.0;145,0.0;146,7.8125E-5;147,0.00125;148,0.001796875;149,8.203125E-4;150,3.125E-4;151,3.90625E-5;152,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:clay_ball:0",
+				"fortunes": {
+					"0": 4.0,
+					"1": 4.0,
+					"2": 4.0,
+					"3": 4.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/quartzite:0",
+		"distrib": "0,0.0;55,0.0;56,0.056328125;57,0.072578125;58,0.10296875;59,0.23453125;60,0.24257812;61,0.2471875;62,0.24929687;63,0.24960938;64,0.24902344;65,0.24875;66,0.24898438;67,0.24886718;68,0.24875;69,0.24890625;70,0.24914062;71,0.24890625;72,0.24890625;73,0.249375;74,0.24929687;75,0.24941406;76,0.24859375;77,0.24804688;78,0.24851562;79,0.24867187;80,0.24882813;81,0.24851562;82,0.2490625;83,0.24917969;84,0.24949218;85,0.24886718;86,0.24863282;87,0.24949218;88,0.24949218;89,0.24785157;90,0.24699219;91,0.24585937;92,0.24515624;93,0.24382812;94,0.24289063;95,0.24234375;96,0.24210937;97,0.24203125;98,0.24160156;99,0.24191406;100,0.24175781;101,0.24226563;102,0.2428125;103,0.24371094;104,0.24539062;105,0.24832031;106,0.24925782;107,0.24851562;108,0.24816406;109,0.24738282;110,0.24710937;111,0.18984374;112,0.17226562;113,0.1415625;114,0.015351563;115,0.007421875;116,0.0026171876;117,5.078125E-4;118,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:rock/quartzite:0",
+				"fortunes": {
+					"0": 1.9932,
+					"1": 1.9924,
+					"2": 1.9983,
+					"3": 2.0023
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 5.0E-4,
+					"1": 4.0E-4,
+					"2": 3.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:3",
+				"fortunes": {
+					"1": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:3",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:2",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 4.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 4.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:2",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:3",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:log:0",
+		"distrib": "0,0.0;35,0.0;36,7.8125E-5;37,1.5625E-4;38,1.953125E-4;39,2.34375E-4;40,2.34375E-4;41,4.296875E-4;42,3.515625E-4;43,1.5625E-4;44,3.90625E-5;45,0.0;66,0.0;67,3.90625E-5;71,3.90625E-5;72,0.0;90,0.0;91,3.90625E-5;92,0.0;95,0.0;96,3.90625E-5;97,0.0;101,0.0;102,3.90625E-5;103,3.90625E-5;104,7.8125E-5;105,3.90625E-5;106,3.90625E-5;107,0.0;110,0.0;111,7.8125E-5;112,7.8125E-5;113,1.171875E-4;115,1.171875E-4;116,3.90625E-5;117,1.5625E-4;118,2.34375E-4;119,1.5625E-4;120,3.90625E-5;121,3.90625E-5;122,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/snapdragon_red:0",
+		"distrib": "0,0.0;147,0.0;148,1.5625E-4;149,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:block_black_lotus:0",
+		"distrib": "0,0.0;143,0.0;144,7.8125E-5;145,0.0;147,0.0;148,1.5625E-4;149,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:block_black_lotus:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:sand/phyllite:0",
+		"distrib": "0,0.0;125,0.0;126,0.14800781;127,0.14832032;128,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/scutch_grass:0",
+		"distrib": "0,0.0;143,0.0;144,3.90625E-4;145,5.46875E-4;146,0.0017578125;147,0.0029296875;148,0.014882812;149,8.984375E-4;150,1.171875E-4;151,3.90625E-4;152,3.90625E-5;153,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/foxglove:0",
+		"distrib": "0,0.0;147,0.0;148,1.171875E-4;149,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:wood/leaves/douglas_fir:0",
+		"distrib": "0,0.0;146,0.0;147,0.003671875;148,0.016015625;149,0.028085938;150,0.036484376;151,0.05078125;152,0.073632814;153,0.09800781;154,0.1090625;155,0.098984376;156,0.085234374;157,0.069179684;158,0.057773437;159,0.045429688;160,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:wood/sapling/douglas_fir:0",
+				"fortunes": {
+					"0": 0.0432,
+					"1": 0.052,
+					"2": 0.0571,
+					"3": 0.106
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:rock/dolomite:0",
+		"distrib": "0,0.0;143,0.0;144,8.59375E-4;145,3.515625E-4;146,3.515625E-4;147,2.734375E-4;148,0.00109375;149,8.59375E-4;150,5.078125E-4;151,4.296875E-4;152,1.953125E-4;153,1.5625E-4;154,3.125E-4;155,2.734375E-4;156,1.171875E-4;157,1.5625E-4;158,3.90625E-5;159,1.171875E-4;160,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_iron:0",
+		"distrib": "0,0.0;46,0.0;47,3.90625E-5;48,0.0;100,0.0;101,3.90625E-5;102,3.90625E-5;103,0.0;124,0.0;125,3.90625E-5;126,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:5",
+				"fortunes": {
+					"0": 4.0122,
+					"1": 4.0184,
+					"2": 4.0312,
+					"3": 3.9884
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/phyllite:0",
+		"distrib": "0,0.0;58,0.0;59,3.125E-4;60,7.03125E-4;61,0.001015625;62,0.0013671875;63,0.00171875;110,0.00171875;111,0.14691406;112,0.14746094;113,0.14816406;114,0.14839844;115,0.14871094;116,0.14972657;117,0.149375;118,0.14902344;119,0.14902344;120,0.14890625;121,0.14871094;122,0.14894532;123,0.14914063;124,0.14972657;125,0.1496875;126,0.001640625;127,9.765625E-4;128,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 4.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:4",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"0": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/phyllite:0",
+				"fortunes": {
+					"0": 1.9967,
+					"1": 2.019,
+					"2": 1.9874,
+					"3": 1.9942
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:3",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 4.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:4",
+				"fortunes": {
+					"1": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:grass/gneiss:0",
+		"distrib": "0,0.0;142,0.0;143,0.0072265626;144,0.0034765624;145,0.0071875;146,0.018398438;147,0.11570313;148,0.0035546876;149,0.0011328125;150,0.0012890626;151,2.34375E-4;152,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:dirt/gneiss:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/snapdragon_yellow:0",
+		"distrib": "0,0.0;147,0.0;148,3.90625E-5;149,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:clay/rhyolite:0",
+		"distrib": "0,0.0;144,0.0;145,0.0044140625;146,0.0044140625;147,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:clay_ball:0",
+				"fortunes": {
+					"0": 4.0,
+					"1": 4.0,
+					"2": 4.0,
+					"3": 4.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/andesite:0",
+		"distrib": "0,0.0;55,0.0;56,0.23890625;57,0.23019531;58,0.21945313;59,0.2125;60,0.20988281;61,0.20710938;62,0.21027344;63,0.21289062;64,0.20542969;65,0.20472656;66,0.19320312;67,0.1835547;68,0.17367187;69,0.1640625;70,0.16203125;71,0.16179687;72,0.15121093;73,0.1446875;74,0.14105469;75,0.15042968;76,0.1740625;77,0.1914453;78,0.20902343;79,0.22433594;80,0.23640625;81,0.24304688;82,0.24320312;83,0.24351563;84,0.24402344;85,0.24441406;86,0.24554688;87,0.24757813;88,0.2496875;89,0.25;97,0.25;98,0.24917969;99,0.24890625;100,0.24769531;101,0.2475;102,0.24609375;103,0.24609375;104,0.24480468;105,0.24351563;106,0.24335937;107,0.24257812;108,0.24199219;109,0.24;110,0.24097656;111,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:4",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/andesite:0",
+				"fortunes": {
+					"0": 2.0013,
+					"1": 1.9782,
+					"2": 2.0056,
+					"3": 2.0143
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 4.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 4.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 3.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"0": 4.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 5.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 5.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/porcini:0",
+		"distrib": "0,0.0;144,0.0;145,3.90625E-5;146,7.8125E-5;147,7.8125E-5;148,5.078125E-4;149,0.0;150,3.90625E-5;151,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "tfc:plants/porcini:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:item_flax_seed:0",
+		"distrib": "0,0.0;145,0.0;146,3.90625E-5;147,0.0;148,7.8125E-5;149,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_flax_seed:0",
+				"fortunes": {
+					"0": 1.7032,
+					"1": 2.3014,
+					"2": 2.8866,
+					"3": 3.428
+				}
+			},
+			{
+				"itemStack": "minecraft:string:0",
+				"fortunes": {
+					"0": 3.5187,
+					"1": 3.4915,
+					"2": 3.4797,
+					"3": 3.4872
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/native_silver/gabbro:0",
+		"distrib": "0,0.0;17,0.0;18,3.125E-4;19,7.8125E-4;20,0.0017578125;21,0.001953125;22,0.0030078124;23,0.00359375;24,0.00328125;25,0.003046875;26,0.0034765624;27,0.0029296875;28,0.0028515626;29,0.002578125;30,0.0021875;31,0.001875;32,0.00109375;33,7.03125E-4;34,3.515625E-4;35,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/native_silver:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/ostrich_fern:0",
+		"distrib": "0,0.0;147,0.0;148,1.171875E-4;149,3.90625E-5;150,7.8125E-5;151,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:bedrock:0",
+		"distrib": "0,1.0;1,0.6679297;2,0.33410156;3,0.0;",
+		"silktouch": true,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/dolomite:0",
+		"distrib": "0,0.0;110,0.0;111,0.0025;112,0.0051953127;113,0.0096875;114,0.02375;115,0.03609375;116,0.046015624;117,0.052109376;118,0.055625;119,0.058125;120,0.061640624;121,0.064882815;122,0.06707031;123,0.06863281;124,0.06933594;125,0.06976563;126,0.07042969;127,0.071015626;133,0.071015626;134,0.069726564;135,0.06851563;136,0.06851563;137,0.065820314;138,0.061328124;139,0.047265626;140,0.034609374;141,0.024609376;142,0.01875;143,0.015546875;144,0.013046875;145,0.00953125;146,0.0062890626;147,0.0041015623;148,0.002265625;149,0.00140625;150,8.984375E-4;151,3.90625E-4;152,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 1.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:4",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 4.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 6.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/dolomite:0",
+				"fortunes": {
+					"0": 1.9971,
+					"1": 1.9919,
+					"2": 1.9846,
+					"3": 1.9995
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:4",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:3",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:2",
+				"fortunes": {
+					"0": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"0": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"1": 3.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:4",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_redstone:0",
+		"distrib": "0,0.0;41,0.0;42,3.90625E-5;43,0.0;44,3.90625E-5;45,0.0;123,0.0;124,3.90625E-5;125,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:0",
+				"fortunes": {
+					"0": 3.9939,
+					"1": 3.9806,
+					"2": 4.0091,
+					"3": 3.9933
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:grass/dolomite:0",
+		"distrib": "0,0.0;142,0.0;143,0.0012890626;144,0.0012109375;145,0.0026953125;146,0.0044140625;147,0.0128125;148,0.010859375;149,0.009179687;150,0.005546875;151,0.0033203126;152,0.0025;153,0.003515625;154,0.0032421874;155,0.0021875;156,0.0018359375;157,8.59375E-4;158,5.078125E-4;159,3.515625E-4;160,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:dirt/dolomite:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/bismuthinite/rhyolite:0",
+		"distrib": "0,0.0;127,0.0;128,7.421875E-4;129,4.296875E-4;130,7.421875E-4;131,7.8125E-4;132,5.078125E-4;133,5.078125E-4;134,3.90625E-4;135,5.078125E-4;136,1.953125E-4;137,1.953125E-4;138,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/bismuthinite:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:air:0",
+		"distrib": "0,0.0;15,0.0;16,1.171875E-4;17,5.46875E-4;18,0.00125;19,0.0019921875;20,0.0011328125;21,7.421875E-4;22,0.0;24,0.0;25,1.171875E-4;26,3.515625E-4;27,5.078125E-4;28,5.078125E-4;29,0.0;30,7.421875E-4;31,0.00140625;32,0.0016796875;33,0.0018359375;34,0.00171875;35,0.0015234374;36,0.0025390624;37,0.0055078124;38,0.010039062;39,0.011757812;40,0.014375;41,0.015351563;42,0.016289063;43,0.017109375;44,0.017773438;45,0.018945312;46,0.019296875;47,0.0184375;48,0.016835937;49,0.014023437;50,0.012148437;51,0.009726563;52,0.0072265626;53,0.00484375;54,0.0048828125;55,0.0045703123;56,0.010820312;57,0.02;58,0.0309375;59,0.038203124;60,0.0421875;61,0.046132814;62,0.043789063;63,0.041679688;64,0.050859377;65,0.052890625;66,0.064960934;67,0.072382815;68,0.08015625;69,0.087890625;70,0.08921875;71,0.08980469;72,0.10070313;73,0.107539065;74,0.112578124;75,0.10359375;76,0.08042969;77,0.06355469;78,0.047773436;79,0.03421875;80,0.02265625;81,0.015898438;82,0.015820313;83,0.016796876;84,0.016445313;85,0.013945312;86,0.012382813;87,0.011640625;88,0.010117187;89,0.008515625;90,0.011015625;91,0.011210937;92,0.011484375;93,0.012890625;94,0.015664063;95,0.015585938;96,0.015585938;97,0.015351563;98,0.0153125;99,0.0146484375;100,0.017070312;101,0.019921875;102,0.021054687;103,0.021210937;104,0.019296875;105,0.015273438;106,0.01296875;107,0.010859375;108,0.008632813;109,0.008007812;110,0.0075390623;111,0.00796875;112,0.008867187;113,0.007851562;114,0.009257812;115,0.01171875;116,0.011367188;117,0.010234375;118,0.011757812;119,0.014921875;120,0.014765625;121,0.01375;122,0.01375;123,0.014882812;124,0.014023437;125,0.01203125;126,0.008398438;127,0.0046875;128,0.0021875;129,0.0034375;130,0.003828125;131,0.0027734374;132,0.0040625;133,0.005546875;134,0.00703125;135,0.00828125;136,0.008828125;137,0.00875;138,0.009648438;139,0.009609375;140,0.010273438;141,0.011210937;142,0.013085937;143,0.034296874;144,0.047382813;145,0.07023437;146,0.0928125;147,0.12476563;148,0.24925782;149,0.2973828;150,0.27816406;151,0.25285158;152,0.2571875;153,0.26167968;154,0.26707032;155,0.29109374;156,0.30855468;157,0.32828125;158,0.34289062;159,0.3573828;160,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/tropical_milkweed:0",
+		"distrib": "0,0.0;147,0.0;148,1.171875E-4;149,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:leaves:0",
+		"distrib": "0,0.0;37,0.0;38,7.421875E-4;39,0.0024609375;40,0.0023828126;41,0.0031640625;42,0.002578125;43,0.0025390624;44,0.0026953125;45,0.0020703124;46,9.765625E-4;47,1.5625E-4;48,0.0;69,0.0;70,7.8125E-5;71,1.5625E-4;72,1.5625E-4;73,7.8125E-5;74,0.0;90,0.0;91,4.296875E-4;92,1.953125E-4;93,0.0;95,0.0;96,5.46875E-4;97,2.734375E-4;98,3.90625E-5;99,0.0;103,0.0;104,4.296875E-4;105,7.03125E-4;106,7.03125E-4;107,5.859375E-4;108,5.078125E-4;109,1.171875E-4;110,0.0;112,0.0;113,0.0015625;114,0.00140625;115,4.296875E-4;116,7.03125E-4;117,0.001640625;118,0.0017578125;119,0.0016015625;120,0.0021875;121,0.0016796875;122,8.984375E-4;123,6.25E-4;124,1.5625E-4;125,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:apple:0",
+				"fortunes": {
+					"0": 0.0056,
+					"1": 0.0059,
+					"2": 0.0069,
+					"3": 0.0097
+				}
+			},
+			{
+				"itemStack": "minecraft:sapling:0",
+				"fortunes": {
+					"0": 0.0498,
+					"1": 0.0595,
+					"2": 0.0849,
+					"3": 0.0995
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/cassiterite/granite:0",
+		"distrib": "0,0.0;4,0.0;5,0.0019140625;6,0.001796875;7,0.0021875;8,0.00203125;9,0.0019921875;10,0.002421875;11,0.002265625;12,0.0023046874;13,0.001484375;14,0.002109375;15,0.0018359375;16,0.0017578125;17,0.0012890626;18,0.001328125;19,0.00109375;20,4.6875E-4;21,5.46875E-4;22,3.515625E-4;23,3.90625E-4;24,3.515625E-4;25,3.515625E-4;26,5.46875E-4;27,4.6875E-4;28,6.640625E-4;29,9.765625E-4;30,8.203125E-4;31,0.001171875;32,8.984375E-4;33,0.001171875;34,0.00125;35,0.001484375;36,0.0016796875;37,0.0012109375;38,6.640625E-4;39,3.515625E-4;40,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/cassiterite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/hematite/andesite:0",
+		"distrib": "0,0.0;69,0.0;70,3.90625E-5;72,3.90625E-5;73,3.125E-4;74,7.8125E-5;75,1.953125E-4;76,2.34375E-4;77,5.078125E-4;78,6.25E-4;79,0.0017578125;80,0.0020703124;81,0.0021484375;82,0.002890625;83,0.0020703124;84,0.0012109375;85,0.001171875;86,0.001015625;87,3.90625E-4;88,1.5625E-4;89,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/hematite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/tetrahedrite/gneiss:0",
+		"distrib": "0,0.0;129,0.0;130,1.953125E-4;131,2.34375E-4;132,1.953125E-4;133,1.953125E-4;134,7.8125E-5;135,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/tetrahedrite:2",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:wood/log/douglas_fir:0",
+		"distrib": "0,0.0;143,0.0;144,0.0013671875;145,0.001796875;146,0.002265625;147,0.002890625;148,0.005859375;149,0.0074609374;150,0.008671875;151,0.008867187;152,0.0096875;153,0.01078125;154,0.011914062;155,0.012421875;156,0.011796875;157,0.01015625;158,0.007929687;159,0.00625;160,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:red_flower:0",
+		"distrib": "0,0.0;35,0.0;36,7.8125E-5;37,3.90625E-5;38,0.0;39,3.90625E-5;40,0.0;110,0.0;111,3.90625E-5;112,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:clay_grass/rhyolite:0",
+		"distrib": "0,0.0;146,0.0;147,0.0044140625;148,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:clay_ball:0",
+				"fortunes": {
+					"0": 4.0,
+					"1": 4.0,
+					"2": 4.0,
+					"3": 4.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/switchgrass:0",
+		"distrib": "0,0.0;147,0.0;148,3.125E-4;149,1.5625E-4;150,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:wood/leaves/chestnut:0",
+		"distrib": "0,0.0;145,0.0;146,9.375E-4;147,0.001328125;148,0.0030859376;149,0.0087890625;150,0.0115625;151,0.01671875;152,0.012109375;153,0.0051171873;154,0.0033984375;155,2.34375E-4;156,1.953125E-4;157,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:wood/sapling/chestnut:0",
+				"fortunes": {
+					"0": 0.0387,
+					"1": 0.0474,
+					"2": 0.0571,
+					"3": 0.1016
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/allium:0",
+		"distrib": "0,0.0;146,0.0;147,1.171875E-4;148,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:clay/dolomite:0",
+		"distrib": "0,0.0;144,0.0;145,0.003125;146,0.00421875;147,0.00296875;148,0.001171875;149,3.515625E-4;150,3.90625E-5;151,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:clay_ball:0",
+				"fortunes": {
+					"0": 4.0,
+					"1": 4.0,
+					"2": 4.0,
+					"3": 4.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/rough_horsetail:0",
+		"distrib": "0,0.0;143,0.0;144,1.953125E-4;145,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "tfc:plants/rough_horsetail:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/houstonia:0",
+		"distrib": "0,0.0;146,0.0;147,7.8125E-5;148,3.90625E-5;151,3.90625E-5;152,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:berry_bush/blackberry:0",
+		"distrib": "0,0.0;146,0.0;147,3.90625E-5;148,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "tfc:berry_bush/blackberry:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/small/sphalerite:0",
+		"distrib": "0,0.0;143,0.0;144,3.515625E-4;145,1.5625E-4;146,1.5625E-4;147,3.125E-4;148,0.0016015625;149,1.5625E-4;150,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:grass:0",
+		"distrib": "0,0.0;34,0.0;35,0.002109375;36,0.0032421874;37,0.003828125;38,0.003359375;39,0.0025;40,0.001640625;41,7.8125E-4;42,3.515625E-4;43,5.46875E-4;44,3.125E-4;45,3.90625E-4;46,1.171875E-4;47,0.0;60,0.0;61,1.953125E-4;62,0.0;65,0.0;66,1.171875E-4;67,7.8125E-5;68,0.0;88,0.0;89,0.0014453125;90,0.0010546875;91,0.0011328125;92,7.03125E-4;93,0.001328125;94,7.421875E-4;95,7.03125E-4;96,2.34375E-4;97,0.0;98,0.0;99,0.0017578125;100,0.0019921875;101,0.001953125;102,8.203125E-4;103,1.5625E-4;104,3.90625E-5;105,0.0;109,0.0;110,0.0020703124;111,0.00140625;112,0.00125;113,7.8125E-4;114,0.001015625;115,7.03125E-4;116,5.46875E-4;117,5.46875E-4;118,2.34375E-4;119,7.8125E-5;120,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:dirt:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:tallgrass:1",
+		"distrib": "0,0.0;35,0.0;36,7.03125E-4;37,0.00109375;38,1.5625E-4;39,2.734375E-4;40,3.125E-4;41,0.0;90,0.0;91,3.90625E-5;92,1.171875E-4;93,7.8125E-5;94,2.734375E-4;95,3.90625E-5;96,1.171875E-4;97,0.0;99,0.0;100,3.90625E-4;101,3.90625E-5;102,0.0;110,0.0;111,6.25E-4;112,2.734375E-4;113,1.5625E-4;114,1.5625E-4;115,7.8125E-5;116,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:wheat_seeds:0",
+				"fortunes": {
+					"0": 0.1308,
+					"1": 0.2548,
+					"2": 0.3612,
+					"3": 0.5321
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/sword_fern:0",
+		"distrib": "0,0.0;146,0.0;147,7.8125E-5;148,3.90625E-5;149,3.90625E-5;150,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:dirt/dolomite:0",
+		"distrib": "0,0.0;136,0.0;137,7.421875E-4;138,0.001328125;139,0.002578125;140,0.0051953127;141,0.009765625;142,0.022148438;143,0.035117187;144,0.04464844;145,0.04453125;146,0.042070314;147,0.031796876;148,0.024375;149,0.01859375;150,0.015;151,0.013710937;152,0.011953125;153,0.0087890625;154,0.006015625;155,0.0039453125;156,0.002109375;157,0.00125;158,7.421875E-4;159,3.90625E-4;160,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:wood/log/chestnut:0",
+		"distrib": "0,0.0;143,0.0;144,7.8125E-5;145,7.8125E-5;146,1.171875E-4;147,2.34375E-4;148,0.0011328125;149,0.00109375;150,0.00109375;151,0.001015625;152,7.421875E-4;153,5.46875E-4;154,3.90625E-5;155,3.90625E-5;156,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_lapis:0",
+		"distrib": "0,0.0;49,0.0;50,3.90625E-5;51,0.0;52,3.90625E-5;53,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:1",
+				"fortunes": {
+					"0": 4.0054,
+					"1": 4.0007,
+					"2": 4.0238,
+					"3": 3.9825
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/bismuthinite/andesite:0",
+		"distrib": "0,0.0;55,0.0;56,6.25E-4;57,7.421875E-4;58,8.59375E-4;59,9.375E-4;60,5.46875E-4;61,2.34375E-4;62,1.171875E-4;63,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/bismuthinite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:wood/leaves/maple:0",
+		"distrib": "0,0.0;145,0.0;146,9.375E-4;147,0.0017578125;148,0.00125;149,0.0021484375;150,0.029804688;151,0.047265626;152,0.0321875;153,0.0153125;154,0.00671875;155,3.90625E-4;156,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:wood/sapling/maple:0",
+				"fortunes": {
+					"0": 0.0414,
+					"1": 0.0496,
+					"2": 0.0616,
+					"3": 0.0981
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/orchard_grass:0",
+		"distrib": "0,0.0;146,0.0;147,6.25E-4;148,0.00796875;149,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/malachite/marble:0",
+		"distrib": "0,0.0;62,0.0;63,0.00390625;64,0.004609375;65,0.0046484377;66,0.0041015623;67,0.0047265626;68,0.0043359376;69,0.003828125;70,0.0044921874;71,0.0046875;72,0.0041796877;73,0.0044921874;74,0.0044921874;75,0.0048828125;76,0.0039453125;77,0.0044921874;78,0.004609375;79,0.0040234374;80,0.0044140625;81,0.00421875;82,0.003359375;83,0.0029296875;84,0.004296875;85,0.0023046874;86,0.00234375;87,0.002734375;88,0.0014453125;89,0.001171875;90,0.001484375;91,5.078125E-4;92,2.34375E-4;93,1.171875E-4;94,7.8125E-5;95,0.0;96,1.171875E-4;97,3.90625E-5;98,0.0;99,3.90625E-5;100,3.90625E-5;101,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/malachite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:raw/gneiss:0",
+		"distrib": "0,0.0;110,0.0;111,0.056328125;112,0.072578125;113,0.102773435;114,0.22683594;115,0.23324218;116,0.23722656;117,0.23933594;118,0.23683594;119,0.23386718;120,0.23398438;121,0.23523438;122,0.23671874;123,0.23585938;124,0.23550782;125,0.23550782;126,0.23628907;127,0.23828125;128,0.23855469;129,0.24554688;130,0.24480468;131,0.24617188;132,0.2453125;133,0.24390624;134,0.21902344;135,0.20542969;136,0.20515625;137,0.18886718;138,0.15835938;139,0.027695313;140,0.019023437;141,0.012929687;142,0.00546875;143,0.00390625;144,0.0019140625;145,0.0022265625;146,0.0021484375;147,0.0020703124;148,0.0017578125;149,0.0014453125;150,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:gem/amethyst:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:3",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/amethyst:2",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:3",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:1",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:0",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/opal:2",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jade:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:0",
+				"fortunes": {
+					"0": 5.0E-4,
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:2",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:rock/gneiss:0",
+				"fortunes": {
+					"0": 2.0058,
+					"1": 1.9899,
+					"2": 2.0033,
+					"3": 1.9907
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/agate:3",
+				"fortunes": {
+					"0": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"1": 3.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:0",
+				"fortunes": {
+					"1": 2.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:3",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/ruby:4",
+				"fortunes": {
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:0",
+				"fortunes": {
+					"0": 1.0E-4,
+					"1": 1.0E-4,
+					"2": 3.0E-4,
+					"3": 5.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:3",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/tourmaline:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 3.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:2",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/jasper:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 2.0E-4,
+					"2": 2.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/emerald:1",
+				"fortunes": {
+					"1": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:0",
+				"fortunes": {
+					"0": 5.0E-4,
+					"2": 3.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:1",
+				"fortunes": {
+					"0": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:4",
+				"fortunes": {
+					"1": 1.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/sapphire:2",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:1",
+				"fortunes": {
+					"0": 1.0E-4,
+					"2": 2.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:2",
+				"fortunes": {
+					"2": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:0",
+				"fortunes": {
+					"0": 2.0E-4,
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:2",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:0",
+				"fortunes": {
+					"0": 3.0E-4,
+					"1": 1.0E-4,
+					"2": 1.0E-4,
+					"3": 4.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/beryl:3",
+				"fortunes": {
+					"0": 1.0E-4,
+					"3": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/garnet:1",
+				"fortunes": {
+					"3": 2.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:3",
+				"fortunes": {
+					"2": 1.0E-4
+				}
+			},
+			{
+				"itemStack": "tfc:gem/topaz:1",
+				"fortunes": {
+					"0": 3.0E-4,
+					"2": 2.0E-4
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:rock/gneiss:0",
+		"distrib": "0,0.0;143,0.0;144,5.859375E-4;145,1.953125E-4;146,4.296875E-4;147,4.6875E-4;148,0.0048046876;149,1.171875E-4;150,1.5625E-4;151,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:sand/chert:0",
+		"distrib": "0,0.0;125,0.0;126,0.23835938;127,0.23847656;128,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:wood/log/maple:0",
+		"distrib": "0,0.0;143,0.0;144,3.90625E-5;145,7.8125E-5;146,7.8125E-5;147,2.734375E-4;148,0.00296875;149,0.0030078124;151,0.0030078124;152,0.002890625;153,0.001484375;154,7.8125E-5;155,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:gravel/dolomite:0",
+		"distrib": "0,0.0;133,0.0;134,0.0012890626;135,0.0025;136,0.0025;137,0.004453125;138,0.008359375;139,0.021171875;140,0.031210937;141,0.036640625;142,0.030117188;143,0.0190625;144,0.010820312;145,0.008632813;146,0.00875;147,0.008398438;148,0.006796875;149,0.0042578126;150,0.0028125;151,0.0012890626;152,9.375E-4;153,5.859375E-4;154,1.171875E-4;155,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "minecraft:dirt:0",
+		"distrib": "0,0.0;34,0.0;35,3.90625E-5;36,3.90625E-5;37,0.0;109,0.0;110,7.8125E-5;111,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:gravel/gneiss:0",
+		"distrib": "0,0.0;127,0.0;128,3.515625E-4;129,7.8125E-4;130,7.8125E-4;131,7.03125E-4;132,6.640625E-4;133,0.001015625;134,0.024726562;135,0.03703125;136,0.036289062;137,0.051757812;138,0.05765625;139,0.1764453;140,0.16925782;141,0.14234374;142,0.0209375;143,0.007421875;144,0.0015234374;145,2.34375E-4;146,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/sphalerite/gneiss:0",
+		"distrib": "0,0.0;112,0.0;113,1.953125E-4;114,0.00578125;115,0.006015625;116,0.006328125;117,0.006640625;118,0.008046875;119,0.008476563;120,0.008203125;121,0.0084375;122,0.008398438;123,0.009375;124,0.009765625;125,0.008867187;126,0.00828125;127,0.0076953126;128,0.00875;129,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/sphalerite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:plants/lady_fern:0",
+		"distrib": "0,0.0;145,0.0;146,3.90625E-5;147,0.0;148,7.8125E-5;149,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:dirt/rhyolite:0",
+		"distrib": "0,0.0;136,0.0;137,0.0030078124;138,0.03796875;139,0.0540625;140,0.07113281;141,0.087070316;142,0.13222656;143,0.10882813;144,0.09976563;145,0.084179685;146,0.0715625;147,0.029140625;148,0.01703125;149,0.012382813;150,0.008359375;151,0.0050390624;152,0.003671875;153,0.001484375;154,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/lignite/chert:0",
+		"distrib": "0,0.0;110,0.0;111,0.0026953125;112,0.003125;113,0.0022265625;114,0.0019140625;115,0.001171875;116,9.765625E-4;117,6.640625E-4;118,1.953125E-4;119,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/lignite:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/small/bismuthinite:0",
+		"distrib": "0,0.0;146,0.0;147,7.8125E-5;148,3.515625E-4;149,2.734375E-4;150,3.90625E-5;151,3.90625E-5;152,0.0;",
+		"silktouch": false,
+		"dim": "Dim 0: overworld"
+	},
+	{
+		"block": "tfc:ore/bismuthinite/basalt:0",
+		"distrib": "0,0.0;47,0.0;48,1.953125E-4;49,3.515625E-4;50,6.25E-4;51,0.0013671875;52,0.0019921875;53,0.0023046874;54,0.0026953125;55,0.00421875;56,0.0028125;57,0.00265625;58,0.0019140625;59,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tfc:ore/bismuthinite:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "Dim 0: overworld"
+	}
+]

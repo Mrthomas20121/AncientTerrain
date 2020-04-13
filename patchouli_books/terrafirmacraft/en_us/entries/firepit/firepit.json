@@ -1,0 +1,17 @@
+{
+  "name": "Firepit",
+  "icon": "tfc:firepit",
+  "category": "construction",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Firepit is a early game furnace. $(br)It use wood logs as fuel. $(br)To create a firepit, you need 3 wooden sticks, a log and a fire starter, you can add some straw or kindling to have a better chance at succeding. $(br)Put the 3 sticks and the log on a block and right click with the firestarter to create it. $(br)It may not work on the first try."
+    },
+    {
+      "type":"crafting",
+      "recipe":"tfc:firestarter",
+      "recipe2": "minecraft:fire_charge",
+      "text": "Firestarter recipe."
+    }
+  ]
+}

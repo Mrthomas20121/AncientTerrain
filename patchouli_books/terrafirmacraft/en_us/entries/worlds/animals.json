@@ -1,0 +1,55 @@
+{
+  "name": "Animals",
+  "icon": "tfc:food/bear",
+  "category": "world",
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "tfc:beartfc",
+      "scale": 0.5,
+      "text": "They will attack nearby players. They drop raw Bear Meat, Bones and Large Raw hide."
+    },
+    {
+      "type": "entity",
+      "entity": "tfc:pheasanttfc",
+      "scale": 0.5,
+      "text": "They drop feathers, raw Pheasant. they spawn in mid range temperature biomes."
+    },
+    {
+      "type": "entity",
+      "entity": "tfc:sheeptfc",
+      "scale": 0.5,
+      "text": "Sheeps drop Sheep Skin, Bones and raw Mutton. $(br)To Shear a sheep, you need to familarize it. Shift Click with a Grain to Feed them once per tfc day. After a few days of feeding, you should be able to shear it."
+    },
+    {
+      "type": "entity",
+      "entity": "tfc:horsetfc",
+      "scale": 0.5,
+      "text": "Horse drop Medium raw Hide, Bones and raw Horse Meat."
+    },
+    {
+      "type": "entity",
+      "entity": "tfc:rabbittfc",
+      "scale": 0.5,
+      "text": "Rabbit drop Small raw Hide, Bones and raw Rabbit Meat."
+    },
+    {
+      "type": "entity",
+      "entity": "tfc:wolftfc",
+      "scale": 0.5,
+      "text": "Wolf drop Medium raw Hide, Bones and raw Wolf Meat."
+    },
+    {
+      "type": "entity",
+      "entity": "tfc:cowtfc",
+      "scale": 0.5,
+      "text": "Cow drop Large raw Hide, Bones and raw Beef. You can obtain milk from a cow but you need to be more friendly."
+    },
+    {
+      "type": "entity",
+      "entity": "tfc:chickentfc",
+      "scale": 0.5,
+      "text": "Chicken drop Small raw Hide, feather and raw Chicken."
+    }
+  ]
+}

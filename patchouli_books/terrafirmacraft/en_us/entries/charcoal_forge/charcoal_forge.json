@@ -1,0 +1,28 @@
+{
+  "name": "Charcoal_forge",
+  "icon": "tfc:charcoal_forge",
+  "category": "construction",
+  "pages": [
+    {
+      "type": "crafting",
+      "text": "The Charcoal Forge is a Middle game furnace. $(br)It use Coal as fuel.$(br)To make it work, put coal in it and light it with a firestarter, fire charge or flint and steel",
+      "recipe":"tfc:stone/gabbro/gabbro_smooth"
+    },
+    {
+      "type": "multiblock",
+      "name": "Charcoal Forge",
+      "multiblock": {
+        "pattern": [
+          ["_____", "_____", "_____", "_____", "_____"],
+          ["_____", "__T__", "_T0T_", "__T__", "_____"],
+          ["_____", "_____", "__T__", "_____", "_____"]
+        ],
+        "mapping": {
+          "T": "tfc:smooth/gabbro",
+          "0": "tfc:charcoal_forge"
+        }
+      },
+      "text": "For this example, smooth gabbro is used but any tfc smooth stone work."
+    }
+  ]
+}

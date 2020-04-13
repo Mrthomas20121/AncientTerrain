@@ -1,0 +1,23 @@
+{
+  "name": "Clay Indicator",
+  "icon": "tfc:clay/granite",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": "There is clay indicator in the world telling you there is clay underneath it. $(br)It use wood logs as fuel. $(br)To create a firepit, you need 3 wooden sticks, a log and a fire starter. $(br)Put the 3 sticks and the log on a block and right click with the firestarter to create it. It may not work on the first try."
+    },
+    {
+      "type": "text",
+      "text": "Clay is found by digging Clay Soil that spawns under one of six indicator Plants depending on the Climate of the region. $(br)Some Plants change what they look like depending on the season! $(br)Clay also requires a Rainfall value of 100 or greater and Dirt to spawn. $(br)Each deposit ranges from 4-14 blocks wide and 1-3 deep and each block can yield 1-3 clay balls. $(br)Clay can be mined by hand, but mining with a shovel vastly increases the speed."
+    },
+    {
+      "type": "text",
+      "text": "Since the player spawns in a temperate region, Athyrium Ferns are the most common marker for early game clay deposits. $(br)$(br)Clay blocks can be crafted from clay balls, but they aren't the same as clay dirt. $(br)$(br)Clay blocks do not obey gravity, while clay dirt will fall if unsupported!"
+    },
+    {
+      "type": "crafting",
+      "recipe":"minecraft:clay"
+    }
+  ]
+}

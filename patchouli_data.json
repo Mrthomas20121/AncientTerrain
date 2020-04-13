@@ -1,0 +1,77 @@
+{
+  "bookGuiScale": 3,
+  "clickedVisualize": true,
+  "bookData": {
+    "patchouli:terrafirmacraft": {
+      "viewedEntries": [
+        "patchouli:firepit/firepit_overview",
+        "patchouli:firepit/firepit",
+        "patchouli:charcoal_forge/charcoal_forge",
+        "patchouli:worlds/animals",
+        "patchouli:worlds/clay_indicator"
+      ],
+      "bookmarks": [],
+      "history": [
+        "patchouli:firepit/firepit",
+        "patchouli:charcoal_forge/charcoal_forge",
+        "patchouli:worlds/animals",
+        "patchouli:worlds/clay_indicator",
+        "patchouli:firepit/firepit_overview"
+      ],
+      "completedManualQuests": []
+    },
+    "steamagerevolution:guide": {
+      "viewedEntries": [
+        "steamagerevolution:basics/ores_entry",
+        "steamagerevolution:basics/hammer_entry",
+        "steamagerevolution:basics/brass_entry",
+        "steamagerevolution:mining/prospecting",
+        "steamagerevolution:mining/carrier_entry",
+        "steamagerevolution:mining/grinder",
+        "steamagerevolution:transportstorage/canister_entry",
+        "steamagerevolution:transportstorage/fluidio_entry",
+        "steamagerevolution:transportstorage/tank_entry",
+        "steamagerevolution:transportstorage/pneumatic_entry",
+        "steamagerevolution:transportstorage/fluid_hopper_entry",
+        "steamagerevolution:production/machines_entry",
+        "steamagerevolution:production/alloy_forge_entry",
+        "steamagerevolution:alchemical/vat_entry",
+        "steamagerevolution:production/crucible_entry",
+        "steamagerevolution:alchemical/distiller_entry",
+        "steamagerevolution:production/boiler_entry",
+        "steamagerevolution:production/steelworks_entry",
+        "steamagerevolution:production/steam_hammer_entry",
+        "steamagerevolution:production/casting_block_entry",
+        "steamagerevolution:alchemical/potion_entry",
+        "steamagerevolution:alchemical/acid_entry",
+        "steamagerevolution:alchemical/synth_entry",
+        "steamagerevolution:utilities/vent_entry",
+        "steamagerevolution:utilities/aesthetic_entry",
+        "steamagerevolution:mining/drill_entry",
+        "steamagerevolution:armory/wings_entry",
+        "steamagerevolution:armory/entrenching_entry",
+        "steamagerevolution:armory/drill_entry",
+        "steamagerevolution:armory/goggles_entry",
+        "steamagerevolution:armory/steam_tools_entry",
+        "steamagerevolution:armory/rocketfist_entry"
+      ],
+      "bookmarks": [],
+      "history": [
+        "steamagerevolution:mining/grinder",
+        "steamagerevolution:basics/brass_entry",
+        "steamagerevolution:armory/rocketfist_entry",
+        "steamagerevolution:armory/steam_tools_entry",
+        "steamagerevolution:armory/goggles_entry",
+        "steamagerevolution:armory/drill_entry",
+        "steamagerevolution:armory/entrenching_entry",
+        "steamagerevolution:armory/wings_entry",
+        "steamagerevolution:mining/drill_entry",
+        "steamagerevolution:utilities/aesthetic_entry",
+        "steamagerevolution:utilities/vent_entry",
+        "steamagerevolution:alchemical/synth_entry",
+        "steamagerevolution:alchemical/acid_entry"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
