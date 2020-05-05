@@ -6,13 +6,6 @@ import crafttweaker.item.IItemStack;
 */
 
 var hideItems = [
-  <actuallyadditions:item_dust>,
-  <actuallyadditions:item_dust:1>,
-  <actuallyadditions:item_dust:2>,
-  <actuallyadditions:item_dust:3>,
-  <actuallyadditions:item_dust:4>,
-  <actuallyadditions:item_dust:6>,
-  <actuallyadditions:item_dust:5>, 
   <tconstruct:ingots:4>, 
   <tconstruct:nuggets:4>, 
   <tconstruct:ingots:1>, 

@@ -218,44 +218,4 @@ recipes.addShaped('techreborn/insulated_copper_cable', <techreborn:cable:5>*3, [
   [<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>]
 ]);
 
-// basic coil
-recipes.addShaped('actuallyaddition/coil/basic', <actuallyadditions:item_misc:7>, [
-  [null, <ore:plankWood>, <ore:plankWood>],
-  [<ore:plankWood>, <tfc:metal/double_ingot/tin>, <ore:plankWood>],
-  [<ore:plankWood>, <ore:plankWood>, null]
-]);
-
-// advanced coil
-recipes.addShaped('actuallyaddition/coil/advanced', <actuallyadditions:item_misc:8>, [
-  [null, <ore:plankWood>, <ore:plankWood>],
-  [<ore:plankWood>, <tfctech:metal/electrum_wire>, <ore:plankWood>],
-  [<ore:plankWood>, <ore:plankWood>, null]
-]);
-// advanced coil upgrade
-recipes.addShaped('actuallyaddition/coil/advanced_upgrade', <actuallyadditions:item_misc:8>, [
-  [null, <ore:ingotElectrum>, null],
-  [<ore:ingotElectrum>, <actuallyadditions:item_misc:7>, <ore:ingotElectrum>],
-  [null, <ore:ingotElectrum>, null]
-]);
-
-// coal generator
-recipes.addShaped('actuallyaddition/generator/coal', <actuallyadditions:block_coal_generator>, [
-  [<ore:cobblestone>, <minecraft:torch>, <ore:cobblestone>],
-  [<ore:cobblestone>, <actuallyadditions:item_misc:7>, <ore:cobblestone>],
-  [<ore:cobblestone>, <minecraft:torch>, <ore:cobblestone>]
-]);
-
-// iron casing
-recipes.addShaped('actuallyaddition/casing/iron', <actuallyadditions:block_misc:9>, [
-  [<tfc:metal/sheet/wrought_iron>, <ore:cobblestone>, <tfc:metal/sheet/wrought_iron>],
-  [<ore:cobblestone>, <actuallyadditions:block_misc:4>, <ore:cobblestone>],
-  [<tfc:metal/sheet/wrought_iron>, <ore:cobblestone>, <tfc:metal/sheet/wrought_iron>]
-]);
-
-recipes.addShaped('actuallyaddition/casing/iron/refined', <actuallyadditions:block_misc:9>*2, [
-  [<techreborn:ingot:19>, <ore:cobblestone>, <techreborn:ingot:19>],
-  [<ore:cobblestone>, <actuallyadditions:block_misc:4>, <ore:cobblestone>],
-  [<techreborn:ingot:19>, <ore:cobblestone>, <techreborn:ingot:19>]
-]);
-
 // to do, replace recipes using glowstone dust
