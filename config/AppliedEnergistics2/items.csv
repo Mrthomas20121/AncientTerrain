@@ -1782,7 +1782,7 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Blood
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Blue Slime
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Purple Slime
 extracells:pattern.fluid:0, ME Fluid Pattern: Fresh Water
-extracells:pattern.fluid:0, ME Fluid Pattern: Hot Water
+extracells:pattern.fluid:0, ME Fluid Pattern: Hot Spring Water
 extracells:pattern.fluid:0, ME Fluid Pattern: Salt Water
 extracells:pattern.fluid:0, ME Fluid Pattern: Rum
 extracells:pattern.fluid:0, ME Fluid Pattern: Beer
@@ -8594,18 +8594,18 @@ appliedenergistics2:facade:0, Cable Facade - Phyllite Cobble
 appliedenergistics2:facade:0, Cable Facade - Schist Cobble
 appliedenergistics2:facade:0, Cable Facade - Gneiss Cobble
 appliedenergistics2:facade:0, Cable Facade - Marble Cobble
-appliedenergistics2:facade:0, Cable Facade - Cobble Blaimorite
-appliedenergistics2:facade:0, Cable Facade - Cobble Boninite
-appliedenergistics2:facade:0, Cable Facade - Cobble Carbonatite
-appliedenergistics2:facade:0, Cable Facade - Cobble Foidolite
-appliedenergistics2:facade:0, Cable Facade - Cobble Arkose
-appliedenergistics2:facade:0, Cable Facade - Cobble Jaspillite
-appliedenergistics2:facade:0, Cable Facade - Cobble Travertine
-appliedenergistics2:facade:0, Cable Facade - Cobble Wackestone
-appliedenergistics2:facade:0, Cable Facade - Cobble Blueschist
-appliedenergistics2:facade:0, Cable Facade - Cobble Greenschist
-appliedenergistics2:facade:0, Cable Facade - Cobble Cataclasite
-appliedenergistics2:facade:0, Cable Facade - Cobble Mylonite
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Cobble
+appliedenergistics2:facade:0, Cable Facade - Boninite Cobble
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Cobble
+appliedenergistics2:facade:0, Cable Facade - Foidolite Cobble
+appliedenergistics2:facade:0, Cable Facade - Arkose Cobble
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Cobble
+appliedenergistics2:facade:0, Cable Facade - Travertine Cobble
+appliedenergistics2:facade:0, Cable Facade - Wackestone Cobble
+appliedenergistics2:facade:0, Cable Facade - Blueschist Cobble
+appliedenergistics2:facade:0, Cable Facade - Greenschist Cobble
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Cobble
+appliedenergistics2:facade:0, Cable Facade - Mylonite Cobble
 appliedenergistics2:facade:0, Cable Facade - Granite Bricks
 appliedenergistics2:facade:0, Cable Facade - Diorite Bricks
 appliedenergistics2:facade:0, Cable Facade - Gabbro Bricks
@@ -8627,18 +8627,18 @@ appliedenergistics2:facade:0, Cable Facade - Phyllite Bricks
 appliedenergistics2:facade:0, Cable Facade - Schist Bricks
 appliedenergistics2:facade:0, Cable Facade - Gneiss Bricks
 appliedenergistics2:facade:0, Cable Facade - Marble Bricks
-appliedenergistics2:facade:0, Cable Facade - Bricks Blaimorite
-appliedenergistics2:facade:0, Cable Facade - Bricks Boninite
-appliedenergistics2:facade:0, Cable Facade - Bricks Carbonatite
-appliedenergistics2:facade:0, Cable Facade - Bricks Foidolite
-appliedenergistics2:facade:0, Cable Facade - Bricks Arkose
-appliedenergistics2:facade:0, Cable Facade - Bricks Jaspillite
-appliedenergistics2:facade:0, Cable Facade - Bricks Travertine
-appliedenergistics2:facade:0, Cable Facade - Bricks Wackestone
-appliedenergistics2:facade:0, Cable Facade - Bricks Blueschist
-appliedenergistics2:facade:0, Cable Facade - Bricks Greenschist
-appliedenergistics2:facade:0, Cable Facade - Bricks Cataclasite
-appliedenergistics2:facade:0, Cable Facade - Bricks Mylonite
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Bricks
+appliedenergistics2:facade:0, Cable Facade - Boninite Bricks
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Bricks
+appliedenergistics2:facade:0, Cable Facade - Foidolite Bricks
+appliedenergistics2:facade:0, Cable Facade - Arkose Bricks
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Bricks
+appliedenergistics2:facade:0, Cable Facade - Travertine Bricks
+appliedenergistics2:facade:0, Cable Facade - Wackestone Bricks
+appliedenergistics2:facade:0, Cable Facade - Blueschist Bricks
+appliedenergistics2:facade:0, Cable Facade - Greenschist Bricks
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Bricks
+appliedenergistics2:facade:0, Cable Facade - Mylonite Bricks
 appliedenergistics2:facade:0, Cable Facade - Granite Sand
 appliedenergistics2:facade:0, Cable Facade - Diorite Sand
 appliedenergistics2:facade:0, Cable Facade - Gabbro Sand
@@ -8660,18 +8660,18 @@ appliedenergistics2:facade:0, Cable Facade - Phyllite Sand
 appliedenergistics2:facade:0, Cable Facade - Schist Sand
 appliedenergistics2:facade:0, Cable Facade - Gneiss Sand
 appliedenergistics2:facade:0, Cable Facade - Marble Sand
-appliedenergistics2:facade:0, Cable Facade - Sand Blaimorite
-appliedenergistics2:facade:0, Cable Facade - Sand Boninite
-appliedenergistics2:facade:0, Cable Facade - Sand Carbonatite
-appliedenergistics2:facade:0, Cable Facade - Sand Foidolite
-appliedenergistics2:facade:0, Cable Facade - Sand Arkose
-appliedenergistics2:facade:0, Cable Facade - Sand Jaspillite
-appliedenergistics2:facade:0, Cable Facade - Sand Travertine
-appliedenergistics2:facade:0, Cable Facade - Sand Wackestone
-appliedenergistics2:facade:0, Cable Facade - Sand Blueschist
-appliedenergistics2:facade:0, Cable Facade - Sand Greenschist
-appliedenergistics2:facade:0, Cable Facade - Sand Cataclasite
-appliedenergistics2:facade:0, Cable Facade - Sand Mylonite
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Sand
+appliedenergistics2:facade:0, Cable Facade - Boninite Sand
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Sand
+appliedenergistics2:facade:0, Cable Facade - Foidolite Sand
+appliedenergistics2:facade:0, Cable Facade - Arkose Sand
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Sand
+appliedenergistics2:facade:0, Cable Facade - Travertine Sand
+appliedenergistics2:facade:0, Cable Facade - Wackestone Sand
+appliedenergistics2:facade:0, Cable Facade - Blueschist Sand
+appliedenergistics2:facade:0, Cable Facade - Greenschist Sand
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Sand
+appliedenergistics2:facade:0, Cable Facade - Mylonite Sand
 appliedenergistics2:facade:0, Cable Facade - Granite Gravel
 appliedenergistics2:facade:0, Cable Facade - Diorite Gravel
 appliedenergistics2:facade:0, Cable Facade - Gabbro Gravel
@@ -8693,18 +8693,18 @@ appliedenergistics2:facade:0, Cable Facade - Phyllite Gravel
 appliedenergistics2:facade:0, Cable Facade - Schist Gravel
 appliedenergistics2:facade:0, Cable Facade - Gneiss Gravel
 appliedenergistics2:facade:0, Cable Facade - Marble Gravel
-appliedenergistics2:facade:0, Cable Facade - Gravel Blaimorite
-appliedenergistics2:facade:0, Cable Facade - Gravel Boninite
-appliedenergistics2:facade:0, Cable Facade - Gravel Carbonatite
-appliedenergistics2:facade:0, Cable Facade - Gravel Foidolite
-appliedenergistics2:facade:0, Cable Facade - Gravel Arkose
-appliedenergistics2:facade:0, Cable Facade - Gravel Jaspillite
-appliedenergistics2:facade:0, Cable Facade - Gravel Travertine
-appliedenergistics2:facade:0, Cable Facade - Gravel Wackestone
-appliedenergistics2:facade:0, Cable Facade - Gravel Blueschist
-appliedenergistics2:facade:0, Cable Facade - Gravel Greenschist
-appliedenergistics2:facade:0, Cable Facade - Gravel Cataclasite
-appliedenergistics2:facade:0, Cable Facade - Gravel Mylonite
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Gravel
+appliedenergistics2:facade:0, Cable Facade - Boninite Gravel
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Gravel
+appliedenergistics2:facade:0, Cable Facade - Foidolite Gravel
+appliedenergistics2:facade:0, Cable Facade - Arkose Gravel
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Gravel
+appliedenergistics2:facade:0, Cable Facade - Travertine Gravel
+appliedenergistics2:facade:0, Cable Facade - Wackestone Gravel
+appliedenergistics2:facade:0, Cable Facade - Blueschist Gravel
+appliedenergistics2:facade:0, Cable Facade - Greenschist Gravel
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Gravel
+appliedenergistics2:facade:0, Cable Facade - Mylonite Gravel
 appliedenergistics2:facade:0, Cable Facade - Granite Dirt
 appliedenergistics2:facade:0, Cable Facade - Diorite Dirt
 appliedenergistics2:facade:0, Cable Facade - Gabbro Dirt
@@ -8726,18 +8726,18 @@ appliedenergistics2:facade:0, Cable Facade - Phyllite Dirt
 appliedenergistics2:facade:0, Cable Facade - Schist Dirt
 appliedenergistics2:facade:0, Cable Facade - Gneiss Dirt
 appliedenergistics2:facade:0, Cable Facade - Marble Dirt
-appliedenergistics2:facade:0, Cable Facade - Dirt Blaimorite
-appliedenergistics2:facade:0, Cable Facade - Dirt Boninite
-appliedenergistics2:facade:0, Cable Facade - Dirt Carbonatite
-appliedenergistics2:facade:0, Cable Facade - Dirt Foidolite
-appliedenergistics2:facade:0, Cable Facade - Dirt Arkose
-appliedenergistics2:facade:0, Cable Facade - Dirt Jaspillite
-appliedenergistics2:facade:0, Cable Facade - Dirt Travertine
-appliedenergistics2:facade:0, Cable Facade - Dirt Wackestone
-appliedenergistics2:facade:0, Cable Facade - Dirt Blueschist
-appliedenergistics2:facade:0, Cable Facade - Dirt Greenschist
-appliedenergistics2:facade:0, Cable Facade - Dirt Cataclasite
-appliedenergistics2:facade:0, Cable Facade - Dirt Mylonite
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Dirt
+appliedenergistics2:facade:0, Cable Facade - Boninite Dirt
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Dirt
+appliedenergistics2:facade:0, Cable Facade - Foidolite Dirt
+appliedenergistics2:facade:0, Cable Facade - Arkose Dirt
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Dirt
+appliedenergistics2:facade:0, Cable Facade - Travertine Dirt
+appliedenergistics2:facade:0, Cable Facade - Wackestone Dirt
+appliedenergistics2:facade:0, Cable Facade - Blueschist Dirt
+appliedenergistics2:facade:0, Cable Facade - Greenschist Dirt
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Dirt
+appliedenergistics2:facade:0, Cable Facade - Mylonite Dirt
 appliedenergistics2:facade:0, Cable Facade - Granite Grass
 appliedenergistics2:facade:0, Cable Facade - Diorite Grass
 appliedenergistics2:facade:0, Cable Facade - Gabbro Grass
@@ -8825,18 +8825,18 @@ appliedenergistics2:facade:0, Cable Facade - Phyllite Clay
 appliedenergistics2:facade:0, Cable Facade - Schist Clay
 appliedenergistics2:facade:0, Cable Facade - Gneiss Clay
 appliedenergistics2:facade:0, Cable Facade - Marble Clay
-appliedenergistics2:facade:0, Cable Facade - Clay Blaimorite
-appliedenergistics2:facade:0, Cable Facade - Clay Boninite
-appliedenergistics2:facade:0, Cable Facade - Clay Carbonatite
-appliedenergistics2:facade:0, Cable Facade - Clay Foidolite
-appliedenergistics2:facade:0, Cable Facade - Clay Arkose
-appliedenergistics2:facade:0, Cable Facade - Clay Jaspillite
-appliedenergistics2:facade:0, Cable Facade - Clay Travertine
-appliedenergistics2:facade:0, Cable Facade - Clay Wackestone
-appliedenergistics2:facade:0, Cable Facade - Clay Blueschist
-appliedenergistics2:facade:0, Cable Facade - Clay Greenschist
-appliedenergistics2:facade:0, Cable Facade - Clay Cataclasite
-appliedenergistics2:facade:0, Cable Facade - Clay Mylonite
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Clay
+appliedenergistics2:facade:0, Cable Facade - Boninite Clay
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Clay
+appliedenergistics2:facade:0, Cable Facade - Foidolite Clay
+appliedenergistics2:facade:0, Cable Facade - Arkose Clay
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Clay
+appliedenergistics2:facade:0, Cable Facade - Travertine Clay
+appliedenergistics2:facade:0, Cable Facade - Wackestone Clay
+appliedenergistics2:facade:0, Cable Facade - Blueschist Clay
+appliedenergistics2:facade:0, Cable Facade - Greenschist Clay
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Clay
+appliedenergistics2:facade:0, Cable Facade - Mylonite Clay
 appliedenergistics2:facade:0, Cable Facade - Granite Clay Grass
 appliedenergistics2:facade:0, Cable Facade - Diorite Clay Grass
 appliedenergistics2:facade:0, Cable Facade - Gabbro Clay Grass
@@ -10046,18 +10046,18 @@ appliedenergistics2:facade:0, Cable Facade - Phyllite Stibnite
 appliedenergistics2:facade:0, Cable Facade - Schist Stibnite
 appliedenergistics2:facade:0, Cable Facade - Gneiss Stibnite
 appliedenergistics2:facade:0, Cable Facade - Marble Stibnite
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.blaimorite.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.boninite.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.carbonatite.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.foidolite.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.arkose.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.jaspillite.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.travertine.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.wackestone.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.blueschist.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.greenschist.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.cataclasite.name
-appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.stibnite.mylonite.name
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Stibnite
+appliedenergistics2:facade:0, Cable Facade - Boninite Stibnite
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Stibnite
+appliedenergistics2:facade:0, Cable Facade - Foidolite Stibnite
+appliedenergistics2:facade:0, Cable Facade - Arkose Stibnite
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Stibnite
+appliedenergistics2:facade:0, Cable Facade - Travertine Stibnite
+appliedenergistics2:facade:0, Cable Facade - Wackestone Stibnite
+appliedenergistics2:facade:0, Cable Facade - Blueschist Stibnite
+appliedenergistics2:facade:0, Cable Facade - Greenschist Stibnite
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Stibnite
+appliedenergistics2:facade:0, Cable Facade - Mylonite Stibnite
 appliedenergistics2:facade:0, Cable Facade - Granite Native Ardite
 appliedenergistics2:facade:0, Cable Facade - Diorite Native Ardite
 appliedenergistics2:facade:0, Cable Facade - Gabbro Native Ardite
@@ -10454,6 +10454,39 @@ appliedenergistics2:facade:0, Cable Facade - Blueschist Spodumene
 appliedenergistics2:facade:0, Cable Facade - Greenschist Spodumene
 appliedenergistics2:facade:0, Cable Facade - Cataclasite Spodumene
 appliedenergistics2:facade:0, Cable Facade - Mylonite Spodumene
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.granite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.diorite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.gabbro.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.shale.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.claystone.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.rocksalt.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.limestone.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.conglomerate.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.dolomite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.chert.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.chalk.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.rhyolite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.basalt.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.andesite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.dacite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.quartzite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.slate.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.phyllite.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.schist.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.gneiss.name
+appliedenergistics2:facade:0, Cable Facade - tile.tfc.ore.mawsonite.marble.name
+appliedenergistics2:facade:0, Cable Facade - Blaimorite Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Boninite Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Carbonatite Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Foidolite Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Arkose Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Jaspillite Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Travertine Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Wackestone Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Blueschist Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Greenschist Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Cataclasite Mawsonite
+appliedenergistics2:facade:0, Cable Facade - Mylonite Mawsonite
 appliedenergistics2:facade:0, Cable Facade - Acacia Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Ash Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Aspen Bookshelf
@@ -11542,35 +11575,35 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Prospector Pickaxe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Prospector Pickaxe Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -13323,66 +13356,66 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Prospector Pickaxe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Prospector Pickaxe Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Prospector Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Prospector Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -13941,7 +13974,7 @@ tfc:wand, TFC Debug Wand
 tfc:mortar, Mortar
 tfc:wooden_bucket:0, Bucket
 tfc:wooden_bucket:0, Fresh Water§r Bucket§r
-tfc:wooden_bucket:0, Hot Water§r Bucket§r
+tfc:wooden_bucket:0, Hot Spring Water§r Bucket§r
 tfc:wooden_bucket:0, Salt Water§r Bucket§r
 tfc:wooden_bucket:0, Water§r Bucket§r
 tfc:wooden_bucket:0, Limewater§r Bucket§r
@@ -13962,10 +13995,10 @@ tfc:wooden_bucket:0, Vinegar Milk§r Bucket§r
 tfc:metal/bucket/blue_steel:0, Blue Steel Bucket
 tfc:metal/bucket/blue_steel:0, Lava§r Bucket§r
 tfc:metal/bucket/red_steel:0, Red Steel Bucket
-tfc:metal/bucket/red_steel:0, Hot Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Water§r Bucket§r
-tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Fresh Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
 tfc:rock/granite, Granite Rock
 tfc:rock/diorite, Diorite Rock
 tfc:rock/gabbro, Gabbro Rock
@@ -13987,18 +14020,18 @@ tfc:rock/phyllite, Phyllite Rock
 tfc:rock/schist, Schist Rock
 tfc:rock/gneiss, Gneiss Rock
 tfc:rock/marble, Marble Rock
-tfc:rock/blaimorite, item.tfc.rock.blaimorite.name
-tfc:rock/boninite, item.tfc.rock.boninite.name
-tfc:rock/carbonatite, item.tfc.rock.carbonatite.name
-tfc:rock/foidolite, item.tfc.rock.foidolite.name
-tfc:rock/arkose, item.tfc.rock.arkose.name
-tfc:rock/jaspillite, item.tfc.rock.jaspillite.name
-tfc:rock/travertine, item.tfc.rock.travertine.name
-tfc:rock/wackestone, item.tfc.rock.wackestone.name
-tfc:rock/blueschist, item.tfc.rock.blueschist.name
-tfc:rock/greenschist, item.tfc.rock.greenschist.name
-tfc:rock/cataclasite, item.tfc.rock.cataclasite.name
-tfc:rock/mylonite, item.tfc.rock.mylonite.name
+tfc:rock/blaimorite, Blaimorite Rock
+tfc:rock/boninite, Boninite Rock
+tfc:rock/carbonatite, Carbonatite Rock
+tfc:rock/foidolite, Foidolite Rock
+tfc:rock/arkose, Arkose Rock
+tfc:rock/jaspillite, Jaspillite Rock
+tfc:rock/travertine, Travertine Rock
+tfc:rock/wackestone, Wackestone Rock
+tfc:rock/blueschist, Blueschist Rock
+tfc:rock/greenschist, Greenschist Rock
+tfc:rock/cataclasite, Cataclasite Rock
+tfc:rock/mylonite, Mylonite Rock
 tfc:brick/granite, Granite Brick
 tfc:brick/diorite, Diorite Brick
 tfc:brick/gabbro, Gabbro Brick
@@ -14020,18 +14053,18 @@ tfc:brick/phyllite, Phyllite Brick
 tfc:brick/schist, Schist Brick
 tfc:brick/gneiss, Gneiss Brick
 tfc:brick/marble, Marble Brick
-tfc:brick/blaimorite, item.tfc.brick.blaimorite.name
-tfc:brick/boninite, item.tfc.brick.boninite.name
-tfc:brick/carbonatite, item.tfc.brick.carbonatite.name
-tfc:brick/foidolite, item.tfc.brick.foidolite.name
-tfc:brick/arkose, item.tfc.brick.arkose.name
-tfc:brick/jaspillite, item.tfc.brick.jaspillite.name
-tfc:brick/travertine, item.tfc.brick.travertine.name
-tfc:brick/wackestone, item.tfc.brick.wackestone.name
-tfc:brick/blueschist, item.tfc.brick.blueschist.name
-tfc:brick/greenschist, item.tfc.brick.greenschist.name
-tfc:brick/cataclasite, item.tfc.brick.cataclasite.name
-tfc:brick/mylonite, item.tfc.brick.mylonite.name
+tfc:brick/blaimorite, Blaimorite Brick
+tfc:brick/boninite, Boninite Brick
+tfc:brick/carbonatite, Carbonatite Brick
+tfc:brick/foidolite, Foidolite Brick
+tfc:brick/arkose, Arkose Brick
+tfc:brick/jaspillite, Jaspillite Brick
+tfc:brick/travertine, Travertine Brick
+tfc:brick/wackestone, Wackestone Brick
+tfc:brick/blueschist, Blueschist Brick
+tfc:brick/greenschist, Greenschist Brick
+tfc:brick/cataclasite, Cataclasite Brick
+tfc:brick/mylonite, Mylonite Brick
 tfc:ore/native_copper:0, Native Copper
 tfc:ore/native_copper:1, Poor Native Copper
 tfc:ore/native_copper:2, Rich Native Copper
@@ -14143,6 +14176,7 @@ tfc:ore/pyrolusite, Pyrolusite
 tfc:ore/magnesite, Magnesite
 tfc:ore/boron, Boron
 tfc:ore/spodumene, Spodumene
+tfc:ore/mawsonite, item.tfc.ore.mawsonite.name
 tfc:gem/agate:0, Chipped Agate
 tfc:gem/agate:1, Flawed Agate
 tfc:gem/agate:2, Agate
@@ -14496,22 +14530,22 @@ tfc:metal/lamp/platinum, Platinum Lamp
 tfc:metal/lamp/black_steel, Black Steel Lamp
 tfc:metal/lamp/blue_steel, Blue Steel Lamp
 tfc:metal/lamp/red_steel, Red Steel Lamp
-tfc:metal/lamp/antimony, Antimony Lamp
-tfc:metal/lamp/constantan, Constantan Lamp
-tfc:metal/lamp/electrum, Electrum Lamp
-tfc:metal/lamp/nickel_silver, Nickel Silver Lamp
-tfc:metal/lamp/red_alloy, Red Alloy Lamp
-tfc:metal/lamp/mithril, Mithril Lamp
-tfc:metal/lamp/invar, Invar Lamp
-tfc:metal/lamp/aluminium, Aluminium Lamp
-tfc:metal/lamp/aluminium_brass, Aluminium Brass Lamp
-tfc:metal/lamp/ardite, Ardite Lamp
-tfc:metal/lamp/cobalt, Cobalt Lamp
-tfc:metal/lamp/manyullyn, Manyullyn Lamp
-tfc:metal/lamp/osmium, Osmium Lamp
-tfc:metal/lamp/titanium, Titanium Lamp
-tfc:metal/lamp/tungsten, Tungsten Lamp
-tfc:metal/lamp/tungsten_steel, Tungsten Steel Lamp
+tfc:metal/lamp/antimony, tile.tfc.lamp.antimony.name
+tfc:metal/lamp/constantan, tile.tfc.lamp.constantan.name
+tfc:metal/lamp/electrum, tile.tfc.lamp.electrum.name
+tfc:metal/lamp/nickel_silver, tile.tfc.lamp.nickel_silver.name
+tfc:metal/lamp/red_alloy, tile.tfc.lamp.red_alloy.name
+tfc:metal/lamp/mithril, tile.tfc.lamp.mithril.name
+tfc:metal/lamp/invar, tile.tfc.lamp.invar.name
+tfc:metal/lamp/aluminium, tile.tfc.lamp.aluminium.name
+tfc:metal/lamp/aluminium_brass, tile.tfc.lamp.aluminium_brass.name
+tfc:metal/lamp/ardite, tile.tfc.lamp.ardite.name
+tfc:metal/lamp/cobalt, tile.tfc.lamp.cobalt.name
+tfc:metal/lamp/manyullyn, tile.tfc.lamp.manyullyn.name
+tfc:metal/lamp/osmium, tile.tfc.lamp.osmium.name
+tfc:metal/lamp/titanium, tile.tfc.lamp.titanium.name
+tfc:metal/lamp/tungsten, tile.tfc.lamp.tungsten.name
+tfc:metal/lamp/tungsten_steel, tile.tfc.lamp.tungsten_steel.name
 tfc:metal/anvil/bismuth_bronze, Bismuth Bronze Anvil
 tfc:metal/anvil/black_bronze, Black Bronze Anvil
 tfc:metal/anvil/bronze, Bronze Anvil
@@ -15384,18 +15418,18 @@ tfc:cobble/phyllite, Phyllite Cobble
 tfc:cobble/schist, Schist Cobble
 tfc:cobble/gneiss, Gneiss Cobble
 tfc:cobble/marble, Marble Cobble
-tfc:cobble/blaimorite, Cobble Blaimorite
-tfc:cobble/boninite, Cobble Boninite
-tfc:cobble/carbonatite, Cobble Carbonatite
-tfc:cobble/foidolite, Cobble Foidolite
-tfc:cobble/arkose, Cobble Arkose
-tfc:cobble/jaspillite, Cobble Jaspillite
-tfc:cobble/travertine, Cobble Travertine
-tfc:cobble/wackestone, Cobble Wackestone
-tfc:cobble/blueschist, Cobble Blueschist
-tfc:cobble/greenschist, Cobble Greenschist
-tfc:cobble/cataclasite, Cobble Cataclasite
-tfc:cobble/mylonite, Cobble Mylonite
+tfc:cobble/blaimorite, Blaimorite Cobble
+tfc:cobble/boninite, Boninite Cobble
+tfc:cobble/carbonatite, Carbonatite Cobble
+tfc:cobble/foidolite, Foidolite Cobble
+tfc:cobble/arkose, Arkose Cobble
+tfc:cobble/jaspillite, Jaspillite Cobble
+tfc:cobble/travertine, Travertine Cobble
+tfc:cobble/wackestone, Wackestone Cobble
+tfc:cobble/blueschist, Blueschist Cobble
+tfc:cobble/greenschist, Greenschist Cobble
+tfc:cobble/cataclasite, Cataclasite Cobble
+tfc:cobble/mylonite, Mylonite Cobble
 tfc:bricks/granite, Granite Bricks
 tfc:bricks/diorite, Diorite Bricks
 tfc:bricks/gabbro, Gabbro Bricks
@@ -15417,18 +15451,18 @@ tfc:bricks/phyllite, Phyllite Bricks
 tfc:bricks/schist, Schist Bricks
 tfc:bricks/gneiss, Gneiss Bricks
 tfc:bricks/marble, Marble Bricks
-tfc:bricks/blaimorite, Bricks Blaimorite
-tfc:bricks/boninite, Bricks Boninite
-tfc:bricks/carbonatite, Bricks Carbonatite
-tfc:bricks/foidolite, Bricks Foidolite
-tfc:bricks/arkose, Bricks Arkose
-tfc:bricks/jaspillite, Bricks Jaspillite
-tfc:bricks/travertine, Bricks Travertine
-tfc:bricks/wackestone, Bricks Wackestone
-tfc:bricks/blueschist, Bricks Blueschist
-tfc:bricks/greenschist, Bricks Greenschist
-tfc:bricks/cataclasite, Bricks Cataclasite
-tfc:bricks/mylonite, Bricks Mylonite
+tfc:bricks/blaimorite, Blaimorite Bricks
+tfc:bricks/boninite, Boninite Bricks
+tfc:bricks/carbonatite, Carbonatite Bricks
+tfc:bricks/foidolite, Foidolite Bricks
+tfc:bricks/arkose, Arkose Bricks
+tfc:bricks/jaspillite, Jaspillite Bricks
+tfc:bricks/travertine, Travertine Bricks
+tfc:bricks/wackestone, Wackestone Bricks
+tfc:bricks/blueschist, Blueschist Bricks
+tfc:bricks/greenschist, Greenschist Bricks
+tfc:bricks/cataclasite, Cataclasite Bricks
+tfc:bricks/mylonite, Mylonite Bricks
 tfc:sand/granite, Granite Sand
 tfc:sand/diorite, Diorite Sand
 tfc:sand/gabbro, Gabbro Sand
@@ -15450,18 +15484,18 @@ tfc:sand/phyllite, Phyllite Sand
 tfc:sand/schist, Schist Sand
 tfc:sand/gneiss, Gneiss Sand
 tfc:sand/marble, Marble Sand
-tfc:sand/blaimorite, Sand Blaimorite
-tfc:sand/boninite, Sand Boninite
-tfc:sand/carbonatite, Sand Carbonatite
-tfc:sand/foidolite, Sand Foidolite
-tfc:sand/arkose, Sand Arkose
-tfc:sand/jaspillite, Sand Jaspillite
-tfc:sand/travertine, Sand Travertine
-tfc:sand/wackestone, Sand Wackestone
-tfc:sand/blueschist, Sand Blueschist
-tfc:sand/greenschist, Sand Greenschist
-tfc:sand/cataclasite, Sand Cataclasite
-tfc:sand/mylonite, Sand Mylonite
+tfc:sand/blaimorite, Blaimorite Sand
+tfc:sand/boninite, Boninite Sand
+tfc:sand/carbonatite, Carbonatite Sand
+tfc:sand/foidolite, Foidolite Sand
+tfc:sand/arkose, Arkose Sand
+tfc:sand/jaspillite, Jaspillite Sand
+tfc:sand/travertine, Travertine Sand
+tfc:sand/wackestone, Wackestone Sand
+tfc:sand/blueschist, Blueschist Sand
+tfc:sand/greenschist, Greenschist Sand
+tfc:sand/cataclasite, Cataclasite Sand
+tfc:sand/mylonite, Mylonite Sand
 tfc:gravel/granite, Granite Gravel
 tfc:gravel/diorite, Diorite Gravel
 tfc:gravel/gabbro, Gabbro Gravel
@@ -15483,18 +15517,18 @@ tfc:gravel/phyllite, Phyllite Gravel
 tfc:gravel/schist, Schist Gravel
 tfc:gravel/gneiss, Gneiss Gravel
 tfc:gravel/marble, Marble Gravel
-tfc:gravel/blaimorite, Gravel Blaimorite
-tfc:gravel/boninite, Gravel Boninite
-tfc:gravel/carbonatite, Gravel Carbonatite
-tfc:gravel/foidolite, Gravel Foidolite
-tfc:gravel/arkose, Gravel Arkose
-tfc:gravel/jaspillite, Gravel Jaspillite
-tfc:gravel/travertine, Gravel Travertine
-tfc:gravel/wackestone, Gravel Wackestone
-tfc:gravel/blueschist, Gravel Blueschist
-tfc:gravel/greenschist, Gravel Greenschist
-tfc:gravel/cataclasite, Gravel Cataclasite
-tfc:gravel/mylonite, Gravel Mylonite
+tfc:gravel/blaimorite, Blaimorite Gravel
+tfc:gravel/boninite, Boninite Gravel
+tfc:gravel/carbonatite, Carbonatite Gravel
+tfc:gravel/foidolite, Foidolite Gravel
+tfc:gravel/arkose, Arkose Gravel
+tfc:gravel/jaspillite, Jaspillite Gravel
+tfc:gravel/travertine, Travertine Gravel
+tfc:gravel/wackestone, Wackestone Gravel
+tfc:gravel/blueschist, Blueschist Gravel
+tfc:gravel/greenschist, Greenschist Gravel
+tfc:gravel/cataclasite, Cataclasite Gravel
+tfc:gravel/mylonite, Mylonite Gravel
 tfc:dirt/granite, Granite Dirt
 tfc:dirt/diorite, Diorite Dirt
 tfc:dirt/gabbro, Gabbro Dirt
@@ -15516,18 +15550,18 @@ tfc:dirt/phyllite, Phyllite Dirt
 tfc:dirt/schist, Schist Dirt
 tfc:dirt/gneiss, Gneiss Dirt
 tfc:dirt/marble, Marble Dirt
-tfc:dirt/blaimorite, Dirt Blaimorite
-tfc:dirt/boninite, Dirt Boninite
-tfc:dirt/carbonatite, Dirt Carbonatite
-tfc:dirt/foidolite, Dirt Foidolite
-tfc:dirt/arkose, Dirt Arkose
-tfc:dirt/jaspillite, Dirt Jaspillite
-tfc:dirt/travertine, Dirt Travertine
-tfc:dirt/wackestone, Dirt Wackestone
-tfc:dirt/blueschist, Dirt Blueschist
-tfc:dirt/greenschist, Dirt Greenschist
-tfc:dirt/cataclasite, Dirt Cataclasite
-tfc:dirt/mylonite, Dirt Mylonite
+tfc:dirt/blaimorite, Blaimorite Dirt
+tfc:dirt/boninite, Boninite Dirt
+tfc:dirt/carbonatite, Carbonatite Dirt
+tfc:dirt/foidolite, Foidolite Dirt
+tfc:dirt/arkose, Arkose Dirt
+tfc:dirt/jaspillite, Jaspillite Dirt
+tfc:dirt/travertine, Travertine Dirt
+tfc:dirt/wackestone, Wackestone Dirt
+tfc:dirt/blueschist, Blueschist Dirt
+tfc:dirt/greenschist, Greenschist Dirt
+tfc:dirt/cataclasite, Cataclasite Dirt
+tfc:dirt/mylonite, Mylonite Dirt
 tfc:grass/granite, Granite Grass
 tfc:grass/diorite, Diorite Grass
 tfc:grass/gabbro, Gabbro Grass
@@ -15615,18 +15649,18 @@ tfc:clay/phyllite, Phyllite Clay
 tfc:clay/schist, Schist Clay
 tfc:clay/gneiss, Gneiss Clay
 tfc:clay/marble, Marble Clay
-tfc:clay/blaimorite, Clay Blaimorite
-tfc:clay/boninite, Clay Boninite
-tfc:clay/carbonatite, Clay Carbonatite
-tfc:clay/foidolite, Clay Foidolite
-tfc:clay/arkose, Clay Arkose
-tfc:clay/jaspillite, Clay Jaspillite
-tfc:clay/travertine, Clay Travertine
-tfc:clay/wackestone, Clay Wackestone
-tfc:clay/blueschist, Clay Blueschist
-tfc:clay/greenschist, Clay Greenschist
-tfc:clay/cataclasite, Clay Cataclasite
-tfc:clay/mylonite, Clay Mylonite
+tfc:clay/blaimorite, Blaimorite Clay
+tfc:clay/boninite, Boninite Clay
+tfc:clay/carbonatite, Carbonatite Clay
+tfc:clay/foidolite, Foidolite Clay
+tfc:clay/arkose, Arkose Clay
+tfc:clay/jaspillite, Jaspillite Clay
+tfc:clay/travertine, Travertine Clay
+tfc:clay/wackestone, Wackestone Clay
+tfc:clay/blueschist, Blueschist Clay
+tfc:clay/greenschist, Greenschist Clay
+tfc:clay/cataclasite, Cataclasite Clay
+tfc:clay/mylonite, Mylonite Clay
 tfc:clay_grass/granite, Granite Clay Grass
 tfc:clay_grass/diorite, Diorite Clay Grass
 tfc:clay_grass/gabbro, Gabbro Clay Grass
@@ -16902,18 +16936,18 @@ tfc:ore/stibnite/phyllite, Phyllite Stibnite
 tfc:ore/stibnite/schist, Schist Stibnite
 tfc:ore/stibnite/gneiss, Gneiss Stibnite
 tfc:ore/stibnite/marble, Marble Stibnite
-tfc:ore/stibnite/blaimorite, tile.tfc.ore.stibnite.blaimorite.name
-tfc:ore/stibnite/boninite, tile.tfc.ore.stibnite.boninite.name
-tfc:ore/stibnite/carbonatite, tile.tfc.ore.stibnite.carbonatite.name
-tfc:ore/stibnite/foidolite, tile.tfc.ore.stibnite.foidolite.name
-tfc:ore/stibnite/arkose, tile.tfc.ore.stibnite.arkose.name
-tfc:ore/stibnite/jaspillite, tile.tfc.ore.stibnite.jaspillite.name
-tfc:ore/stibnite/travertine, tile.tfc.ore.stibnite.travertine.name
-tfc:ore/stibnite/wackestone, tile.tfc.ore.stibnite.wackestone.name
-tfc:ore/stibnite/blueschist, tile.tfc.ore.stibnite.blueschist.name
-tfc:ore/stibnite/greenschist, tile.tfc.ore.stibnite.greenschist.name
-tfc:ore/stibnite/cataclasite, tile.tfc.ore.stibnite.cataclasite.name
-tfc:ore/stibnite/mylonite, tile.tfc.ore.stibnite.mylonite.name
+tfc:ore/stibnite/blaimorite, Blaimorite Stibnite
+tfc:ore/stibnite/boninite, Boninite Stibnite
+tfc:ore/stibnite/carbonatite, Carbonatite Stibnite
+tfc:ore/stibnite/foidolite, Foidolite Stibnite
+tfc:ore/stibnite/arkose, Arkose Stibnite
+tfc:ore/stibnite/jaspillite, Jaspillite Stibnite
+tfc:ore/stibnite/travertine, Travertine Stibnite
+tfc:ore/stibnite/wackestone, Wackestone Stibnite
+tfc:ore/stibnite/blueschist, Blueschist Stibnite
+tfc:ore/stibnite/greenschist, Greenschist Stibnite
+tfc:ore/stibnite/cataclasite, Cataclasite Stibnite
+tfc:ore/stibnite/mylonite, Mylonite Stibnite
 tfc:ore/native_ardite/granite, Granite Native Ardite
 tfc:ore/native_ardite/diorite, Diorite Native Ardite
 tfc:ore/native_ardite/gabbro, Gabbro Native Ardite
@@ -17310,6 +17344,39 @@ tfc:ore/spodumene/blueschist, Blueschist Spodumene
 tfc:ore/spodumene/greenschist, Greenschist Spodumene
 tfc:ore/spodumene/cataclasite, Cataclasite Spodumene
 tfc:ore/spodumene/mylonite, Mylonite Spodumene
+tfc:ore/mawsonite/granite, tile.tfc.ore.mawsonite.granite.name
+tfc:ore/mawsonite/diorite, tile.tfc.ore.mawsonite.diorite.name
+tfc:ore/mawsonite/gabbro, tile.tfc.ore.mawsonite.gabbro.name
+tfc:ore/mawsonite/shale, tile.tfc.ore.mawsonite.shale.name
+tfc:ore/mawsonite/claystone, tile.tfc.ore.mawsonite.claystone.name
+tfc:ore/mawsonite/rocksalt, tile.tfc.ore.mawsonite.rocksalt.name
+tfc:ore/mawsonite/limestone, tile.tfc.ore.mawsonite.limestone.name
+tfc:ore/mawsonite/conglomerate, tile.tfc.ore.mawsonite.conglomerate.name
+tfc:ore/mawsonite/dolomite, tile.tfc.ore.mawsonite.dolomite.name
+tfc:ore/mawsonite/chert, tile.tfc.ore.mawsonite.chert.name
+tfc:ore/mawsonite/chalk, tile.tfc.ore.mawsonite.chalk.name
+tfc:ore/mawsonite/rhyolite, tile.tfc.ore.mawsonite.rhyolite.name
+tfc:ore/mawsonite/basalt, tile.tfc.ore.mawsonite.basalt.name
+tfc:ore/mawsonite/andesite, tile.tfc.ore.mawsonite.andesite.name
+tfc:ore/mawsonite/dacite, tile.tfc.ore.mawsonite.dacite.name
+tfc:ore/mawsonite/quartzite, tile.tfc.ore.mawsonite.quartzite.name
+tfc:ore/mawsonite/slate, tile.tfc.ore.mawsonite.slate.name
+tfc:ore/mawsonite/phyllite, tile.tfc.ore.mawsonite.phyllite.name
+tfc:ore/mawsonite/schist, tile.tfc.ore.mawsonite.schist.name
+tfc:ore/mawsonite/gneiss, tile.tfc.ore.mawsonite.gneiss.name
+tfc:ore/mawsonite/marble, tile.tfc.ore.mawsonite.marble.name
+tfc:ore/mawsonite/blaimorite, Blaimorite Mawsonite
+tfc:ore/mawsonite/boninite, Boninite Mawsonite
+tfc:ore/mawsonite/carbonatite, Carbonatite Mawsonite
+tfc:ore/mawsonite/foidolite, Foidolite Mawsonite
+tfc:ore/mawsonite/arkose, Arkose Mawsonite
+tfc:ore/mawsonite/jaspillite, Jaspillite Mawsonite
+tfc:ore/mawsonite/travertine, Travertine Mawsonite
+tfc:ore/mawsonite/wackestone, Wackestone Mawsonite
+tfc:ore/mawsonite/blueschist, Blueschist Mawsonite
+tfc:ore/mawsonite/greenschist, Greenschist Mawsonite
+tfc:ore/mawsonite/cataclasite, Cataclasite Mawsonite
+tfc:ore/mawsonite/mylonite, Mylonite Mawsonite
 tfc:wood/bookshelf/acacia, Acacia Bookshelf
 tfc:wood/bookshelf/ash, Ash Bookshelf
 tfc:wood/bookshelf/aspen, Aspen Bookshelf
@@ -17544,51 +17611,51 @@ tfc:stairs/cobble/phyllite, Phyllite Cobble Stairs
 tfc:stairs/cobble/schist, Schist Cobble Stairs
 tfc:stairs/cobble/gneiss, Gneiss Cobble Stairs
 tfc:stairs/cobble/marble, Marble Cobble Stairs
-tfc:stairs/cobble/blaimorite, Cobble Blaimorite Stairs
-tfc:stairs/cobble/boninite, Cobble Boninite Stairs
-tfc:stairs/cobble/carbonatite, Cobble Carbonatite Stairs
-tfc:stairs/cobble/foidolite, Cobble Foidolite Stairs
-tfc:stairs/cobble/arkose, Cobble Arkose Stairs
-tfc:stairs/cobble/jaspillite, Cobble Jaspillite Stairs
-tfc:stairs/cobble/travertine, Cobble Travertine Stairs
-tfc:stairs/cobble/wackestone, Cobble Wackestone Stairs
-tfc:stairs/cobble/blueschist, Cobble Blueschist Stairs
-tfc:stairs/cobble/greenschist, Cobble Greenschist Stairs
-tfc:stairs/cobble/cataclasite, Cobble Cataclasite Stairs
-tfc:stairs/cobble/mylonite, Cobble Mylonite Stairs
-tfc:stairs/bricks/granite, Granite Bricks Stairs
-tfc:stairs/bricks/diorite, Diorite Bricks Stairs
-tfc:stairs/bricks/gabbro, Gabbro Bricks Stairs
-tfc:stairs/bricks/shale, Shale Bricks Stairs
-tfc:stairs/bricks/claystone, Claystone Bricks Stairs
-tfc:stairs/bricks/rocksalt, Rocksalt Bricks Stairs
-tfc:stairs/bricks/limestone, Limestone Bricks Stairs
-tfc:stairs/bricks/conglomerate, Conglomerate Bricks Stairs
-tfc:stairs/bricks/dolomite, Dolomite Bricks Stairs
-tfc:stairs/bricks/chert, Chert Bricks Stairs
-tfc:stairs/bricks/chalk, Chalk Bricks Stairs
-tfc:stairs/bricks/rhyolite, Rhyolite Bricks Stairs
-tfc:stairs/bricks/basalt, Basalt Bricks Stairs
-tfc:stairs/bricks/andesite, Andesite Bricks Stairs
-tfc:stairs/bricks/dacite, Dacite Bricks Stairs
-tfc:stairs/bricks/quartzite, Quartzite Bricks Stairs
-tfc:stairs/bricks/slate, Slate Bricks Stairs
-tfc:stairs/bricks/phyllite, Phyllite Bricks Stairs
-tfc:stairs/bricks/schist, Schist Bricks Stairs
-tfc:stairs/bricks/gneiss, Gneiss Bricks Stairs
-tfc:stairs/bricks/marble, Marble Bricks Stairs
-tfc:stairs/bricks/blaimorite, Bricks Blaimorite Stairs
-tfc:stairs/bricks/boninite, Bricks Boninite Stairs
-tfc:stairs/bricks/carbonatite, Bricks Carbonatite Stairs
-tfc:stairs/bricks/foidolite, Bricks Foidolite Stairs
-tfc:stairs/bricks/arkose, Bricks Arkose Stairs
-tfc:stairs/bricks/jaspillite, Bricks Jaspillite Stairs
-tfc:stairs/bricks/travertine, Bricks Travertine Stairs
-tfc:stairs/bricks/wackestone, Bricks Wackestone Stairs
-tfc:stairs/bricks/blueschist, Bricks Blueschist Stairs
-tfc:stairs/bricks/greenschist, Bricks Greenschist Stairs
-tfc:stairs/bricks/cataclasite, Bricks Cataclasite Stairs
-tfc:stairs/bricks/mylonite, Bricks Mylonite Stairs
+tfc:stairs/cobble/blaimorite, Blaimorite Cobble Stairs
+tfc:stairs/cobble/boninite, Boninite Cobble Stairs
+tfc:stairs/cobble/carbonatite, Carbonatite Cobble Stairs
+tfc:stairs/cobble/foidolite, Foidolite Cobble Stairs
+tfc:stairs/cobble/arkose, Arkose Cobble Stairs
+tfc:stairs/cobble/jaspillite, Jaspillite Cobble Stairs
+tfc:stairs/cobble/travertine, Travertine Cobble Stairs
+tfc:stairs/cobble/wackestone, Wackestone Cobble Stairs
+tfc:stairs/cobble/blueschist, Blueschist Cobble Stairs
+tfc:stairs/cobble/greenschist, Greenschist Cobble Stairs
+tfc:stairs/cobble/cataclasite, Cataclasite Cobble Stairs
+tfc:stairs/cobble/mylonite, Mylonite Cobble Stairs
+tfc:stairs/bricks/granite, Granite Brick Stairs
+tfc:stairs/bricks/diorite, Diorite Brick Stairs
+tfc:stairs/bricks/gabbro, Gabbro Brick Stairs
+tfc:stairs/bricks/shale, Shale Brick Stairs
+tfc:stairs/bricks/claystone, Claystone Brick Stairs
+tfc:stairs/bricks/rocksalt, Rocksalt Brick Stairs
+tfc:stairs/bricks/limestone, Limestone Brick Stairs
+tfc:stairs/bricks/conglomerate, Conglomerate Brick Stairs
+tfc:stairs/bricks/dolomite, Dolomite Brick Stairs
+tfc:stairs/bricks/chert, Chert Brick Stairs
+tfc:stairs/bricks/chalk, Chalk Brick Stairs
+tfc:stairs/bricks/rhyolite, Rhyolite Brick Stairs
+tfc:stairs/bricks/basalt, Basalt Brick Stairs
+tfc:stairs/bricks/andesite, Andesite Brick Stairs
+tfc:stairs/bricks/dacite, Dacite Brick Stairs
+tfc:stairs/bricks/quartzite, Quartzite Brick Stairs
+tfc:stairs/bricks/slate, Slate Brick Stairs
+tfc:stairs/bricks/phyllite, Phyllite Brick Stairs
+tfc:stairs/bricks/schist, Schist Brick Stairs
+tfc:stairs/bricks/gneiss, Gneiss Brick Stairs
+tfc:stairs/bricks/marble, Marble Brick Stairs
+tfc:stairs/bricks/blaimorite, Blaimorite Bricks Stairs
+tfc:stairs/bricks/boninite, Boninite Bricks Stairs
+tfc:stairs/bricks/carbonatite, Carbonatite Bricks Stairs
+tfc:stairs/bricks/foidolite, Foidolite Bricks Stairs
+tfc:stairs/bricks/arkose, Arkose Bricks Stairs
+tfc:stairs/bricks/jaspillite, Jaspillite Bricks Stairs
+tfc:stairs/bricks/travertine, Travertine Bricks Stairs
+tfc:stairs/bricks/wackestone, Wackestone Bricks Stairs
+tfc:stairs/bricks/blueschist, Blueschist Bricks Stairs
+tfc:stairs/bricks/greenschist, Greenschist Bricks Stairs
+tfc:stairs/bricks/cataclasite, Cataclasite Bricks Stairs
+tfc:stairs/bricks/mylonite, Mylonite Bricks Stairs
 tfc:stairs/wood/acacia, Acacia Stairs
 tfc:stairs/wood/ash, Ash Stairs
 tfc:stairs/wood/aspen, Aspen Stairs
@@ -17795,18 +17862,18 @@ tfc:stone/button/phyllite, Phyllite Button
 tfc:stone/button/schist, Schist Button
 tfc:stone/button/gneiss, Gneiss Button
 tfc:stone/button/marble, Marble Button
-tfc:stone/button/blaimorite, tile.tfc.stone.button.blaimorite.name
-tfc:stone/button/boninite, tile.tfc.stone.button.boninite.name
-tfc:stone/button/carbonatite, tile.tfc.stone.button.carbonatite.name
-tfc:stone/button/foidolite, tile.tfc.stone.button.foidolite.name
-tfc:stone/button/arkose, tile.tfc.stone.button.arkose.name
-tfc:stone/button/jaspillite, tile.tfc.stone.button.jaspillite.name
-tfc:stone/button/travertine, tile.tfc.stone.button.travertine.name
-tfc:stone/button/wackestone, tile.tfc.stone.button.wackestone.name
-tfc:stone/button/blueschist, tile.tfc.stone.button.blueschist.name
-tfc:stone/button/greenschist, tile.tfc.stone.button.greenschist.name
-tfc:stone/button/cataclasite, tile.tfc.stone.button.cataclasite.name
-tfc:stone/button/mylonite, tile.tfc.stone.button.mylonite.name
+tfc:stone/button/blaimorite, Blaimorite Spike 
+tfc:stone/button/boninite, Boninite Spike 
+tfc:stone/button/carbonatite, Carbonatite Spike 
+tfc:stone/button/foidolite, Foidolite Spike 
+tfc:stone/button/arkose, Arkose Spike 
+tfc:stone/button/jaspillite, Jaspillite Spike 
+tfc:stone/button/travertine, Travertine Spike 
+tfc:stone/button/wackestone, Wackestone Spike 
+tfc:stone/button/blueschist, Blueschist Spike 
+tfc:stone/button/greenschist, Greenschist Spike 
+tfc:stone/button/cataclasite, Cataclasite Spike 
+tfc:stone/button/mylonite, Mylonite Spike 
 tfc:wall/smooth/granite, Granite Smooth Wall
 tfc:wall/smooth/diorite, Diorite Smooth Wall
 tfc:wall/smooth/gabbro, Gabbro Smooth Wall
@@ -17828,18 +17895,18 @@ tfc:wall/smooth/phyllite, Phyllite Smooth Wall
 tfc:wall/smooth/schist, Schist Smooth Wall
 tfc:wall/smooth/gneiss, Gneiss Smooth Wall
 tfc:wall/smooth/marble, Marble Smooth Wall
-tfc:wall/smooth/blaimorite, tile.tfc.wall.smooth.blaimorite.name
-tfc:wall/smooth/boninite, tile.tfc.wall.smooth.boninite.name
-tfc:wall/smooth/carbonatite, tile.tfc.wall.smooth.carbonatite.name
-tfc:wall/smooth/foidolite, tile.tfc.wall.smooth.foidolite.name
-tfc:wall/smooth/arkose, tile.tfc.wall.smooth.arkose.name
-tfc:wall/smooth/jaspillite, tile.tfc.wall.smooth.jaspillite.name
-tfc:wall/smooth/travertine, tile.tfc.wall.smooth.travertine.name
-tfc:wall/smooth/wackestone, tile.tfc.wall.smooth.wackestone.name
-tfc:wall/smooth/blueschist, tile.tfc.wall.smooth.blueschist.name
-tfc:wall/smooth/greenschist, tile.tfc.wall.smooth.greenschist.name
-tfc:wall/smooth/cataclasite, tile.tfc.wall.smooth.cataclasite.name
-tfc:wall/smooth/mylonite, tile.tfc.wall.smooth.mylonite.name
+tfc:wall/smooth/blaimorite, Smooth Blaimorite Wall
+tfc:wall/smooth/boninite, Smooth Boninite Wall
+tfc:wall/smooth/carbonatite, Smooth Carbonatite Wall
+tfc:wall/smooth/foidolite, Smooth Foidolite Wall
+tfc:wall/smooth/arkose, Smooth Arkose Wall
+tfc:wall/smooth/jaspillite, Smooth Jaspillite Wall
+tfc:wall/smooth/travertine, Smooth Travertine Wall
+tfc:wall/smooth/wackestone, Smooth Wackestone Wall
+tfc:wall/smooth/blueschist, Smooth Blueschist Wall
+tfc:wall/smooth/greenschist, Smooth Greenschist Wall
+tfc:wall/smooth/cataclasite, Smooth Cataclasite Wall
+tfc:wall/smooth/mylonite, Smooth Mylonite Wall
 tfc:wall/cobble/granite, Granite Cobble Wall
 tfc:wall/cobble/diorite, Diorite Cobble Wall
 tfc:wall/cobble/gabbro, Gabbro Cobble Wall
@@ -17861,51 +17928,51 @@ tfc:wall/cobble/phyllite, Phyllite Cobble Wall
 tfc:wall/cobble/schist, Schist Cobble Wall
 tfc:wall/cobble/gneiss, Gneiss Cobble Wall
 tfc:wall/cobble/marble, Marble Cobble Wall
-tfc:wall/cobble/blaimorite, tile.tfc.wall.cobble.blaimorite.name
-tfc:wall/cobble/boninite, tile.tfc.wall.cobble.boninite.name
-tfc:wall/cobble/carbonatite, tile.tfc.wall.cobble.carbonatite.name
-tfc:wall/cobble/foidolite, tile.tfc.wall.cobble.foidolite.name
-tfc:wall/cobble/arkose, tile.tfc.wall.cobble.arkose.name
-tfc:wall/cobble/jaspillite, tile.tfc.wall.cobble.jaspillite.name
-tfc:wall/cobble/travertine, tile.tfc.wall.cobble.travertine.name
-tfc:wall/cobble/wackestone, tile.tfc.wall.cobble.wackestone.name
-tfc:wall/cobble/blueschist, tile.tfc.wall.cobble.blueschist.name
-tfc:wall/cobble/greenschist, tile.tfc.wall.cobble.greenschist.name
-tfc:wall/cobble/cataclasite, tile.tfc.wall.cobble.cataclasite.name
-tfc:wall/cobble/mylonite, tile.tfc.wall.cobble.mylonite.name
-tfc:wall/bricks/granite, Granite Bricks Wall
-tfc:wall/bricks/diorite, Diorite Bricks Wall
-tfc:wall/bricks/gabbro, Gabbro Bricks Wall
-tfc:wall/bricks/shale, Shale Bricks Wall
-tfc:wall/bricks/claystone, Claystone Bricks Wall
-tfc:wall/bricks/rocksalt, Rocksalt Bricks Wall
-tfc:wall/bricks/limestone, Limestone Bricks Wall
-tfc:wall/bricks/conglomerate, Conglomerate Bricks Wall
-tfc:wall/bricks/dolomite, Dolomite Bricks Wall
-tfc:wall/bricks/chert, Chert Bricks Wall
-tfc:wall/bricks/chalk, Chalk Bricks Wall
-tfc:wall/bricks/rhyolite, Rhyolite Bricks Wall
-tfc:wall/bricks/basalt, Basalt Bricks Wall
-tfc:wall/bricks/andesite, Andesite Bricks Wall
-tfc:wall/bricks/dacite, Dacite Bricks Wall
-tfc:wall/bricks/quartzite, Quartzite Bricks Wall
-tfc:wall/bricks/slate, Slate Bricks Wall
-tfc:wall/bricks/phyllite, Phyllite Bricks Wall
-tfc:wall/bricks/schist, Schist Bricks Wall
-tfc:wall/bricks/gneiss, Gneiss Bricks Wall
-tfc:wall/bricks/marble, Marble Bricks Wall
-tfc:wall/bricks/blaimorite, tile.tfc.wall.bricks.blaimorite.name
-tfc:wall/bricks/boninite, tile.tfc.wall.bricks.boninite.name
-tfc:wall/bricks/carbonatite, tile.tfc.wall.bricks.carbonatite.name
-tfc:wall/bricks/foidolite, tile.tfc.wall.bricks.foidolite.name
-tfc:wall/bricks/arkose, tile.tfc.wall.bricks.arkose.name
-tfc:wall/bricks/jaspillite, tile.tfc.wall.bricks.jaspillite.name
-tfc:wall/bricks/travertine, tile.tfc.wall.bricks.travertine.name
-tfc:wall/bricks/wackestone, tile.tfc.wall.bricks.wackestone.name
-tfc:wall/bricks/blueschist, tile.tfc.wall.bricks.blueschist.name
-tfc:wall/bricks/greenschist, tile.tfc.wall.bricks.greenschist.name
-tfc:wall/bricks/cataclasite, tile.tfc.wall.bricks.cataclasite.name
-tfc:wall/bricks/mylonite, tile.tfc.wall.bricks.mylonite.name
+tfc:wall/cobble/blaimorite, Blaimorite Cobble Wall
+tfc:wall/cobble/boninite, Boninite Cobble Wall
+tfc:wall/cobble/carbonatite, Carbonatite Cobble Wall
+tfc:wall/cobble/foidolite, Foidolite Cobble Wall
+tfc:wall/cobble/arkose, Arkose Cobble Wall
+tfc:wall/cobble/jaspillite, Jaspillite Cobble Wall
+tfc:wall/cobble/travertine, Travertine Cobble Wall
+tfc:wall/cobble/wackestone, Wackestone Cobble Wall
+tfc:wall/cobble/blueschist, Blueschist Cobble Wall
+tfc:wall/cobble/greenschist, Greenschist Cobble Wall
+tfc:wall/cobble/cataclasite, Cataclasite Cobble Wall
+tfc:wall/cobble/mylonite, Mylonite Cobble Wall
+tfc:wall/bricks/granite, Granite Brick Wall
+tfc:wall/bricks/diorite, Diorite Brick Wall
+tfc:wall/bricks/gabbro, Gabbro Brick Wall
+tfc:wall/bricks/shale, Shale Brick Wall
+tfc:wall/bricks/claystone, Claystone Brick Wall
+tfc:wall/bricks/rocksalt, Rocksalt Brick Wall
+tfc:wall/bricks/limestone, Limestone Brick Wall
+tfc:wall/bricks/conglomerate, Conglomerate Brick Wall
+tfc:wall/bricks/dolomite, Dolomite Brick Wall
+tfc:wall/bricks/chert, Chert Brick Wall
+tfc:wall/bricks/chalk, Chalk Brick Wall
+tfc:wall/bricks/rhyolite, Rhyolite Brick Wall
+tfc:wall/bricks/basalt, Basalt Brick Wall
+tfc:wall/bricks/andesite, Andesite Brick Wall
+tfc:wall/bricks/dacite, Dacite Brick Wall
+tfc:wall/bricks/quartzite, Quartzite Brick Wall
+tfc:wall/bricks/slate, Slate Brick Wall
+tfc:wall/bricks/phyllite, Phyllite Brick Wall
+tfc:wall/bricks/schist, Schist Brick Wall
+tfc:wall/bricks/gneiss, Gneiss Brick Wall
+tfc:wall/bricks/marble, Marble Brick Wall
+tfc:wall/bricks/blaimorite, Blaimorite Bricks Wall
+tfc:wall/bricks/boninite, Boninite Bricks Wall
+tfc:wall/bricks/carbonatite, Carbonatite Bricks Wall
+tfc:wall/bricks/foidolite, Foidolite Bricks Wall
+tfc:wall/bricks/arkose, Arkose Bricks Wall
+tfc:wall/bricks/jaspillite, Jaspillite Bricks Wall
+tfc:wall/bricks/travertine, Travertine Bricks Wall
+tfc:wall/bricks/wackestone, Wackestone Bricks Wall
+tfc:wall/bricks/blueschist, Blueschist Bricks Wall
+tfc:wall/bricks/greenschist, Greenschist Bricks Wall
+tfc:wall/bricks/cataclasite, Cataclasite Bricks Wall
+tfc:wall/bricks/mylonite, Mylonite Bricks Wall
 tfc:fruit_trees/sapling/banana, Banana Sapling
 tfc:fruit_trees/sapling/cherry, Cherry Sapling
 tfc:fruit_trees/sapling/green_apple, Green Apple Sapling
@@ -17943,6 +18010,8 @@ tfc:plants/water_canna, Water Canna
 tfc:plants/water_lily, Water Lily
 tfc:firepit, Firepit
 tfc:charcoal_forge, Charcoal Forge
+tfc:pit_kiln, Pit Kiln
+tfc:placed_item, Placed Items
 tfc:wood/barrel/acacia, Acacia Barrel
 tfc:wood/barrel/ash, Ash Barrel
 tfc:wood/barrel/aspen, Aspen Barrel
@@ -18024,18 +18093,18 @@ tfc:slab/smooth/phyllite:0, Smooth Phyllite Slab
 tfc:slab/smooth/schist:0, Smooth Schist Slab
 tfc:slab/smooth/gneiss:0, Smooth Gneiss Slab
 tfc:slab/smooth/marble:0, Smooth Marble Slab
-tfc:slab/smooth/blaimorite:0, tile.tfc.slab.smooth.blaimorite.name
-tfc:slab/smooth/boninite:0, tile.tfc.slab.smooth.boninite.name
-tfc:slab/smooth/carbonatite:0, tile.tfc.slab.smooth.carbonatite.name
-tfc:slab/smooth/foidolite:0, tile.tfc.slab.smooth.foidolite.name
-tfc:slab/smooth/arkose:0, tile.tfc.slab.smooth.arkose.name
-tfc:slab/smooth/jaspillite:0, tile.tfc.slab.smooth.jaspillite.name
-tfc:slab/smooth/travertine:0, tile.tfc.slab.smooth.travertine.name
-tfc:slab/smooth/wackestone:0, tile.tfc.slab.smooth.wackestone.name
-tfc:slab/smooth/blueschist:0, tile.tfc.slab.smooth.blueschist.name
-tfc:slab/smooth/greenschist:0, tile.tfc.slab.smooth.greenschist.name
-tfc:slab/smooth/cataclasite:0, tile.tfc.slab.smooth.cataclasite.name
-tfc:slab/smooth/mylonite:0, tile.tfc.slab.smooth.mylonite.name
+tfc:slab/smooth/blaimorite:0, Smooth Blaimorite Slab
+tfc:slab/smooth/boninite:0, Smooth Boninite Slab
+tfc:slab/smooth/carbonatite:0, Smooth Carbonatite Slab
+tfc:slab/smooth/foidolite:0, Smooth Foidolite Slab
+tfc:slab/smooth/arkose:0, Smooth Arkose Slab
+tfc:slab/smooth/jaspillite:0, Smooth Jaspillite Slab
+tfc:slab/smooth/travertine:0, Smooth Travertine Slab
+tfc:slab/smooth/wackestone:0, Smooth Wackestone Slab
+tfc:slab/smooth/blueschist:0, Smooth Blueschist Slab
+tfc:slab/smooth/greenschist:0, Smooth Greenschist Slab
+tfc:slab/smooth/cataclasite:0, Smooth Cataclasite Slab
+tfc:slab/smooth/mylonite:0, Smooth Mylonite Slab
 tfc:slab/cobble/granite:0, Granite Cobble Slab
 tfc:slab/cobble/diorite:0, Diorite Cobble Slab
 tfc:slab/cobble/gabbro:0, Gabbro Cobble Slab
@@ -18057,51 +18126,51 @@ tfc:slab/cobble/phyllite:0, Phyllite Cobble Slab
 tfc:slab/cobble/schist:0, Schist Cobble Slab
 tfc:slab/cobble/gneiss:0, Gneiss Cobble Slab
 tfc:slab/cobble/marble:0, Marble Cobble Slab
-tfc:slab/cobble/blaimorite:0, tile.tfc.slab.cobble.blaimorite.name
-tfc:slab/cobble/boninite:0, tile.tfc.slab.cobble.boninite.name
-tfc:slab/cobble/carbonatite:0, tile.tfc.slab.cobble.carbonatite.name
-tfc:slab/cobble/foidolite:0, tile.tfc.slab.cobble.foidolite.name
-tfc:slab/cobble/arkose:0, tile.tfc.slab.cobble.arkose.name
-tfc:slab/cobble/jaspillite:0, tile.tfc.slab.cobble.jaspillite.name
-tfc:slab/cobble/travertine:0, tile.tfc.slab.cobble.travertine.name
-tfc:slab/cobble/wackestone:0, tile.tfc.slab.cobble.wackestone.name
-tfc:slab/cobble/blueschist:0, tile.tfc.slab.cobble.blueschist.name
-tfc:slab/cobble/greenschist:0, tile.tfc.slab.cobble.greenschist.name
-tfc:slab/cobble/cataclasite:0, tile.tfc.slab.cobble.cataclasite.name
-tfc:slab/cobble/mylonite:0, tile.tfc.slab.cobble.mylonite.name
-tfc:slab/bricks/granite:0, Granite Bricks Slab
-tfc:slab/bricks/diorite:0, Diorite Bricks Slab
-tfc:slab/bricks/gabbro:0, Gabbro Bricks Slab
-tfc:slab/bricks/shale:0, Shale Bricks Slab
-tfc:slab/bricks/claystone:0, Claystone Bricks Slab
-tfc:slab/bricks/rocksalt:0, Rocksalt Bricks Slab
-tfc:slab/bricks/limestone:0, Limestone Bricks Slab
-tfc:slab/bricks/conglomerate:0, Conglomerate Bricks Slab
-tfc:slab/bricks/dolomite:0, Dolomite Bricks Slab
-tfc:slab/bricks/chert:0, Chert Bricks Slab
-tfc:slab/bricks/chalk:0, Chalk Bricks Slab
-tfc:slab/bricks/rhyolite:0, Rhyolite Bricks Slab
-tfc:slab/bricks/basalt:0, Basalt Bricks Slab
-tfc:slab/bricks/andesite:0, Andesite Bricks Slab
-tfc:slab/bricks/dacite:0, Dacite Bricks Slab
-tfc:slab/bricks/quartzite:0, Quartzite Bricks Slab
-tfc:slab/bricks/slate:0, Slate Bricks Slab
-tfc:slab/bricks/phyllite:0, Phyllite Bricks Slab
-tfc:slab/bricks/schist:0, Schist Bricks Slab
-tfc:slab/bricks/gneiss:0, Gneiss Bricks Slab
-tfc:slab/bricks/marble:0, Marble Bricks Slab
-tfc:slab/bricks/blaimorite:0, tile.tfc.slab.bricks.blaimorite.name
-tfc:slab/bricks/boninite:0, tile.tfc.slab.bricks.boninite.name
-tfc:slab/bricks/carbonatite:0, tile.tfc.slab.bricks.carbonatite.name
-tfc:slab/bricks/foidolite:0, tile.tfc.slab.bricks.foidolite.name
-tfc:slab/bricks/arkose:0, tile.tfc.slab.bricks.arkose.name
-tfc:slab/bricks/jaspillite:0, tile.tfc.slab.bricks.jaspillite.name
-tfc:slab/bricks/travertine:0, tile.tfc.slab.bricks.travertine.name
-tfc:slab/bricks/wackestone:0, tile.tfc.slab.bricks.wackestone.name
-tfc:slab/bricks/blueschist:0, tile.tfc.slab.bricks.blueschist.name
-tfc:slab/bricks/greenschist:0, tile.tfc.slab.bricks.greenschist.name
-tfc:slab/bricks/cataclasite:0, tile.tfc.slab.bricks.cataclasite.name
-tfc:slab/bricks/mylonite:0, tile.tfc.slab.bricks.mylonite.name
+tfc:slab/cobble/blaimorite:0, Blaimorite Cobble Slab
+tfc:slab/cobble/boninite:0, Boninite Cobble Slab
+tfc:slab/cobble/carbonatite:0, Carbonatite Cobble Slab
+tfc:slab/cobble/foidolite:0, Foidolite Cobble Slab
+tfc:slab/cobble/arkose:0, Arkose Cobble Slab
+tfc:slab/cobble/jaspillite:0, Jaspillite Cobble Slab
+tfc:slab/cobble/travertine:0, Travertine Cobble Slab
+tfc:slab/cobble/wackestone:0, Wackestone Cobble Slab
+tfc:slab/cobble/blueschist:0, Blueschist Cobble Slab
+tfc:slab/cobble/greenschist:0, Greenschist Cobble Slab
+tfc:slab/cobble/cataclasite:0, Cataclasite Cobble Slab
+tfc:slab/cobble/mylonite:0, Mylonite Cobble Slab
+tfc:slab/bricks/granite:0, Granite Brick Slab
+tfc:slab/bricks/diorite:0, Diorite Brick Slab
+tfc:slab/bricks/gabbro:0, Gabbro Brick Slab
+tfc:slab/bricks/shale:0, Shale Brick Slab
+tfc:slab/bricks/claystone:0, Claystone Brick Slab
+tfc:slab/bricks/rocksalt:0, Rocksalt Brick Slab
+tfc:slab/bricks/limestone:0, Limestone Brick Slab
+tfc:slab/bricks/conglomerate:0, Conglomerate Brick Slab
+tfc:slab/bricks/dolomite:0, Dolomite Brick Slab
+tfc:slab/bricks/chert:0, Chert Brick Slab
+tfc:slab/bricks/chalk:0, Chalk Brick Slab
+tfc:slab/bricks/rhyolite:0, Rhyolite Brick Slab
+tfc:slab/bricks/basalt:0, Basalt Brick Slab
+tfc:slab/bricks/andesite:0, Andesite Brick Slab
+tfc:slab/bricks/dacite:0, Dacite Brick Slab
+tfc:slab/bricks/quartzite:0, Quartzite Brick Slab
+tfc:slab/bricks/slate:0, Slate Brick Slab
+tfc:slab/bricks/phyllite:0, Phyllite Brick Slab
+tfc:slab/bricks/schist:0, Schist Brick Slab
+tfc:slab/bricks/gneiss:0, Gneiss Brick Slab
+tfc:slab/bricks/marble:0, Marble Brick Slab
+tfc:slab/bricks/blaimorite:0, Blaimorite Bricks Slab
+tfc:slab/bricks/boninite:0, Boninite Bricks Slab
+tfc:slab/bricks/carbonatite:0, Carbonatite Bricks Slab
+tfc:slab/bricks/foidolite:0, Foidolite Bricks Slab
+tfc:slab/bricks/arkose:0, Arkose Bricks Slab
+tfc:slab/bricks/jaspillite:0, Jaspillite Bricks Slab
+tfc:slab/bricks/travertine:0, Travertine Bricks Slab
+tfc:slab/bricks/wackestone:0, Wackestone Bricks Slab
+tfc:slab/bricks/blueschist:0, Blueschist Bricks Slab
+tfc:slab/bricks/greenschist:0, Greenschist Bricks Slab
+tfc:slab/bricks/cataclasite:0, Cataclasite Bricks Slab
+tfc:slab/bricks/mylonite:0, Mylonite Bricks Slab
 tfc:slab/wood/acacia:0, Acacia Slab
 tfc:slab/wood/ash:0, Ash Slab
 tfc:slab/wood/aspen:0, Aspen Slab
@@ -18365,6 +18434,7 @@ tfc:food/barley_flour, Barley Flour
 tfc:food/barley_dough, Barley Dough
 tfc:food/barley_bread, Barley Bread
 tfc:food/maize, Maize
+tfc:food/maize_grain, Maize Grain
 tfc:food/cornbread, Cornbread
 tfc:food/cornmeal_flour, Cornmeal Flour
 tfc:food/cornmeal_dough, Cornmeal Dough
@@ -18417,26 +18487,28 @@ tfc:food/pheasant, Raw Pheasant
 tfc:food/venison, Raw Venison
 tfc:food/wolf, Raw Wolf Meat
 tfc:food/rabbit, Raw Rabbit Meat
-tfc:food/viande, Raw Viande
+tfc:food/hyena, Raw Hyena Meat
 tfc:food/duck, Raw Duck
 tfc:food/chevon, Raw Chevon
 tfc:food/gran_feline, Raw Gran Feline Meat
+tfc:food/camelidae, Raw Camelidae
 tfc:food/cooked_beef, Cooked Beef
 tfc:food/cooked_pork, Cooked Pork
 tfc:food/cooked_chicken, Cooked Chicken
 tfc:food/cooked_mutton, Cooked Mutton
 tfc:food/cooked_fish, Cooked Fish
-tfc:food/cooked_bear, Cooked Bear
+tfc:food/cooked_bear, Cooked Bear Meat
 tfc:food/cooked_calamari, Cooked Calamari
 tfc:food/cooked_horse_meat, Cooked Horse Meat
 tfc:food/cooked_pheasant, Cooked Pheasant
 tfc:food/cooked_venison, Cooked Venison
-tfc:food/cooked_wolf, Cooked Wolf
+tfc:food/cooked_wolf, Cooked Wolf Meat
 tfc:food/cooked_rabbit, Cooked Rabbit Meat
-tfc:food/cooked_viande, Cooked Viande
+tfc:food/cooked_hyena, Cooked Hyena Meat
 tfc:food/cooked_duck, Cooked Duck
 tfc:food/cooked_chevon, Cooked Chevon
 tfc:food/cooked_gran_feline, Cooked Gran Feline
+tfc:food/cooked_camelidae, Cooked Camelidae
 tfc:food/barley_bread_sandwich, Barley Bread Sandwich
 tfc:food/cornbread_sandwich, Cornbread Sandwich
 tfc:food/oat_bread_sandwich, Oat Bread Sandwich
@@ -20187,24 +20259,11 @@ jaopca:item_platevividalloy, %s Plate
 jaopca:item_platewroughtiron, %s Plate
 jaopca:item_platezircaloy, %s Plate
 jaopca:item_platezirconium, %s Plate
-jaopca:item_stickaluminium, %s Rod
-jaopca:item_stickardite, %s Rod
 jaopca:item_stickboron, %s Rod
-jaopca:item_stickcobalt, %s Rod
-jaopca:item_stickcopper, %s Rod
-jaopca:item_stickgold, %s Rod
 jaopca:item_stickiridium, %s Rod
-jaopca:item_sticklead, %s Rod
 jaopca:item_sticklithium, %s Rod
 jaopca:item_stickmagnesium, %s Rod
-jaopca:item_stickmithril, %s Rod
-jaopca:item_sticknickel, %s Rod
-jaopca:item_stickosmium, %s Rod
-jaopca:item_stickplatinum, %s Rod
-jaopca:item_sticksilver, %s Rod
 jaopca:item_stickthorium, %s Rod
-jaopca:item_sticktin, %s Rod
-jaopca:item_sticktungsten, %s Rod
 jaopca:item_stickuranium, %s Rod
 jaopca:item_stickcertusquartz, %s Rod
 jaopca:item_stickcinnabar, %s Rod
@@ -20217,63 +20276,40 @@ jaopca:item_stickquartzblack, %s Rod
 jaopca:item_stickruby, %s Rod
 jaopca:item_sticksapphire, %s Rod
 jaopca:item_stickadvancedalloy, %s Rod
-jaopca:item_stickaluminiumbrass, %s Rod
-jaopca:item_stickantimony, %s Rod
-jaopca:item_stickbismuth, %s Rod
-jaopca:item_stickbismuthbronze, %s Rod
-jaopca:item_stickblackbronze, %s Rod
-jaopca:item_stickblacksteel, %s Rod
-jaopca:item_stickbluesteel, %s Rod
-jaopca:item_stickbrass, %s Rod
-jaopca:item_stickbronze, %s Rod
 jaopca:item_stickconductiveiron, %s Rod
-jaopca:item_stickconstantan, %s Rod
 jaopca:item_stickcrystallinealloy, %s Rod
 jaopca:item_stickcrystallinepinkslime, %s Rod
 jaopca:item_stickdarksteel, %s Rod
 jaopca:item_stickelectricalsteel, %s Rod
-jaopca:item_stickelectrum, %s Rod
 jaopca:item_stickendsteel, %s Rod
 jaopca:item_stickenergeticalloy, %s Rod
 jaopca:item_stickenergeticsilver, %s Rod
 jaopca:item_stickferroboron, %s Rod
 jaopca:item_stickhardcarbon, %s Rod
-jaopca:item_stickinvar, %s Rod
 jaopca:item_stickiridiumalloy, %s Rod
 jaopca:item_stickleadplatinum, %s Rod
 jaopca:item_sticklithiummanganesedioxide, %s Rod
 jaopca:item_stickmagnesiumdiboride, %s Rod
 jaopca:item_stickmanganese, %s Rod
 jaopca:item_stickmanganesedioxide, %s Rod
-jaopca:item_stickmanyullyn, %s Rod
 jaopca:item_stickmelodicalloy, %s Rod
 jaopca:item_stickmixedmetal, %s Rod
-jaopca:item_sticknickelsilver, %s Rod
 jaopca:item_stickpulsatingiron, %s Rod
-jaopca:item_stickredalloy, %s Rod
-jaopca:item_stickredsteel, %s Rod
 jaopca:item_stickredstonealloy, %s Rod
 jaopca:item_stickrefinedglowstone, %s Rod
 jaopca:item_stickrefinediron, %s Rod
 jaopca:item_stickrefinedobsidian, %s Rod
-jaopca:item_stickrosegold, %s Rod
 jaopca:item_stickshibuichi, %s Rod
 jaopca:item_sticksignalum, %s Rod
 jaopca:item_sticksiliconcarbide, %s Rod
 jaopca:item_sticksoularium, %s Rod
-jaopca:item_sticksteel, %s Rod
 jaopca:item_stickstellaralloy, %s Rod
-jaopca:item_sticksterlingsilver, %s Rod
 jaopca:item_stickthermoconducting, %s Rod
 jaopca:item_sticktinsilver, %s Rod
-jaopca:item_sticktitanium, %s Rod
 jaopca:item_sticktough, %s Rod
-jaopca:item_sticktungstensteel, %s Rod
 jaopca:item_stickunknown, %s Rod
 jaopca:item_stickvibrantalloy, %s Rod
 jaopca:item_stickvividalloy, %s Rod
-jaopca:item_stickwroughtiron, %s Rod
-jaopca:item_stickzinc, %s Rod
 jaopca:item_stickzircaloy, %s Rod
 jaopca:item_stickzirconium, %s Rod
 jaopca:item_dusttinyaluminium, Tiny Pile of %s Dust
