@@ -36,9 +36,7 @@ var transmissionCoil = <thermalfoundation:material:514>;
 var receptionCoil = <thermalfoundation:material:513>;
 var silverWire = <tfctech:metal/silver_wire>;
 var goldWire = <tfctech:metal/gold_wire>;
-var autochisel = <chisel:auto_chisel>;
 var fairydust = <wings:fairy_dust>;
-var factory = <chisel:factory1:4>;
 var freshWaterWoodenBucket = <tfc:wooden_bucket>.withTag({Fluid: {FluidName: "fresh_water", Amount: 1000}});
 var freshWaterBucket = <forge:bucketfilled>.withTag({FluidName: "fresh_water", Amount: 1000});
 var toolforge = <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 0 as short}});
@@ -85,21 +83,15 @@ recipes.addShaped("thermalfoundation/reception_coil", receptionCoil, [
 
 // machine frame
 recipes.addShaped("thermalexpansion/machine_frame", machineFrame, [
-  [factory, <ore:wireCopper>, factory],
+  [<tfc:metal/ingot/mithril>, <ore:wireCopper>, <tfc:metal/ingot/mithril>],
   [<ore:wireCopper>, tinGear, <ore:wireCopper>],
-  [factory, <ore:wireCopper>, factory]
-]);
-
-recipes.addShaped("chisel/factory", factory*8, [
-  [<tfc:metal/ingot/mithril>, <ore:stonePolished>, <tfc:metal/ingot/mithril>],
-  [<ore:stonePolished>, copperInductor, <ore:stonePolished>],
-  [<tfc:metal/ingot/mithril>, <ore:stonePolished>, <tfc:metal/ingot/mithril>]
+  [<tfc:metal/ingot/mithril>, <ore:wireCopper>, <tfc:metal/ingot/mithril>]
 ]);
 
 // machine chassis
 recipes.addShaped("nuclearcraft/machine_chassis", machineChassis, [
   [lead, toughAlloy, lead],
-  [steel, factory, steel],
+  [steel, <tfc:metal/ingot/mithril>, steel],
   [lead, toughAlloy, lead]
 ]);
 
@@ -188,13 +180,6 @@ recipes.addShaped("appliedenergistics2/network/parts/tunnels_fluid", <appliedene
   [null, <minecraft:bucket>, null],
   [wroughtIron, <appliedenergistics2:material:24>, wroughtIron],
   [<appliedenergistics2:material:7>, <appliedenergistics2:material:7>, <appliedenergistics2:material:7>]
-]);
-
-// auto chisel
-recipes.addShaped("chisel/autochisel", autochisel, [
-  [<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
-  [<ore:blockGlass>, <ore:dustRedstone>, <ore:blockGlass>],
-  [wroughtIron, wroughtIron, wroughtIron]
 ]);
 
 // fairy dust
