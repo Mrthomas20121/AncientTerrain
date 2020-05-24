@@ -9,8 +9,6 @@ var materials = [
   'Copper', 
   'Nickel', 
   'Magnesium', 
-  'Diamond', 
-  'Emerald', 
   'RedSteel', 
   'Steel', 
   'BlackSteel', 
@@ -51,7 +49,6 @@ var materials = [
   'LeadPlatinum',
   'Zinc',
   'WroughtIron',
-  'Unknown',
   'Tungsten',
   'TungstenSteel',
   'Titanium'
