@@ -1,10 +1,10 @@
 import mods.immersivetechnology.SteamTurbine;
 
 var steam = <liquid:steam>;
-var fresh_water = <liquid:fresh_water>
+var fresh_water = <liquid:fresh_water>;
 
 // recipes removal
-SteamTurbine.removeFuel(<liquid:steam>);
+SteamTurbine.removeFuel(steam);
 
 // recipe addition
 
