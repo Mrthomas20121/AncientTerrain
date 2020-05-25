@@ -7295,35 +7295,35 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Prospector Pickaxe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -9013,66 +9013,66 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Prospector Pickaxe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Prospector Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10034,10 +10034,10 @@ tfc:wooden_bucket:0, Black Dye§r Bucket§r
 tfc:metal/bucket/blue_steel:0, Blue Steel Bucket
 tfc:metal/bucket/blue_steel:0, Lava§r Bucket§r
 tfc:metal/bucket/red_steel:0, Red Steel Bucket
-tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
-tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
-tfc:metal/bucket/red_steel:0, Fresh Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Fresh Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
 tfc:rock/granite, Granite Rock
 tfc:rock/diorite, Diorite Rock
 tfc:rock/gabbro, Gabbro Rock
@@ -10548,43 +10548,9 @@ tfc:metal/double_sheet/osmium, Osmium Double Sheet
 tfc:metal/double_sheet/titanium, Titanium Double Sheet
 tfc:metal/double_sheet/tungsten, Tungsten Double Sheet
 tfc:metal/double_sheet/tungsten_steel, Tungsten Steel Double Sheet
-tfc:metal/lamp/bismuth, Bismuth Lamp
-tfc:metal/lamp/bismuth_bronze, Bismuth Bronze Lamp
-tfc:metal/lamp/black_bronze, Black Bronze Lamp
-tfc:metal/lamp/brass, Brass Lamp
-tfc:metal/lamp/bronze, Bronze Lamp
-tfc:metal/lamp/copper, Copper Lamp
-tfc:metal/lamp/gold, Gold Lamp
-tfc:metal/lamp/lead, Lead Lamp
-tfc:metal/lamp/nickel, Nickel Lamp
-tfc:metal/lamp/rose_gold, Rose Gold Lamp
-tfc:metal/lamp/silver, Silver Lamp
-tfc:metal/lamp/tin, Tin Lamp
-tfc:metal/lamp/zinc, Zinc Lamp
-tfc:metal/lamp/sterling_silver, Sterling Silver Lamp
-tfc:metal/lamp/wrought_iron, Wrought Iron Lamp
-tfc:metal/lamp/pig_iron, Pig Iron Lamp
-tfc:metal/lamp/steel, Steel Lamp
-tfc:metal/lamp/platinum, Platinum Lamp
-tfc:metal/lamp/black_steel, Black Steel Lamp
-tfc:metal/lamp/blue_steel, Blue Steel Lamp
-tfc:metal/lamp/red_steel, Red Steel Lamp
-tfc:metal/lamp/antimony, tile.tfc.lamp.antimony.name
-tfc:metal/lamp/constantan, tile.tfc.lamp.constantan.name
-tfc:metal/lamp/electrum, tile.tfc.lamp.electrum.name
-tfc:metal/lamp/nickel_silver, tile.tfc.lamp.nickel_silver.name
-tfc:metal/lamp/red_alloy, tile.tfc.lamp.red_alloy.name
-tfc:metal/lamp/mithril, tile.tfc.lamp.mithril.name
-tfc:metal/lamp/invar, tile.tfc.lamp.invar.name
-tfc:metal/lamp/aluminium, tile.tfc.lamp.aluminium.name
-tfc:metal/lamp/aluminium_brass, tile.tfc.lamp.aluminium_brass.name
-tfc:metal/lamp/ardite, tile.tfc.lamp.ardite.name
-tfc:metal/lamp/cobalt, tile.tfc.lamp.cobalt.name
-tfc:metal/lamp/manyullyn, tile.tfc.lamp.manyullyn.name
-tfc:metal/lamp/osmium, tile.tfc.lamp.osmium.name
-tfc:metal/lamp/titanium, tile.tfc.lamp.titanium.name
-tfc:metal/lamp/tungsten, tile.tfc.lamp.tungsten.name
-tfc:metal/lamp/tungsten_steel, tile.tfc.lamp.tungsten_steel.name
+tfc:metal/rod/gold, item.tfc.metal.rod.gold.name
+tfc:metal/rod/wrought_iron, item.tfc.metal.rod.wrought_iron.name
+tfc:metal/rod/steel, item.tfc.metal.rod.steel.name
 tfc:metal/anvil/bismuth_bronze, Bismuth Bronze Anvil
 tfc:metal/anvil/black_bronze, Black Bronze Anvil
 tfc:metal/anvil/bronze, Bronze Anvil
@@ -10623,6 +10589,43 @@ tfc:metal/tuyere/osmium, Osmium Tuyere
 tfc:metal/tuyere/titanium, Titanium Tuyere
 tfc:metal/tuyere/tungsten, Tungsten Tuyere
 tfc:metal/tuyere/tungsten_steel, Tungsten Steel Tuyere
+tfc:metal/lamp/bismuth, Bismuth Lamp
+tfc:metal/lamp/bismuth_bronze, Bismuth Bronze Lamp
+tfc:metal/lamp/black_bronze, Black Bronze Lamp
+tfc:metal/lamp/brass, Brass Lamp
+tfc:metal/lamp/bronze, Bronze Lamp
+tfc:metal/lamp/copper, Copper Lamp
+tfc:metal/lamp/gold, Gold Lamp
+tfc:metal/lamp/lead, Lead Lamp
+tfc:metal/lamp/nickel, Nickel Lamp
+tfc:metal/lamp/rose_gold, Rose Gold Lamp
+tfc:metal/lamp/silver, Silver Lamp
+tfc:metal/lamp/tin, Tin Lamp
+tfc:metal/lamp/zinc, Zinc Lamp
+tfc:metal/lamp/sterling_silver, Sterling Silver Lamp
+tfc:metal/lamp/wrought_iron, Wrought Iron Lamp
+tfc:metal/lamp/pig_iron, Pig Iron Lamp
+tfc:metal/lamp/steel, Steel Lamp
+tfc:metal/lamp/platinum, Platinum Lamp
+tfc:metal/lamp/black_steel, Black Steel Lamp
+tfc:metal/lamp/blue_steel, Blue Steel Lamp
+tfc:metal/lamp/red_steel, Red Steel Lamp
+tfc:metal/lamp/antimony, tile.tfc.lamp.antimony.name
+tfc:metal/lamp/constantan, tile.tfc.lamp.constantan.name
+tfc:metal/lamp/electrum, tile.tfc.lamp.electrum.name
+tfc:metal/lamp/nickel_silver, tile.tfc.lamp.nickel_silver.name
+tfc:metal/lamp/red_alloy, tile.tfc.lamp.red_alloy.name
+tfc:metal/lamp/mithril, tile.tfc.lamp.mithril.name
+tfc:metal/lamp/invar, tile.tfc.lamp.invar.name
+tfc:metal/lamp/aluminium, tile.tfc.lamp.aluminium.name
+tfc:metal/lamp/aluminium_brass, tile.tfc.lamp.aluminium_brass.name
+tfc:metal/lamp/ardite, tile.tfc.lamp.ardite.name
+tfc:metal/lamp/cobalt, tile.tfc.lamp.cobalt.name
+tfc:metal/lamp/manyullyn, tile.tfc.lamp.manyullyn.name
+tfc:metal/lamp/osmium, tile.tfc.lamp.osmium.name
+tfc:metal/lamp/titanium, tile.tfc.lamp.titanium.name
+tfc:metal/lamp/tungsten, tile.tfc.lamp.tungsten.name
+tfc:metal/lamp/tungsten_steel, tile.tfc.lamp.tungsten_steel.name
 tfc:metal/pick/bismuth_bronze, Bismuth Bronze Pickaxe
 tfc:metal/pick/black_bronze, Black Bronze Pickaxe
 tfc:metal/pick/bronze, Bronze Pickaxe
@@ -14633,6 +14636,8 @@ tfc:dye/blue, Blue Dye
 tfc:dye/white, White Dye
 tfc:dye/brown, Brown Dye
 tfc:alabaster_brick, Alabaster Brick
+tfc:glue, Glue
+tfc:brass_mechanisms, Brass Mechanisms
 tfc:goldpan:0, Empty Goldpan
 tfc:goldpan:1, Goldpan with Sand
 tfc:goldpan:2, Goldpan with Gravel
