@@ -62,3 +62,7 @@ recipes.remove(<actuallyadditions:item_misc:7>);
 recipes.remove(<actuallyadditions:item_misc:8>);
 recipes.remove(<actuallyadditions:block_misc:9>);
 recipes.remove(<actuallyadditions:block_coal_generator>);
+recipes.removeByRecipeName("immersiveengineering:stone_decoration/coke_brick");
+recipes.removeByRecipeName("immersiveengineering:stone_decoration/blast_brick");
+recipes.removeByRecipeName("immersiveengineering:sheetmetal/iron_sheetmetal");
+recipes.remove(<immersiveengineering:metal_device1:2>);

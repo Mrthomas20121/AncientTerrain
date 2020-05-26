@@ -112,20 +112,6 @@ recipes.addShaped("thermalexpansion/pulverizer", pulverizer, [
   [copperGear, redcoil, copperGear]
 ]);
 
-// piston
-recipes.addShaped("minecraft/vanilla/piston", piston, [
-  [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
-  [<ore:cobblestone>, wroughtIron, <ore:cobblestone>],
-  [<ore:cobblestone>, redstoneDust, <ore:cobblestone>]
-]);
-
-// sticky_piston
-recipes.addShaped("minecraft/vanilla/sticky_piston", <minecraft:sticky_piston>, [
-  [null, <ore:slimeball>, null],
-  [null, piston, null],
-  [null, null, null]
-]);
-
 // redstone servo
 recipes.addShaped("thermalfoundation/redstone_servo", servo, [
   [null, redstoneDust, null],
@@ -202,5 +188,36 @@ recipes.addShaped('techreborn/insulated_copper_cable', <techreborn:cable:5>*3, [
   [<techreborn:cable>, <techreborn:cable>, <techreborn:cable>],
   [<ore:itemRubber>, <ore:itemRubber>, <ore:itemRubber>]
 ]);
+
+// ie recipes
+
+// blastbrick
+recipes.addShaped('ie/stone_decoration/blastbrick', <immersiveengineering:stone_decoration:1>*3, [
+  [<minecraft:brick>, <minecraft:brick>, <minecraft:brick>],
+  [<minecraft:brick>, <tfc:powder/sulfur>, <minecraft:brick>],
+  [<minecraft:brick>, <minecraft:brick>, <minecraft:brick>]
+]);
+
+// coke brick
+recipes.addShaped('ie/stone_decoration/cokebrick', <immersiveengineering:stone_decoration>*3, [
+  [<tfc:ceramics/unfired/clay_brick>, <minecraft:brick>, <tfc:ceramics/unfired/clay_brick>],
+  [<minecraft:brick>, freshWaterBucket.or(freshWaterWoodenBucket), <minecraft:brick>],
+  [<tfc:ceramics/unfired/clay_brick>, <minecraft:brick>, <tfc:ceramics/unfired/clay_brick>]
+]);
+
+// Iron Sheet metal
+recipes.addShaped('ie/sheetmetal/iron_sheetmetal', <immersiveengineering:sheetmetal:9>*4, [
+  [null, <ore:plateWroughtIron>, null],
+  [<ore:plateWroughtIron>, null, <ore:plateWroughtIron>],
+  [null, <ore:plateWroughtIron>, null]
+]);
+
+// kinetic dynamo 
+recipes.addShaped('ie/metal_devices/dynamo', <immersiveengineering:metal_device1:2>*4, [
+  [null, <ore:plateWroughtIron>, null],
+  [<tfc:metal/ingot/red_alloy>, <immersiveengineering:metal_decoration0>, <tfc:metal/ingot/red_alloy>],
+  [<ore:ingotWroughtIron>, <ore:ingotWroughtIron>, <ore:ingotWroughtIron>]
+]);
+
 
 // to do, replace recipes using glowstone dust
