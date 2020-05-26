@@ -1,0 +1,32 @@
+{
+  "debug": false,
+  "match": {
+    "blocks": {
+      "type": "WHITELIST",
+      "blocks": []
+    },
+    "drops": {
+      "type": "WHITELIST",
+      "drops": []
+    },
+    "harvester": {
+      "type": "PLAYER",
+      "heldItemMainHand": {
+        "type": "WHITELIST",
+        "items": []
+      }
+    },
+    "dimensions": 0
+  },
+  "replaceStrategy": "ADD",
+  "dropStrategy": "REPEAT",
+  "dropCount": 1,
+  "drops": {
+    "force": false,
+    "item": {
+      "items": [],
+      "quantity": 2
+    },
+    "xp": 0
+  }
+}
