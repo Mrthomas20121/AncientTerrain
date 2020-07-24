@@ -1,0 +1,69 @@
+{
+	title: "Clay Knapping",
+	x: -4.5d,
+	y: -4.0d,
+	shape: "circle",
+	text: [
+		"Just like &astone knapping&r, you will make stuff with &eclay&r.",
+		"&cThe jug&r is your &3water&r source. you need it to drink water.",
+		"&5The vessel&r will be used to make &2ingot&r and other stuff.",
+		"And the &abowl&r is used for &6sifting&r."
+	],
+	dependencies: [
+		"d5c327dc"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "75f1c6d2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/unfired/bowl"
+		}]
+	},
+	{
+		uid: "f7c8b02d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/unfired/jug"
+		}]
+	},
+	{
+		uid: "6d519a31",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/unfired/vessel"
+		}]
+	},
+	{
+		uid: "f675a7ea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/unfired/spindle"
+		}]
+	}]
+}

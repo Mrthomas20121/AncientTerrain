@@ -1,17 +1,4 @@
 {
-    "images":
-    {
-		"modpack":
-		{
-            "image" : "mainmenu:logo_modpack.png",
-            "posX" : 137,
-            "posY" : -19,
-            "width" : 287,
-            "height" : 135,
-            "alignment" : "left_center"
-		}
-    },
-    
     "buttons":
     {
         "singleplayer":

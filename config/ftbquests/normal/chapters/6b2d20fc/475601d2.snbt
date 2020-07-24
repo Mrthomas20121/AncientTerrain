@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	hide: true,
+	tasks: [{
+		uid: "3c3024a5",
+		type: "item",
+		items: [{
+			item: "tfctech:induction_crucible"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

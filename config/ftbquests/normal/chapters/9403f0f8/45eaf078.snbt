@@ -1,0 +1,21 @@
+{
+	title: "Native Silver",
+	x: -9.5d,
+	y: -5.0d,
+	dependencies: [
+		"7fe6b3e6"
+	],
+	tasks: [{
+		uid: "399c105a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSilverNative",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

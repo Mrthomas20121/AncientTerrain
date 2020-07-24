@@ -20,3 +20,5 @@ minecraftinstance.json
 options.txt
 usercache.json
 usernamecache.json
+mineraltracker
+*.sample2

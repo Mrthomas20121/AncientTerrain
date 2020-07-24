@@ -1,0 +1,49 @@
+{
+	x: -3.5d,
+	y: 2.0d,
+	text: [
+		"The &bIndustrial Grinder&r will allow you to turn tfc ore drop(rich, poor, small, normal) into dust of metal.",
+		"Because the &bIndustrial Grinder&r Multiblock require minecraft water, the reward is a water cell."
+	],
+	dependencies: [
+		"f7a918a4",
+		"aeb71578"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ce14071c",
+		type: "item",
+		items: [{
+			item: "techreborn:industrial_grinder"
+		}]
+	},
+	{
+		uid: "bc124df6",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing 1 1"
+		}],
+		count: 8L
+	},
+	{
+		uid: "c4fa56aa",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing"
+		}],
+		count: 18L
+	}],
+	rewards: [{
+		uid: "d803482f",
+		type: "item",
+		item: {
+			id: "techreborn:dynamiccell",
+			tag: {
+				Fluid: {
+					FluidName: "water",
+					Amount: 1000
+				}
+			}
+		}
+	}]
+}

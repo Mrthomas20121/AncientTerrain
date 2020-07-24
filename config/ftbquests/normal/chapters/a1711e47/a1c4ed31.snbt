@@ -1,0 +1,15 @@
+{
+	x: -4.0d,
+	y: -1.5d,
+	dependencies: [
+		"7432f628"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1beb3e53",
+		type: "item",
+		items: [{
+			item: "tfc:blast_furnace"
+		}]
+	}]
+}

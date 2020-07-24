@@ -1,0 +1,21 @@
+{
+	title: "Malachite",
+	x: -9.5d,
+	y: -7.0d,
+	dependencies: [
+		"3ca78fa8"
+	],
+	tasks: [{
+		uid: "9c96b087",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMalachite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

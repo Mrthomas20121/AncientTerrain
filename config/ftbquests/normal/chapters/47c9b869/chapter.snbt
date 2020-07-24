@@ -1,0 +1,15 @@
+{
+	title: "Chapter 1 - Getting started",
+	icon: {
+		ForgeCaps: {
+			"tfc:item_heat": {
+				heat: 0.0f,
+				ticks: -1L
+			}
+		},
+		id: "tfc:rock/chert"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

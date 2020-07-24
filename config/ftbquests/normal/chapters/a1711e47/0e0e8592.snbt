@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	dependencies: [
+		"70c63837"
+	],
+	tasks: [{
+		uid: "452fac0f",
+		type: "item",
+		items: [{
+			item: "tfctech:wire_draw_bench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

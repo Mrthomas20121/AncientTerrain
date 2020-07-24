@@ -1,0 +1,4 @@
+[INFO]  Located rule file: hemp_seed.json
+[ERROR] Unable to load rule file: hemp_seed.json
+[ERROR] Invalid property name: debug
+[INFO]  No rule files loaded.

@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	dependencies: [
+		"ccdb7857"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5d138998",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_coal_generator"
+		}]
+	}]
+}

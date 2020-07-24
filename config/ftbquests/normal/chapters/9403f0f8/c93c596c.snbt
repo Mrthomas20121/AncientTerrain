@@ -1,0 +1,21 @@
+{
+	title: "Native Platinum",
+	x: -6.5d,
+	y: -5.0d,
+	dependencies: [
+		"2b7ac59b"
+	],
+	tasks: [{
+		uid: "076ca9ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePlatinumNative",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

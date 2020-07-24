@@ -1,0 +1,46 @@
+{
+	x: -6.0d,
+	y: -2.5d,
+	text: [
+		"Fresh Water is the water you need to drink.",
+		"Do not drink salt water!",
+		"The Jug can break after drinking. when it happen, make a new one."
+	],
+	dependencies: [
+		"2bec8302"
+	],
+	hide: true,
+	tasks: [{
+		uid: "be15da74",
+		type: "item",
+		items: [{
+			id: "tfc:ceramics/fired/jug",
+			tag: {
+				Fluid: {
+					FluidName: "fresh_water",
+					Amount: 100
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "2c71236f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"tfc:item_heat": {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:rock/rocksalt"
+		},
+		count: 5
+	},
+	{
+		uid: "094e6869",
+		type: "item",
+		item: "tfc:ore/lapis_lazuli",
+		count: 3
+	}]
+}

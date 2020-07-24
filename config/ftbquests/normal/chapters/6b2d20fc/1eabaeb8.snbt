@@ -1,0 +1,20 @@
+{
+	x: -3.5d,
+	y: 4.0d,
+	text: [
+		"The &bSawmill&r require the same multiblock structure as the &bIndustrial Grinder&r.",
+		"However, they can't be placed next to each other.",
+		"You can however, put the &bSawmill&r on another side of the multiblock."
+	],
+	dependencies: [
+		"752f306e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "70b75edf",
+		type: "item",
+		items: [{
+			item: "techreborn:industrial_sawmill"
+		}]
+	}]
+}

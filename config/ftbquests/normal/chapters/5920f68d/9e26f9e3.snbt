@@ -1,0 +1,45 @@
+{
+	title: "Copper",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				heat: 0.0f,
+				ticks: -1L
+			}
+		},
+		id: "tfc:ore/native_copper",
+		Damage: 2s
+	},
+	x: 0.0d,
+	y: -1.0d,
+	text: [
+		"Copper can be find in malachite, native_copper and tetrahedrite vein.",
+		"In TFC, Ores can be find in rich, normal and poor vein.",
+		"Poor ore drop is 15 unit, Normal ore drop is 25 unit and Rich ore drop is 35 unit.",
+		"100 unit = 1 ingot."
+	],
+	dependencies: [
+		"c048069d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "acb36984",
+		type: "item",
+		title: "Any copperTFC",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "copperTFC",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "559c8d84",
+		type: "item",
+		item: "tfc:wood/log/palm",
+		count: 4
+	}]
+}

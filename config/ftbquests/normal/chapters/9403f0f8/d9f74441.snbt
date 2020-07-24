@@ -1,0 +1,21 @@
+{
+	title: "Native Copper",
+	x: -9.5d,
+	y: -6.0d,
+	dependencies: [
+		"32a5167f"
+	],
+	tasks: [{
+		uid: "631d682a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopperNative",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

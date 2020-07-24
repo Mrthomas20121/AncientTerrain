@@ -1,0 +1,36 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	text: [
+		"The &bBlast Furnace require 34 casing.",
+		"&rTo get more &cheat&r you can replace the casing with better casing, add lava inside the multiblock or add heating coil to the &bblast furnace&r.",
+		"To get the max heat, you need &aadvanced machine casing&r, &clava&r inside the multiblock and &44&a kanthal heating coil&r."
+	],
+	dependencies: [
+		"a1c4ed31"
+	],
+	tasks: [{
+		uid: "feb13ab5",
+		type: "item",
+		items: [{
+			id: "techreborn:industrial_blast_furnace",
+			tag: {}
+		}]
+	},
+	{
+		uid: "208d7718",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing"
+		}],
+		count: 32L
+	},
+	{
+		uid: "62915c11",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing"
+		}],
+		count: 2L
+	}]
+}

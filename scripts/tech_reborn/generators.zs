@@ -20,9 +20,3 @@ fluidGen.removeDieselFluid(tr_diesel);
 fluidGen.removeDieselFluid(tr_nitrodiesel);
 fluidGen.removeDieselFluid(tr_nitrofuel);
 fluidGen.removeDieselFluid(tr_nitrocoalfuel);
-
-var diesels as ILiquidStack[] = [diesel*200, tr_diesel*200, gasoline*200, <liquid:biodiesel>*200, naphtha];
-
-for d in diesels {
-  fluidGen.addDieselFluid(d, 153600);
-}

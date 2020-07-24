@@ -1,0 +1,36 @@
+{
+	icon: {
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "patchouli:terrafirmacraft"
+		}
+	},
+	x: 0.0d,
+	y: -1.0d,
+	text: [
+		"Ancient Terrain is a modpack featuring &aTFC&r.",
+		"Here a &bTFC Book&r to get you started!"
+	],
+	tasks: [{
+		uid: "97ece898",
+		type: "checkmark",
+		title: "Getting started.",
+		icon: "tconstruct:book"
+	}],
+	rewards: [{
+		uid: "5ff4f7ba",
+		type: "item",
+		auto: "enabled",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "patchouli:terrafirmacraft"
+			}
+		}
+	},
+	{
+		uid: "5ea0815d",
+		type: "item",
+		item: "immersiveengineering:tool 1 3"
+	}]
+}

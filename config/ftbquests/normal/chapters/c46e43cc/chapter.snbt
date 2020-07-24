@@ -1,0 +1,16 @@
+{
+	title: "Chapter 2 - Differents Ages",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				heat: 0.0f,
+				ticks: -1L
+			}
+		},
+		id: "tfc:ore/garnierite",
+		Damage: 2s
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

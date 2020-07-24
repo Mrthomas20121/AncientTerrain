@@ -1,0 +1,28 @@
+{
+	title: "Small Copper",
+	x: -2.0d,
+	y: -1.0d,
+	text: [
+		"Small Copper can be find on the surface, indicating a copper vein underground.",
+		""
+	],
+	tasks: [{
+		uid: "8fab6a75",
+		type: "item",
+		title: "Any oreCopperSmall",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopperSmall",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "1441a4a3",
+		type: "xp",
+		xp: 100
+	}]
+}

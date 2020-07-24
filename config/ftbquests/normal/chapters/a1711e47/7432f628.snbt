@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	text: [
+		"&6Require Bronze Age!"
+	],
+	dependencies: [
+		"7decb443"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3550a989",
+		type: "item",
+		items: [{
+			item: "tfc:bloomery"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -7.0d,
+	dependencies: [
+		"d18cd081"
+	],
+	hide: true,
+	tasks: [{
+		uid: "876038e4",
+		type: "item",
+		items: [{
+			item: "tfc:animal/product/wool"
+		}]
+	}]
+}

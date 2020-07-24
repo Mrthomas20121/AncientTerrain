@@ -1,0 +1,22 @@
+{
+	title: "Cassiterite",
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"634ea313"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9f8e8d9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "tinTFC",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

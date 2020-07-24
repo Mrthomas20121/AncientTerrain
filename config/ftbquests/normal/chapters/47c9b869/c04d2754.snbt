@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: -7.0d,
+	dependencies: [
+		"2d6320ec"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "3f4da863",
+		type: "item",
+		items: [{
+			item: "minecraft:bed"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Clay",
+	x: -3.0d,
+	y: -4.0d,
+	text: [
+		"In TFC, Clay cannot be find in water.",
+		"Clay looks like a grass blocks from the top. you'll see flowers nearby."
+	],
+	dependencies: [
+		"d18cd081"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0ccad78d",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 20L
+	}]
+}

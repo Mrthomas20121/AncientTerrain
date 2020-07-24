@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "7cc77a73",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/malachite"
+		}]
+	}]
+}

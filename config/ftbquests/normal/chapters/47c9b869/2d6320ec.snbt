@@ -1,0 +1,25 @@
+{
+	x: -6.0d,
+	y: -7.0d,
+	dependencies: [
+		"9272975f",
+		"a67617c3"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8069f9b9",
+		type: "item",
+		items: [{
+			item: "tfc:animal/product/wool_yarn"
+		}],
+		count: 128L
+	},
+	{
+		uid: "57b9ffc3",
+		type: "item",
+		items: [{
+			item: "tfc:animal/product/wool_cloth"
+		}],
+		count: 8L
+	}]
+}

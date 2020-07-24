@@ -1,0 +1,82 @@
+{
+	title: "firestarter",
+	x: -4.5d,
+	y: -2.5d,
+	text: [
+		"To make these, you need a firestarter, 8 straw, 8 wood log.",
+		"Place the unfired items in a 1 block hole using the V key.",
+		"Then place the 8 straw on top of it and the log on top of the straw.",
+		"Use the firestarter to burn the top. ",
+		"It take a while, so do other stuffs while it's getting ready!"
+	],
+	dependencies: [
+		"71176e43"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7f24a5a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					fluidMode: 0b,
+					ticks: -1L,
+					items: {
+						Size: 4,
+						Items: []
+					}
+				}
+			},
+			id: "tfc:ceramics/fired/vessel",
+			tag: {
+				caps: {
+					heat: 0.0f,
+					fluidMode: 0b,
+					ticks: -1L,
+					items: {
+						Size: 4,
+						Items: []
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9e123f6f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/fired/bowl"
+		}]
+	},
+	{
+		uid: "ba2b4645",
+		type: "item",
+		items: [{
+			item: "tfc:ceramics/fired/jug"
+		}]
+	},
+	{
+		uid: "601cac46",
+		type: "item",
+		items: [{
+			item: "tfc:firestarter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d4cd236c",
+		type: "item",
+		item: "tfc:ore/pitchblende",
+		count: 2
+	}]
+}

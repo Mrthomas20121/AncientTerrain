@@ -1,0 +1,7 @@
+{
+	title: "Ores",
+	icon: "tfc:ore/sulfur/granite",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

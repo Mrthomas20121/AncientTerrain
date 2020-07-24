@@ -1,0 +1,21 @@
+{
+	title: "Tetrahedrite",
+	x: -6.5d,
+	y: -7.0d,
+	dependencies: [
+		"ecfa3fa0"
+	],
+	tasks: [{
+		uid: "ad824d41",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTetrahedrite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Fluid Tank",
+	x: -2.0d,
+	y: 1.5d,
+	dependencies: [
+		"1dad1e0e"
+	],
+	tasks: [{
+		uid: "0851b017",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:sheetmetal 1 9"
+		}],
+		count: 33L
+	},
+	{
+		uid: "9b982892",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_decoration"
+		}],
+		count: 4L
+	}]
+}

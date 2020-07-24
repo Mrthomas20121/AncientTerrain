@@ -1,0 +1,21 @@
+{
+	title: "Native Gold",
+	x: -6.5d,
+	y: -6.0d,
+	dependencies: [
+		"09f04e04"
+	],
+	tasks: [{
+		uid: "f2a476ee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGoldNative",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

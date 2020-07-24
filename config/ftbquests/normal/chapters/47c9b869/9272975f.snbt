@@ -1,0 +1,28 @@
+{
+	x: -4.5d,
+	y: -5.5d,
+	dependencies: [
+		"71176e43"
+	],
+	hide: true,
+	tasks: [{
+		uid: "44e49264",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ceramics/fired/spindle"
+		}]
+	},
+	{
+		uid: "90debee1",
+		type: "item",
+		items: [{
+			item: "tfc:spindle"
+		}]
+	}]
+}

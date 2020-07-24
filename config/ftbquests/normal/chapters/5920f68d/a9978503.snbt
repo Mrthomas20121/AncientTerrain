@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	text: [
+		"&aTinkers' Construct&r is in the pack.",
+		"If you want you can make and use tinker's tools.",
+		"you will need a smeltery if you want to use something else than wood for the handle."
+	],
+	dependencies: [
+		"634ea313"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f9c112a6",
+		type: "checkmark",
+		title: "Tinker's"
+	}]
+}

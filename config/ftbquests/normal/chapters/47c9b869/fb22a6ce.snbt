@@ -1,0 +1,27 @@
+{
+	title: "6x Rock",
+	x: 0.0d,
+	y: -4.0d,
+	shape: "circle",
+	text: [
+		"&4Rocks&r are found on the surface like sticks."
+	],
+	dependencies: [
+		"c2357b63"
+	],
+	hide: true,
+	tasks: [{
+		uid: "bacf92b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "rock",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 12L
+	}]
+}

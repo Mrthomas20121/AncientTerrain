@@ -1,0 +1,93 @@
+{
+	title: "Stone Knapping",
+	icon: "tfc:stone/axe/igneous_extrusive",
+	x: -1.5d,
+	y: -4.0d,
+	text: [
+		"Right Click with &7Rocks&r in your hand to knap the &7rocks&r into a shape."
+	],
+	dependencies: [
+		"fb22a6ce"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a34d9d1a",
+		type: "item",
+		title: "Any shovelStone",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "shovelStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "57166563",
+		type: "item",
+		title: "Any knifeStone",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "knifeStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "58cff6d4",
+		type: "item",
+		title: "Any hammerStone",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "hammerStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e42e7e86",
+		type: "item",
+		title: "Any javelinStone",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "javelinStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6db70d93",
+		type: "item",
+		title: "Any axeStone",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "axeStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

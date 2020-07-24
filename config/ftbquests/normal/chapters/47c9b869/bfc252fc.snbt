@@ -1,0 +1,65 @@
+{
+	title: "Sifting",
+	x: -4.5d,
+	y: 0.5d,
+	text: [
+		"Native copper, gold, silver and platinum nugget are obtained via goldpan.",
+		"But they can still be found in the world indicating a ore vein below."
+	],
+	dependencies: [
+		"284c72c5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "af32c2cb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/native_platinum"
+		}]
+	},
+	{
+		uid: "acb01512",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/native_copper"
+		}]
+	},
+	{
+		uid: "660cc51c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/native_silver"
+		}]
+	},
+	{
+		uid: "b3926fc9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/native_gold"
+		}]
+	}]
+}

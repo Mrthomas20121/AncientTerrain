@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: -2.5d,
+	text: [
+		"You can get &cstick&r by breaking &2leaves&r or by finding them on the ground."
+	],
+	dependencies: [
+		"e060be8d"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6a8b865a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"tfc:item_size": {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "minecraft:stick"
+		}],
+		count: 5L
+	}]
+}

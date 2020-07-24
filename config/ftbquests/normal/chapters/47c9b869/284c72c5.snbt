@@ -1,0 +1,38 @@
+{
+	title: "goldpan",
+	x: -4.5d,
+	y: -1.0d,
+	text: [
+		"To get sand in your goldpan, right click on any sand in the world. you can find sand on beaches.",
+		"To get gravel, right click on gravel with the goldpan.",
+		"Then empty the goldpan(hold click) while looking at any liquid block."
+	],
+	dependencies: [
+		"2bec8302"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dd4e5ea0",
+		type: "item",
+		items: [{
+			item: "tfc:goldpan"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ec9a3046",
+		type: "item",
+		items: [{
+			item: "tfc:goldpan 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "110b7f37",
+		type: "item",
+		items: [{
+			item: "tfc:goldpan 1 2"
+		}],
+		ignore_nbt: 1b
+	}]
+}
