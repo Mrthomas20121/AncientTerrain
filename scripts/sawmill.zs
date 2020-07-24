@@ -1,4 +1,3 @@
-import mods.mekanism.sawmill as MekSawmill;
 import mods.thermalexpansion.Sawmill;
 import mods.techreborn.industrialSawmill;
 
@@ -150,12 +149,6 @@ val tfc_woods = {
 } as IItemStack[string][string];
 
 for woodTypes, wood in tfc_woods {
-
-  MekSawmill.addRecipe(wood['log'], wood['plank']*6, sawdust, 0.2);
-  MekSawmill.addRecipe(wood['door'], wood['plank']*3, sawdust, 0.2);
-  MekSawmill.addRecipe(wood['trapdoor'], wood['plank']*3, sawdust, 0.2);
-  MekSawmill.addRecipe(wood['plank'], wood['lumber']*6, sawdust, 0.2);
-  MekSawmill.addRecipe(wood['lumber'], sawdust*4);
   Sawmill.addRecipe(wood['plank']*6, wood['log'], 2000, sawdust, 20);
   Sawmill.addRecipe(wood['plank']*3, wood['door'], 2000, sawdust, 20);
   Sawmill.addRecipe(wood['plank']*3, wood['trapdoor'], 2000, sawdust, 20);
