@@ -34,26 +34,17 @@ var freshWaterWoodenBucket = <tfc:wooden_bucket>.withTag({Fluid: {FluidName: "fr
 var freshWaterBucket = <forge:bucketfilled>.withTag({FluidName: "fresh_water", Amount: 1000});
 var toolforge = <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfoundation:storage", Count: 1 as byte, Damage: 0 as short}});
 // recipes removal
-recipes.removeByRecipeName("thermalfoundation:clay_ball");
 recipes.remove(<thermalexpansion:cell>);
 recipes.remove(cellframe);
 recipes.remove(machineFrame);
 recipes.remove(redstoneConductance);
 recipes.remove(machineChassis);
-recipes.removeByRecipeName("enderio:tweak_wood_hopper");
 recipes.remove(toolforge);
 recipes.remove(solenoidCopper);
 recipes.remove(<thermalexpansion:machine:5>);
 recipes.remove(gearworkdie);
 recipes.remove(servo);
 recipes.remove(electricMotor);
-recipes.removeByRecipeName("appliedenergistics2:tools/network_memory_card");
-recipes.removeByRecipeName("appliedenergistics2:tools/network_biometric_card");
-recipes.removeByRecipeName("appliedenergistics2:network/parts/tunnels_me");
-recipes.removeByRecipeName("thermalexpansion:satchel_1");
-recipes.removeByRecipeName('techreborn:cable_6');
-recipes.removeByRecipeName('techreborn:cable_7');
-recipes.removeByRecipeName('techreborn:cable_8');
 recipes.remove(fairydust);
 recipes.remove(<techreborn:industrial_blast_furnace>);
 furnace.remove(<thermalfoundation:rockwool:7>, <thermalfoundation:material:864>);
@@ -62,7 +53,40 @@ recipes.remove(<actuallyadditions:item_misc:7>);
 recipes.remove(<actuallyadditions:item_misc:8>);
 recipes.remove(<actuallyadditions:block_misc:9>);
 recipes.remove(<actuallyadditions:block_coal_generator>);
-recipes.removeByRecipeName("immersiveengineering:stone_decoration/coke_brick");
-recipes.removeByRecipeName("immersiveengineering:stone_decoration/blast_brick");
-recipes.removeByRecipeName("immersiveengineering:sheetmetal/iron_sheetmetal");
 recipes.remove(<immersiveengineering:metal_device1:2>);
+
+var recipeToRemove = [
+  "thermalfoundation:clay_ball", 
+  "enderio:tweak_wood_hopper",
+  "appliedenergistics2:tools/network_memory_card",
+  "appliedenergistics2:tools/network_biometric_card",
+  "appliedenergistics2:network/parts/tunnels_me",
+  "thermalexpansion:satchel_1",
+  "techreborn:cable_6",
+  "techreborn:cable_7",
+  "techreborn:cable_8",
+  "immersiveengineering:stone_decoration/coke_brick",
+  "immersiveengineering:stone_decoration/blast_brick",
+  "immersiveengineering:sheetmetal/iron_sheetmetal",
+  "immersiveengineering:material/plate_uranium",
+  "immersiveengineering:material/plate_steel",
+  "immersiveengineering:material/plate_silver",
+  "immersiveengineering:material/plate_copper",
+  "immersiveengineering:material/plate_aluminum",
+  "immersiveengineering:material/plate_nickel",
+  "immersiveengineering:material/plate_lead",
+  "immersiveengineering:material/plate_iron",
+  "immersiveengineering:material/plate_gold",
+  "immersiveengineering:material/plate_electrum",
+  "immersiveengineering:material/plate_constantan",
+  "immersiveengineering:material/hammercrushing_galena",
+  "immersiveengineering:material/hammercrushing_bauxite",
+  "immersiveengineering:material/hammercrushing_pyrite",
+  "immersiveengineering:material/hammercrushing_sphalerite",
+  "immersiveengineering:material/hammercrushing_sodalite",
+  "immersiveengineering:stone_decoration_insulating_glass"
+] as string[];
+
+for recipe_ in recipeToRemove {
+  recipes.removeByRecipeName(recipe_);
+}

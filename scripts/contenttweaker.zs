@@ -16,9 +16,6 @@ var dirt_dust = VanillaFactory.createItem("dirt_dust");
 dirt_dust.maxStackSize = 64;
 dirt_dust.register();
 
-var molten_bauxite = VanillaFactory.createFluid("molten_bauxite", Color.fromHex("9E5C3D"));
-molten_bauxite.register();
-
 var alcohol_solution = VanillaFactory.createFluid("alcohol_solution", Color.fromHex("8F96F7"));
 alcohol_solution.register();
 

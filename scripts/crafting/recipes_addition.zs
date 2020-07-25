@@ -1,4 +1,7 @@
 #priority 10
+
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
 /*
   Crafting.zs By Mrthomas20121
 */
@@ -19,7 +22,7 @@ var copperGear = <tfctech:metal/copper_gear>;
 var machineChassis = <nuclearcraft:part:10>;
 var steel = <tfc:metal/ingot/steel>;
 var lead = <tfc:metal/ingot/lead>;
-var toughAlloy = <nuclearcraft:alloy:1>;
+var toughAlloy = <ore:ingotTough>;
 var clay = <ore:itemClay>;
 var slag = <ore:itemSlag>;
 var dirt = <ore:dirt>;
@@ -43,6 +46,7 @@ var toolforge = <tconstruct:toolforge>.withTag({textureBlock: {id: "thermalfound
 var compactor = <thermalexpansion:machine:5>.withTag({RSControl: 0 as byte, Facing: 3 as byte, Energy: 0, SideCache: [1, 1, 2, 2, 2, 2] as byte[] as byte[], Level: 0 as byte});
 var pulverizer = <thermalexpansion:machine:1>.withTag({RSControl: 0 as byte, Facing: 3 as byte, Energy: 0, SideCache: [3, 1, 2, 2, 2, 2] as byte[] as byte[], Level: 0 as byte});
 var redstoneDust = <ore:dustRedstone>;
+
 
 // cell frame recipe
 recipes.addShaped("thermalexpansion/energy_cell_frame", cellframe, [
@@ -217,6 +221,12 @@ recipes.addShaped('ie/metal_devices/dynamo', <immersiveengineering:metal_device1
   [null, <ore:plateWroughtIron>, null],
   [<tfc:metal/ingot/red_alloy>, <immersiveengineering:metal_decoration0>, <tfc:metal/ingot/red_alloy>],
   [<ore:ingotWroughtIron>, <ore:ingotWroughtIron>, <ore:ingotWroughtIron>]
+]);
+
+recipes.addShaped('ie/decoration/insulating_glass', <immersiveengineering:stone_decoration:8>*2, [
+  [null, <ore:blockGlass>, null],
+  [<tfc:metal/dust/wrought_iron>, <tfc:powder/malachite>, <tfc:metal/dust/wrought_iron>],
+  [null, <ore:blockGlass>, null]
 ]);
 
 

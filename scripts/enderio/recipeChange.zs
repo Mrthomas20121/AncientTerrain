@@ -1,8 +1,5 @@
 // remove ender io conduit binder recipe
 recipes.remove(<enderio:item_material:22>);
-furnace.remove(<enderio:item_material:4>);
-
-furnace.addRecipe(<enderio:item_material:22>, <tconstruct:soil>);
 
 // gears
 recipes.remove(<ore:gearWood>);

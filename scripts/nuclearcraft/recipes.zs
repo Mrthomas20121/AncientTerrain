@@ -34,30 +34,6 @@ var carbon_dioxide = <liquid:carbon_dioxide>;
 var boric_acid = <liquid:boric_acid>;
 var methanol = <liquid:methanol>;
 
-// infuser recipes
-
-// raw hide
-infuser.addRecipe([<tfc:hide/raw/small>, limewater*300, <tfc:hide/soaked/small>, 5.0, 1.0, 3.0]);
-infuser.addRecipe([<tfc:hide/raw/medium>, limewater*400, <tfc:hide/soaked/medium>, 6.0, 2.0, 3.0]);
-infuser.addRecipe([<tfc:hide/raw/large>, limewater*500, <tfc:hide/soaked/large>, 7.0, 3.0, 3.0]);
-
-// scraped hide
-infuser.addRecipe([<tfc:hide/scraped/small>, water*300, <tfc:hide/prepared/small>, 5.0, 1.0, 3.0]);
-infuser.addRecipe([<tfc:hide/scraped/medium>, water*400, <tfc:hide/prepared/medium>, 6.0, 2.0, 3.0]);
-infuser.addRecipe([<tfc:hide/scraped/large>, water*500, <tfc:hide/prepared/large>, 7.0, 3.0, 3.0]);
-
-// prepared hide
-infuser.addRecipe([<tfc:hide/prepared/small>, tannin*300, leather, 5.0, 1.0, 3.0]);
-infuser.addRecipe([<tfc:hide/prepared/medium>, tannin*400, leather*2, 6.0, 2.0, 3.0]);
-infuser.addRecipe([<tfc:hide/prepared/large>, tannin*500, leather*3, 7.0, 3.0, 3.0]);
-
-
-// tfctech rubber mix
-infuser.addRecipe([agent, <liquid:latex>*300, <tfctech:latex/rubber_mix>*6, 4.0, 3.0, 4.4]);
-
-// mortar
-infuser.addRecipe([<ore:sand>, limewater*100, <tfc:mortar>*16, 4.0, 1.0, 5.0]);
-
 // dried brick to bricks
 infuser.addRecipe([<tconstruct:dried_clay:1>, water*250, <minecraft:brick_block>, 3.2, 1.0, 5.2]);
 
@@ -68,38 +44,12 @@ infuser.removeRecipeWithOutput([<thermalfoundation:material:165>]);
 infuser.removeRecipeWithOutput([<thermalfoundation:material:102>]);
 infuser.removeRecipeWithOutput([<thermalfoundation:material:101>]);
 
-// dissolver recipes
-// limewater
-dissolver.addRecipe([<tfc:powder/flux>, water*500, limewater*500, 1.0, 4.0, 0.0]);
-
-// rum
-dissolver.addRecipe([<minecraft:sugar>, water*500, rum*500, 7.0, 3.0, 3.0]);
-// Beer
-dissolver.addRecipe([<tfc:food/barley_flour>, water*500, beer*500, 7.0, 3.0, 3.0]);
-// Whiskey
-dissolver.addRecipe([<tfc:food/wheat_flour>, water*500, <liquid:whiskey>*500, 7.0, 3.0, 3.0]);
-// rye Whiskey
-dissolver.addRecipe([<tfc:food/rye_flour>, water*500, <liquid:rye_whiskey>*500, 7.0, 3.0, 3.0]);
-// corn whiskey
-dissolver.addRecipe([<tfc:food/rye_flour>, water*500, <liquid:corn_whiskey>*500, 7.0, 3.0, 3.0]);
-// sake
-dissolver.addRecipe([<tfc:food/rice_flour>, water*500, <liquid:sake>*500, 7.0, 3.0, 3.0]);
-
-var liquids = [beer*250, rum*250, <liquid:whiskey>*250, <liquid:rye_whiskey>*250, <liquid:corn_whiskey>*250, <liquid:sake>*250, <liquid:vodka>*250, <liquid:cider>*250] as ILiquidStack[];
-
-for l in liquids {
-  dissolver.addRecipe([<ore:categoryFruit>, l, <liquid:vinegar>*250, 7.0, 3.0, 3.0]);
-}
-
 // alchohol solution
 chemical_reactor.addRecipe([<liquid:sic_vapor>*144, rum*1000, <liquid:alcohol_solution>*1000, water*200, 1.0, 4.0, 1.0]);
 chemical_reactor.addRecipe([<liquid:sic_vapor>*144, beer*1000, <liquid:alcohol_solution>*1000, water*200, 1.0, 4.0, 1.0]);
 chemical_reactor.addRecipe([<liquid:sic_vapor>*144, <liquid:whiskey>*1000, <liquid:alcohol_solution>*1000, water*200, 1.0, 4.0, 1.0]);
 chemical_reactor.addRecipe([<liquid:sic_vapor>*144, <liquid:rye_whiskey>*1000, <liquid:alcohol_solution>*1000, water*200, 1.0, 4.0, 1.0]);
 chemical_reactor.addRecipe([<liquid:sic_vapor>*144, <liquid:corn_whiskey>*1000, <liquid:alcohol_solution>*1000, water*200, 1.0, 4.0, 1.0]);
-
-// tannin
-dissolver.addRecipe([<ore:logWoodTannin>, water*1000, tannin*10000, 2.0, 4.0, 0.0]);
 
 // Silicon carbide vapor
 dissolver.addRecipe([<nuclearcraft:alloy:13>, <liquid:brine>*100, <liquid:sic_vapor>*100, 7.0, 5.0, 5.0]);
