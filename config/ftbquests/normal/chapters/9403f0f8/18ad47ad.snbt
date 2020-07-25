@@ -1,17 +1,17 @@
 {
-	title: "Native Copper",
-	x: -9.5d,
-	y: -6.0d,
+	title: "Native Osmium",
+	x: -6.5d,
+	y: -3.0d,
 	dependencies: [
-		"32a5167f"
+		"2162ce05"
 	],
 	tasks: [{
-		uid: "1e318e25",
+		uid: "d15fe367",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "mineralCopperNative",
+					data: "mineralOsmiumNative",
 					id: "ore"
 				}
 			},

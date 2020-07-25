@@ -1,17 +1,17 @@
 {
-	title: "Native Copper",
+	title: "Sphalerite",
 	x: -9.5d,
-	y: -6.0d,
+	y: -4.0d,
 	dependencies: [
-		"32a5167f"
+		"2c96aa37"
 	],
 	tasks: [{
-		uid: "1e318e25",
+		uid: "980cf8d5",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "mineralCopperNative",
+					data: "mineralSphalerite",
 					id: "ore"
 				}
 			},

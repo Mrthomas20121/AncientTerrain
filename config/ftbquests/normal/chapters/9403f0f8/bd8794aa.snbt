@@ -1,0 +1,17 @@
+{
+	x: -8.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "bcadb973",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/bauxite"
+		}]
+	}]
+}

@@ -6,12 +6,12 @@
 		"3ca78fa8"
 	],
 	tasks: [{
-		uid: "9c96b087",
+		uid: "8f217e32",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "oreMalachite",
+					data: "mineralMalachite",
 					id: "ore"
 				}
 			},

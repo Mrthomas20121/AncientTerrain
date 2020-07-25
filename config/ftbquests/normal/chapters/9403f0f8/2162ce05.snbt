@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "bcca094a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/native_osmium"
+		}]
+	}]
+}

@@ -1,17 +1,17 @@
 {
-	title: "Native Copper",
-	x: -9.5d,
-	y: -6.0d,
+	title: "Native Ardite",
+	x: -6.5d,
+	y: -4.0d,
 	dependencies: [
-		"32a5167f"
+		"f15ec274"
 	],
 	tasks: [{
-		uid: "1e318e25",
+		uid: "2c498d7e",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "mineralCopperNative",
+					data: "mineralArditeNative",
 					id: "ore"
 				}
 			},

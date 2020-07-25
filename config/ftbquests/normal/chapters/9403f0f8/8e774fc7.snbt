@@ -6,12 +6,12 @@
 		"ecfa3fa0"
 	],
 	tasks: [{
-		uid: "ad824d41",
+		uid: "ceb4e371",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "oreTetrahedrite",
+					data: "mineralTetrahedrite",
 					id: "ore"
 				}
 			},

@@ -1,17 +1,17 @@
 {
-	title: "Native Copper",
+	title: "Bauxite",
 	x: -9.5d,
-	y: -6.0d,
+	y: -3.0d,
 	dependencies: [
-		"32a5167f"
+		"bd8794aa"
 	],
 	tasks: [{
-		uid: "1e318e25",
+		uid: "11271dad",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "mineralCopperNative",
+					data: "mineralBauxite",
 					id: "ore"
 				}
 			},

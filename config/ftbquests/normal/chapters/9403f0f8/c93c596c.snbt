@@ -6,12 +6,12 @@
 		"2b7ac59b"
 	],
 	tasks: [{
-		uid: "076ca9ae",
+		uid: "6dcf49db",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "orePlatinumNative",
+					data: "mineralPlatinumNative",
 					id: "ore"
 				}
 			},

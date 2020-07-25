@@ -1864,19 +1864,8 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Molten Crystalline Alloy
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Crystalline Pink Slime
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Dark Steel
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Beryllium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Beryllium Copper
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Boron
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Ferroboron
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Hsla Steel
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Lithium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Magnesium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Magnesium Diboride
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Manganese
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Thorium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Tough
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Uranium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Zircaloy
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Double Zirconium
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Electrical Steel
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten End Steel
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Energetic Alloy
@@ -6597,19 +6586,8 @@ appliedenergistics2:facade:0, Cable Facade - Block of Black Bronze
 appliedenergistics2:facade:0, Cable Facade - Block of Black Steel
 appliedenergistics2:facade:0, Cable Facade - Block of Blue Steel
 appliedenergistics2:facade:0, Cable Facade - Block of Double Beryllium
-appliedenergistics2:facade:0, Cable Facade - Block of Double Beryllium Copper
 appliedenergistics2:facade:0, Cable Facade - Block of Double Boron
-appliedenergistics2:facade:0, Cable Facade - Block of Double Ferroboron
 appliedenergistics2:facade:0, Cable Facade - Block of Double Hsla Steel
-appliedenergistics2:facade:0, Cable Facade - Block of Double Lithium
-appliedenergistics2:facade:0, Cable Facade - Block of Double Magnesium
-appliedenergistics2:facade:0, Cable Facade - Block of Double Magnesium Diboride
-appliedenergistics2:facade:0, Cable Facade - Block of Double Manganese
-appliedenergistics2:facade:0, Cable Facade - Block of Double Thorium
-appliedenergistics2:facade:0, Cable Facade - Block of Double Tough
-appliedenergistics2:facade:0, Cable Facade - Block of Double Uranium
-appliedenergistics2:facade:0, Cable Facade - Block of Double Zircaloy
-appliedenergistics2:facade:0, Cable Facade - Block of Double Zirconium
 appliedenergistics2:facade:0, Cable Facade - Block of Ferroboron
 appliedenergistics2:facade:0, Cable Facade - Block of Hard Carbon
 appliedenergistics2:facade:0, Cable Facade - Block of HOP Graphite
@@ -8072,35 +8050,35 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Prospector Pickaxe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Prospector Pickaxe Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -9600,64 +9578,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Prospector Pickaxe Head Cast
-tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Prospector Pickaxe Head Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Prospector Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Prospector Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -11309,9 +11287,9 @@ tfc:wooden_bucket:0, Black Dye§r Bucket§r
 tfc:metal/bucket/blue_steel:0, Blue Steel Bucket
 tfc:metal/bucket/blue_steel:0, Lava§r Bucket§r
 tfc:metal/bucket/red_steel:0, Red Steel Bucket
-tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
-tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Fresh Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Hot Spring Water§r Bucket§r
+tfc:metal/bucket/red_steel:0, Salt Water§r Bucket§r
 tfc:metal/bucket/red_steel:0, Water§r Bucket§r
 tfc:rock/granite, Granite Rock
 tfc:rock/diorite, Diorite Rock
@@ -16403,6 +16381,7 @@ tfcthings:crown/platinum_tourmaline, Platinum Crown
 tfcthings:bear_trap, Bear Trap
 tfcthings:pigvil, Pigvil
 tfcthings:metal_support, Reinforced Support Beam
+tfcthings:snare, Snare
 tfcthings:mold/prospectors_hammer_head, Prospectors Hammer Head Mold
 tfc_tinker:propick_head:0, Wooden Prospector Pickaxe Head
 tfc_tinker:propick_head:0, Stone Prospector Pickaxe Head
@@ -17942,19 +17921,8 @@ jaopca:block_blockblackbronze, Block of %s
 jaopca:block_blockblacksteel, Block of %s
 jaopca:block_blockbluesteel, Block of %s
 jaopca:block_blockdoubleberyllium, Block of %s
-jaopca:block_blockdoubleberylliumcopper, Block of %s
 jaopca:block_blockdoubleboron, Block of %s
-jaopca:block_blockdoubleferroboron, Block of %s
 jaopca:block_blockdoublehslasteel, Block of %s
-jaopca:block_blockdoublelithium, Block of %s
-jaopca:block_blockdoublemagnesium, Block of %s
-jaopca:block_blockdoublemagnesiumdiboride, Block of %s
-jaopca:block_blockdoublemanganese, Block of %s
-jaopca:block_blockdoublethorium, Block of %s
-jaopca:block_blockdoubletough, Block of %s
-jaopca:block_blockdoubleuranium, Block of %s
-jaopca:block_blockdoublezircaloy, Block of %s
-jaopca:block_blockdoublezirconium, Block of %s
 jaopca:block_blockferroboron, Block of %s
 jaopca:block_blockhardcarbon, Block of %s
 jaopca:block_blockhopgraphite, Block of %s
@@ -17984,19 +17952,8 @@ jaopca:item_dustcrystallinealloy, %s Dust
 jaopca:item_dustcrystallinepinkslime, %s Dust
 jaopca:item_dustdarksteel, %s Dust
 jaopca:item_dustdoubleberyllium, %s Dust
-jaopca:item_dustdoubleberylliumcopper, %s Dust
 jaopca:item_dustdoubleboron, %s Dust
-jaopca:item_dustdoubleferroboron, %s Dust
 jaopca:item_dustdoublehslasteel, %s Dust
-jaopca:item_dustdoublelithium, %s Dust
-jaopca:item_dustdoublemagnesium, %s Dust
-jaopca:item_dustdoublemagnesiumdiboride, %s Dust
-jaopca:item_dustdoublemanganese, %s Dust
-jaopca:item_dustdoublethorium, %s Dust
-jaopca:item_dustdoubletough, %s Dust
-jaopca:item_dustdoubleuranium, %s Dust
-jaopca:item_dustdoublezircaloy, %s Dust
-jaopca:item_dustdoublezirconium, %s Dust
 jaopca:item_dustelectricalsteel, %s Dust
 jaopca:item_dustendsteel, %s Dust
 jaopca:item_dustenergeticalloy, %s Dust
@@ -18029,19 +17986,8 @@ jaopca:item_nuggetruby, %s Nugget
 jaopca:item_nuggetsapphire, %s Nugget
 jaopca:item_nuggetadvancedalloy, %s Nugget
 jaopca:item_nuggetdoubleberyllium, %s Nugget
-jaopca:item_nuggetdoubleberylliumcopper, %s Nugget
 jaopca:item_nuggetdoubleboron, %s Nugget
-jaopca:item_nuggetdoubleferroboron, %s Nugget
 jaopca:item_nuggetdoublehslasteel, %s Nugget
-jaopca:item_nuggetdoublelithium, %s Nugget
-jaopca:item_nuggetdoublemagnesium, %s Nugget
-jaopca:item_nuggetdoublemagnesiumdiboride, %s Nugget
-jaopca:item_nuggetdoublemanganese, %s Nugget
-jaopca:item_nuggetdoublethorium, %s Nugget
-jaopca:item_nuggetdoubletough, %s Nugget
-jaopca:item_nuggetdoubleuranium, %s Nugget
-jaopca:item_nuggetdoublezircaloy, %s Nugget
-jaopca:item_nuggetdoublezirconium, %s Nugget
 jaopca:item_nuggethardcarbon, %s Nugget
 jaopca:item_nuggethopgraphite, %s Nugget
 jaopca:item_nuggetiridiumalloy, %s Nugget
@@ -18078,19 +18024,8 @@ jaopca:item_coincrystallinealloy, %s Coin
 jaopca:item_coincrystallinepinkslime, %s Coin
 jaopca:item_coindarksteel, %s Coin
 jaopca:item_coindoubleberyllium, %s Coin
-jaopca:item_coindoubleberylliumcopper, %s Coin
 jaopca:item_coindoubleboron, %s Coin
-jaopca:item_coindoubleferroboron, %s Coin
 jaopca:item_coindoublehslasteel, %s Coin
-jaopca:item_coindoublelithium, %s Coin
-jaopca:item_coindoublemagnesium, %s Coin
-jaopca:item_coindoublemagnesiumdiboride, %s Coin
-jaopca:item_coindoublemanganese, %s Coin
-jaopca:item_coindoublethorium, %s Coin
-jaopca:item_coindoubletough, %s Coin
-jaopca:item_coindoubleuranium, %s Coin
-jaopca:item_coindoublezircaloy, %s Coin
-jaopca:item_coindoublezirconium, %s Coin
 jaopca:item_coinelectricalsteel, %s Coin
 jaopca:item_coinendsteel, %s Coin
 jaopca:item_coinenergeticalloy, %s Coin
@@ -18147,19 +18082,8 @@ jaopca:item_gearcrystallinealloy, %s Gear
 jaopca:item_gearcrystallinepinkslime, %s Gear
 jaopca:item_geardarksteel, %s Gear
 jaopca:item_geardoubleberyllium, %s Gear
-jaopca:item_geardoubleberylliumcopper, %s Gear
 jaopca:item_geardoubleboron, %s Gear
-jaopca:item_geardoubleferroboron, %s Gear
 jaopca:item_geardoublehslasteel, %s Gear
-jaopca:item_geardoublelithium, %s Gear
-jaopca:item_geardoublemagnesium, %s Gear
-jaopca:item_geardoublemagnesiumdiboride, %s Gear
-jaopca:item_geardoublemanganese, %s Gear
-jaopca:item_geardoublethorium, %s Gear
-jaopca:item_geardoubletough, %s Gear
-jaopca:item_geardoubleuranium, %s Gear
-jaopca:item_geardoublezircaloy, %s Gear
-jaopca:item_geardoublezirconium, %s Gear
 jaopca:item_gearelectricalsteel, %s Gear
 jaopca:item_gearendsteel, %s Gear
 jaopca:item_gearenergeticalloy, %s Gear
@@ -18211,19 +18135,8 @@ jaopca:item_platecrystallinealloy, %s Plate
 jaopca:item_platecrystallinepinkslime, %s Plate
 jaopca:item_platedarksteel, %s Plate
 jaopca:item_platedoubleberyllium, %s Plate
-jaopca:item_platedoubleberylliumcopper, %s Plate
 jaopca:item_platedoubleboron, %s Plate
-jaopca:item_platedoubleferroboron, %s Plate
 jaopca:item_platedoublehslasteel, %s Plate
-jaopca:item_platedoublelithium, %s Plate
-jaopca:item_platedoublemagnesium, %s Plate
-jaopca:item_platedoublemagnesiumdiboride, %s Plate
-jaopca:item_platedoublemanganese, %s Plate
-jaopca:item_platedoublethorium, %s Plate
-jaopca:item_platedoubletough, %s Plate
-jaopca:item_platedoubleuranium, %s Plate
-jaopca:item_platedoublezircaloy, %s Plate
-jaopca:item_platedoublezirconium, %s Plate
 jaopca:item_plateelectricalsteel, %s Plate
 jaopca:item_plateendsteel, %s Plate
 jaopca:item_plateenergeticalloy, %s Plate
@@ -18278,19 +18191,8 @@ jaopca:item_stickcrystallinealloy, %s Rod
 jaopca:item_stickcrystallinepinkslime, %s Rod
 jaopca:item_stickdarksteel, %s Rod
 jaopca:item_stickdoubleberyllium, %s Rod
-jaopca:item_stickdoubleberylliumcopper, %s Rod
 jaopca:item_stickdoubleboron, %s Rod
-jaopca:item_stickdoubleferroboron, %s Rod
 jaopca:item_stickdoublehslasteel, %s Rod
-jaopca:item_stickdoublelithium, %s Rod
-jaopca:item_stickdoublemagnesium, %s Rod
-jaopca:item_stickdoublemagnesiumdiboride, %s Rod
-jaopca:item_stickdoublemanganese, %s Rod
-jaopca:item_stickdoublethorium, %s Rod
-jaopca:item_stickdoubletough, %s Rod
-jaopca:item_stickdoubleuranium, %s Rod
-jaopca:item_stickdoublezircaloy, %s Rod
-jaopca:item_stickdoublezirconium, %s Rod
 jaopca:item_stickelectricalsteel, %s Rod
 jaopca:item_stickendsteel, %s Rod
 jaopca:item_stickenergeticalloy, %s Rod
@@ -18300,6 +18202,7 @@ jaopca:item_stickhopgraphite, %s Rod
 jaopca:item_stickiridiumalloy, %s Rod
 jaopca:item_stickleadplatinum, %s Rod
 jaopca:item_sticklithiummanganesedioxide, %s Rod
+jaopca:item_sticklumium, %s Rod
 jaopca:item_stickmanganesedioxide, %s Rod
 jaopca:item_stickmelodicalloy, %s Rod
 jaopca:item_stickmixedmetal, %s Rod
@@ -18370,19 +18273,8 @@ jaopca:item_dusttinycrystallinealloy, Tiny Pile of %s Dust
 jaopca:item_dusttinycrystallinepinkslime, Tiny Pile of %s Dust
 jaopca:item_dusttinydarksteel, Tiny Pile of %s Dust
 jaopca:item_dusttinydoubleberyllium, Tiny Pile of %s Dust
-jaopca:item_dusttinydoubleberylliumcopper, Tiny Pile of %s Dust
 jaopca:item_dusttinydoubleboron, Tiny Pile of %s Dust
-jaopca:item_dusttinydoubleferroboron, Tiny Pile of %s Dust
 jaopca:item_dusttinydoublehslasteel, Tiny Pile of %s Dust
-jaopca:item_dusttinydoublelithium, Tiny Pile of %s Dust
-jaopca:item_dusttinydoublemagnesium, Tiny Pile of %s Dust
-jaopca:item_dusttinydoublemagnesiumdiboride, Tiny Pile of %s Dust
-jaopca:item_dusttinydoublemanganese, Tiny Pile of %s Dust
-jaopca:item_dusttinydoublethorium, Tiny Pile of %s Dust
-jaopca:item_dusttinydoubletough, Tiny Pile of %s Dust
-jaopca:item_dusttinydoubleuranium, Tiny Pile of %s Dust
-jaopca:item_dusttinydoublezircaloy, Tiny Pile of %s Dust
-jaopca:item_dusttinydoublezirconium, Tiny Pile of %s Dust
 jaopca:item_dusttinyelectricalsteel, Tiny Pile of %s Dust
 jaopca:item_dusttinyelectrum, Tiny Pile of %s Dust
 jaopca:item_dusttinyendsteel, Tiny Pile of %s Dust
@@ -18395,6 +18287,7 @@ jaopca:item_dusttinyinvar, Tiny Pile of %s Dust
 jaopca:item_dusttinyiridiumalloy, Tiny Pile of %s Dust
 jaopca:item_dusttinyleadplatinum, Tiny Pile of %s Dust
 jaopca:item_dusttinylithiummanganesedioxide, Tiny Pile of %s Dust
+jaopca:item_dusttinylumium, Tiny Pile of %s Dust
 jaopca:item_dusttinymagnesiumdiboride, Tiny Pile of %s Dust
 jaopca:item_dusttinymanganese, Tiny Pile of %s Dust
 jaopca:item_dusttinymanganesedioxide, Tiny Pile of %s Dust
@@ -18454,19 +18347,8 @@ jaopca:item_dustsmallcrystallinealloy, Small Pile of %s Dust
 jaopca:item_dustsmallcrystallinepinkslime, Small Pile of %s Dust
 jaopca:item_dustsmalldarksteel, Small Pile of %s Dust
 jaopca:item_dustsmalldoubleberyllium, Small Pile of %s Dust
-jaopca:item_dustsmalldoubleberylliumcopper, Small Pile of %s Dust
 jaopca:item_dustsmalldoubleboron, Small Pile of %s Dust
-jaopca:item_dustsmalldoubleferroboron, Small Pile of %s Dust
 jaopca:item_dustsmalldoublehslasteel, Small Pile of %s Dust
-jaopca:item_dustsmalldoublelithium, Small Pile of %s Dust
-jaopca:item_dustsmalldoublemagnesium, Small Pile of %s Dust
-jaopca:item_dustsmalldoublemagnesiumdiboride, Small Pile of %s Dust
-jaopca:item_dustsmalldoublemanganese, Small Pile of %s Dust
-jaopca:item_dustsmalldoublethorium, Small Pile of %s Dust
-jaopca:item_dustsmalldoubletough, Small Pile of %s Dust
-jaopca:item_dustsmalldoubleuranium, Small Pile of %s Dust
-jaopca:item_dustsmalldoublezircaloy, Small Pile of %s Dust
-jaopca:item_dustsmalldoublezirconium, Small Pile of %s Dust
 jaopca:item_dustsmallelectricalsteel, Small Pile of %s Dust
 jaopca:item_dustsmallendsteel, Small Pile of %s Dust
 jaopca:item_dustsmallenergeticalloy, Small Pile of %s Dust
@@ -18477,6 +18359,7 @@ jaopca:item_dustsmallhopgraphite, Small Pile of %s Dust
 jaopca:item_dustsmalliridiumalloy, Small Pile of %s Dust
 jaopca:item_dustsmallleadplatinum, Small Pile of %s Dust
 jaopca:item_dustsmalllithiummanganesedioxide, Small Pile of %s Dust
+jaopca:item_dustsmalllumium, Small Pile of %s Dust
 jaopca:item_dustsmallmagnesiumdiboride, Small Pile of %s Dust
 jaopca:item_dustsmallmanganesedioxide, Small Pile of %s Dust
 jaopca:item_dustsmallmanyullyn, Small Pile of %s Dust
@@ -18553,19 +18436,8 @@ jaopca:item_platedensecrystallinealloy, Dense %s Plate
 jaopca:item_platedensecrystallinepinkslime, Dense %s Plate
 jaopca:item_platedensedarksteel, Dense %s Plate
 jaopca:item_platedensedoubleberyllium, Dense %s Plate
-jaopca:item_platedensedoubleberylliumcopper, Dense %s Plate
 jaopca:item_platedensedoubleboron, Dense %s Plate
-jaopca:item_platedensedoubleferroboron, Dense %s Plate
 jaopca:item_platedensedoublehslasteel, Dense %s Plate
-jaopca:item_platedensedoublelithium, Dense %s Plate
-jaopca:item_platedensedoublemagnesium, Dense %s Plate
-jaopca:item_platedensedoublemagnesiumdiboride, Dense %s Plate
-jaopca:item_platedensedoublemanganese, Dense %s Plate
-jaopca:item_platedensedoublethorium, Dense %s Plate
-jaopca:item_platedensedoubletough, Dense %s Plate
-jaopca:item_platedensedoubleuranium, Dense %s Plate
-jaopca:item_platedensedoublezircaloy, Dense %s Plate
-jaopca:item_platedensedoublezirconium, Dense %s Plate
 jaopca:item_platedenseelectricalsteel, Dense %s Plate
 jaopca:item_platedenseelectrum, Dense %s Plate
 jaopca:item_platedenseendsteel, Dense %s Plate
@@ -18578,6 +18450,7 @@ jaopca:item_platedenseinvar, Dense %s Plate
 jaopca:item_platedenseiridiumalloy, Dense %s Plate
 jaopca:item_platedenseleadplatinum, Dense %s Plate
 jaopca:item_platedenselithiummanganesedioxide, Dense %s Plate
+jaopca:item_platedenselumium, Dense %s Plate
 jaopca:item_platedensemagnesiumdiboride, Dense %s Plate
 jaopca:item_platedensemanganese, Dense %s Plate
 jaopca:item_platedensemanganesedioxide, Dense %s Plate
@@ -18670,19 +18543,8 @@ jaopca:fluid_moltencrystallinealloy, tile.jaopca.molten.name
 jaopca:fluid_moltencrystallinepinkslime, tile.jaopca.molten.name
 jaopca:fluid_moltendarksteel, tile.jaopca.molten.name
 jaopca:fluid_moltendoubleberyllium, tile.jaopca.molten.name
-jaopca:fluid_moltendoubleberylliumcopper, tile.jaopca.molten.name
 jaopca:fluid_moltendoubleboron, tile.jaopca.molten.name
-jaopca:fluid_moltendoubleferroboron, tile.jaopca.molten.name
 jaopca:fluid_moltendoublehslasteel, tile.jaopca.molten.name
-jaopca:fluid_moltendoublelithium, tile.jaopca.molten.name
-jaopca:fluid_moltendoublemagnesium, tile.jaopca.molten.name
-jaopca:fluid_moltendoublemagnesiumdiboride, tile.jaopca.molten.name
-jaopca:fluid_moltendoublemanganese, tile.jaopca.molten.name
-jaopca:fluid_moltendoublethorium, tile.jaopca.molten.name
-jaopca:fluid_moltendoubletough, tile.jaopca.molten.name
-jaopca:fluid_moltendoubleuranium, tile.jaopca.molten.name
-jaopca:fluid_moltendoublezircaloy, tile.jaopca.molten.name
-jaopca:fluid_moltendoublezirconium, tile.jaopca.molten.name
 jaopca:fluid_moltenelectricalsteel, tile.jaopca.molten.name
 jaopca:fluid_moltenendsteel, tile.jaopca.molten.name
 jaopca:fluid_moltenenergeticalloy, tile.jaopca.molten.name

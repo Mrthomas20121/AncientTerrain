@@ -76,6 +76,7 @@
 	rewards: [{
 		uid: "d4cd236c",
 		type: "item",
+		auto: "enabled",
 		item: "tfc:ore/pitchblende",
 		count: 2
 	}]

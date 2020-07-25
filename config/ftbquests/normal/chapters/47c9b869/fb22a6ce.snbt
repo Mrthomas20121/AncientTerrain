@@ -23,5 +23,11 @@
 			id: "itemfilters:filter"
 		}],
 		count: 12L
+	}],
+	rewards: [{
+		uid: "45ecfbde",
+		type: "xp",
+		auto: "enabled",
+		xp: 100
 	}]
 }

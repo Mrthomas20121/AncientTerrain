@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "c7236506",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "tfc:ore/small/native_ardite"
+		}]
+	}]
+}

@@ -21,5 +21,20 @@
 			id: "minecraft:stick"
 		}],
 		count: 5L
+	}],
+	rewards: [{
+		uid: "73b12323",
+		type: "item",
+		auto: "enabled",
+		item: {
+			ForgeCaps: {
+				"tfc:item_size": {
+					heat: 0.0f,
+					ticks: -1L
+				}
+			},
+			id: "minecraft:stick"
+		},
+		count: 2
 	}]
 }

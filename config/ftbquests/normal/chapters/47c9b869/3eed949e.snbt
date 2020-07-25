@@ -26,6 +26,7 @@
 	rewards: [{
 		uid: "2c71236f",
 		type: "item",
+		auto: "enabled",
 		item: {
 			ForgeCaps: {
 				"tfc:item_heat": {
@@ -40,6 +41,7 @@
 	{
 		uid: "094e6869",
 		type: "item",
+		auto: "enabled",
 		item: "tfc:ore/lapis_lazuli",
 		count: 3
 	}]
